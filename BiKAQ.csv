@@ -1,248 +1,248 @@
 "Ort","Bundesland","Bezeichnung","Lat","Lon","Score","Ø Höchst&shy;temperatur","Ø Sonnen&shy;stunden pro Tag","Tage ohne Niederschlag","Gesamtnieder&shy;schlag in mm"
-"Hamburg","Hamburg","Hamburg",53.550341,10.000654,4.9,1.15,1.62175972222222,0,3.4
-"Berlin","Berlin","Berlin",52.510885,13.3989367,5.4,1,2.10058402777778,0,7.46
-"Warnemünde","Mecklenburg-Vorpommern","Warnemünde, Mecklenburg-Vorpommern",54.1779039,12.0812875,5.9,1.2,2.42013055555556,1,3.9
-"Sankt Peter-Ording","Schleswig-Holstein","Sankt Peter-Ording, Schleswig-Holstein",54.3146777135231,8.60410826459091,4.55,3.95,2.39402986111111,1,6.2
-"Timmendorfer Strand","Schleswig-Holstein","Timmendorfer Strand, Schleswig-Holstein",53.9981853,10.7799016,6.5,0.5,3.8112,3,0.1
-"Norderney","Niedersachsen","Norderney, Niedersachsen",53.7056126,7.1438175,4,4.35,4.55924444444444,0,13.07
-"Kühlungsborn","Mecklenburg-Vorpommern","Kühlungsborn, Mecklenburg-Vorpommern",54.1483764,11.7441876,5.225,1.625,2.79410138888889,0,3.5
-"Dresden","Sachsen","Dresden, Sachsen",51.0493286,13.7381437,6.55,1.025,4.82963402777778,2,1.6
-"München","Bayern","München, Bayern",48.1371079,11.5753822,6,-1.225,5.35495694444444,3,2.6
-"Köln","Nordrhein-Westfalen","Köln, Nordrhein-Westfalen",50.938361,6.959974,5.85,1.425,4.05004236111111,0,8
-"Binz (Rügen)","Mecklenburg-Vorpommern","Binz (Rügen), Mecklenburg-Vorpommern",54.4010291,13.6076477,5.55,0.95,1.81411875,1,5.7
-"Cuxhaven","Niedersachsen","Cuxhaven, Niedersachsen",53.86878,8.698286,4.1,3.175,1.32022152777778,0,6.6
-"Leipzig","Sachsen","Leipzig, Sachsen",51.3406321,12.3747329,6.4,0.95,4.04411319444444,1,1.7
-"Frankfurt am Main","Hessen","Frankfurt am Main, Hessen",50.1106444,8.6820917,7.15,0.825,5.63123333333333,3,0.9
-"Grömitz","Schleswig-Holstein","Grömitz, Schleswig-Holstein",54.1441095,10.9588499,6.2,0.6,2.83021458333333,2,1.6
-"Büsum","Schleswig-Holstein","Büsum, Schleswig-Holstein",54.1298489,8.8586989,4.275,3.525,1.68878819444444,1,9.6
-"Borkum","Niedersachsen","Borkum, Niedersachsen",53.5862669,6.6917449,3.775,4.45,3.43207083333333,0,11.84
-"Konstanz","Baden-Württemberg","Konstanz, Baden-Württemberg",47.659216,9.1750718,6.75,-0.3,5.41649375,4,0
-"Boltenhagen","Mecklenburg-Vorpommern","Boltenhagen, Mecklenburg-Vorpommern",53.9864246,11.205923,6.6,0.9,3.93738958333333,2,1.2
-"Garmisch-Partenkirchen","Bayern","Garmisch-Partenkirchen, Bayern",47.4923741,11.0962815,5.45,-0.925,4.80526944444444,2,4.2
-"Lübeck","Schleswig-Holstein","Lübeck, Schleswig-Holstein",53.866444,10.684738,6.4,0.5,3.58945625,2,0.4
-"Waren (Müritz)","Mecklenburg-Vorpommern","Waren (Müritz), Mecklenburg-Vorpommern",53.5156249,12.6850606,6.25,0.45,4.03470347222222,2,0.7
-"Berchtesgaden","Bayern","Berchtesgaden, Bayern",47.6330221,13.0020051,4.95,-2.4,5.07392777777778,2,3.6
-"Heringsdorf (Usedom)","Mecklenburg-Vorpommern","Heringsdorf (Usedom), Mecklenburg-Vorpommern",53.9583117845254,14.1556338711397,5.65,0.775,1.49765138888889,2,0.6
-"Düsseldorf","Nordrhein-Westfalen","Düsseldorf, Nordrhein-Westfalen",51.2254018,6.7763137,5.3,1,4.90897708333333,0,14.2
-"Rostock","Mecklenburg-Vorpommern","Rostock, Mecklenburg-Vorpommern",54.0886707,12.1400211,5.95,0.9,2.63802638888889,1,3.8
-"Lüneburg","Niedersachsen","Lüneburg, Niedersachsen",53.248706,10.407855,6.05,1.175,2.55825486111111,0,8.35
-"Scharbeutz","Schleswig-Holstein","Scharbeutz, Schleswig-Holstein",54.026634,10.7559481,6.5,0.5,3.8112,3,0.1
-"Travemünde","Schleswig-Holstein","Travemünde, Schleswig-Holstein",53.9563395480557,10.8660828563105,6.35,0.7,3.91085069444444,2,0.8
-"Hannover","Niedersachsen","Hannover, Niedersachsen",52.3744779,9.7385532,5.75,1.575,1.90935625,0,6.66
-"Oberstdorf","Bayern","Oberstdorf, Bayern",47.4104347,10.2774409,3.95,-2.65,4.57949375,2,11.5
-"Stuttgart","Baden-Württemberg","Stuttgart, Baden-Württemberg",48.7784485,9.1800132,7,0.375,6.31207847222222,3,2
-"Münster","Nordrhein-Westfalen","Münster, Nordrhein-Westfalen",51.9625101,7.6251879,5.375,0.25,4.72445069444444,3,2.65
-"Potsdam","Brandenburg","Potsdam, Brandenburg",52.4009309,13.0591397,5.65,1.2,2.63857083333333,0,6.7
-"Wismar","Mecklenburg-Vorpommern","Wismar, Mecklenburg-Vorpommern",53.8909832,11.4647932,6.35,0.6,4.15644861111111,2,0.4
-"Norddeich","Niedersachsen","Norddeich, Niedersachsen",53.6209520645092,7.16051439568982,3.95,2.7,3.74413263888889,0,6.7
-"Stralsund","Mecklenburg-Vorpommern","Stralsund, Mecklenburg-Vorpommern",54.3096314,13.0820846,5.85,0.975,2.15926805555556,2,3.1
-"Koblenz","Rheinland-Pfalz","Koblenz, Rheinland-Pfalz",50.3533278,7.5943951,5.9,1.7,1.97365347222222,0,9.03
-"Lindau","Bayern","Lindau, Bayern",47.550753,9.6926624,5.8,0.4,4.69828402777778,2,2.5
-"Heidelberg","Baden-Württemberg","Heidelberg, Baden-Württemberg",49.4093582,8.694724,7,0.8,6.219225,2,2.2
-"Zingst","Mecklenburg-Vorpommern","Zingst, Mecklenburg-Vorpommern",54.4387302,12.6821366,5.7,1.625,2.25633472222222,1,5
-"Erfurt","Thüringen","Erfurt, Thüringen",50.9777974,11.0287364,6.95,0.45,5.26332638888889,2,0.9
-"Juist","Niedersachsen","Juist, Niedersachsen",53.6784483,6.9956079,2.75,2.7,3.74413263888889,0,6.55
-"Greetsiel","Niedersachsen","Greetsiel, Niedersachsen",53.4999753,7.0906967,4,2.225,3.46078541666667,0,11.34
-"Heiligenhafen","Schleswig-Holstein","Heiligenhafen, Schleswig-Holstein",54.3717445,10.9809235,6.55,1.45,2.66974513888889,2,3.2
-"Füssen","Bayern","Füssen, Bayern",47.5675998,10.6993217,4.65,-2.625,4.55430833333333,2,6.5
-"Bremen","Bremen","Bremen",53.0758196,8.8071646,5.85,1.6,1.33296875,0,8.76
-"Kiel","Schleswig-Holstein","Kiel, Schleswig-Holstein",54.3227085,10.135555,6.4,0.45,2.86505833333333,3,0.3
-"Bamberg","Bayern","Bamberg, Bayern",49.8916044,10.8868478,5.95,-1.225,3.7594625,2,0.3
-"Freiburg im Breisgau","Baden-Württemberg","Freiburg im Breisgau, Baden-Württemberg",47.9960901,7.8494005,6.85,-0.675,5.43510208333333,4,0
-"Cochem (Mosel)","Rheinland-Pfalz","Cochem (Mosel), Rheinland-Pfalz",50.1483916,7.1663195,5.9,1.425,1.10571736111111,1,6.5
-"Trier","Rheinland-Pfalz","Trier, Rheinland-Pfalz",49.7596208,6.6441878,5.575,0.825,0.618476388888889,1,4.43
-"Ahrenshoop","Mecklenburg-Vorpommern","Ahrenshoop, Mecklenburg-Vorpommern",54.3789509,12.419192,4.75,1.925,2.35531875,1,4.1
-"Nürnberg","Bayern","Nürnberg, Bayern",49.453872,11.077298,6.25,-1.275,4.29336388888889,2,0.7
-"Wernigerode (Harz)","Sachsen-Anhalt","Wernigerode (Harz), Sachsen-Anhalt",51.8344172,10.7862526,3.95,0.025,4.21672152777778,0,5
-"Bremerhaven","Bremen","Bremerhaven",53.5505392,8.5851945,4.05,2.1,1.11537638888889,0,11.4
-"Görlitz","Sachsen","Görlitz, Sachsen",51.1532076746077,14.9869867830968,5.85,-0.175,3.35822222222222,1,4.3
-"Zinnowitz","Mecklenburg-Vorpommern","Zinnowitz, Mecklenburg-Vorpommern",54.076647,13.9089471,5.9,1.025,1.73332083333333,1,1.8
-"Meersburg","Baden-Württemberg","Meersburg, Baden-Württemberg",47.6955538,9.2719656,6.7,-0.225,5.41653125,3,0.1
-"Weimar","Thüringen","Weimar, Thüringen",50.9793301,11.3297921,6.95,0.675,5.04147013888889,4,0
-"Würzburg","Bayern","Würzburg, Bayern",49.7933506809822,9.93146899481068,7.15,-0.05,6.21318819444444,3,0.7
-"Schwerin","Mecklenburg-Vorpommern","Schwerin, Mecklenburg-Vorpommern",53.6288297,11.4148038,6.6,0.725,3.80077708333333,1,0.66
-"Westerland (Sylt)","Schleswig-Holstein","Westerland (Sylt), Schleswig-Holstein",54.9064856,8.3071734,6.4,2.95,5.27927916666667,1,2.2
-"Carolinensiel","Niedersachsen","Carolinensiel, Niedersachsen",53.6916344,7.8028095,5.3,2.875,0.8422375,0,8
-"Graal-Müritz","Mecklenburg-Vorpommern","Graal-Müritz, Mecklenburg-Vorpommern",54.2552653,12.2517155,4.25,1.9,2.24584444444444,0,11.16
-"Ahlbeck","Mecklenburg-Vorpommern","Ahlbeck, Mecklenburg-Vorpommern",53.940567335526,14.1870203187083,5.65,0.825,1.48087361111111,2,0.6
-"Schönau am Königssee","Bayern","Schönau am Königssee, Bayern",47.6054955,12.9846526,5,-1.6,3.78025069444444,2,5.3
-"Bad Schandau","Sachsen","Bad Schandau, Sachsen",50.918091,14.1534018,6.4,0.275,4.76527222222222,1,1
-"Bad Zwischenahn","Niedersachsen","Bad Zwischenahn, Niedersachsen",53.1801364574887,8.00840837233071,6,1.85,2.2228875,0,7.1
-"Regensburg","Bayern","Regensburg, Bayern",49.0195333,12.0974869,6.3,-1.4,4.41695972222222,3,0.1
-"Titisee-Neustadt","Baden-Württemberg","Titisee-Neustadt, Baden-Württemberg",47.9001945340631,8.15217052598511,5.9,-2.775,6.77030208333333,3,1.7
-"Bernkastel-Kues","Rheinland-Pfalz","Bernkastel-Kues, Rheinland-Pfalz",49.9157398,7.0708181,5.65,0.975,1.044825,1,6.58
-"Wilhelmshaven","Niedersachsen","Wilhelmshaven, Niedersachsen",53.5278793,8.106301,5.55,2.1,0.964754861111111,1,6.4
-"Husum","Schleswig-Holstein","Husum, Schleswig-Holstein",54.4854137,9.0537941,6.3,2.35,2.68944166666667,1,4.8
-"Dortmund","Nordrhein-Westfalen","Dortmund, Nordrhein-Westfalen",51.5142273,7.4652789,5.1,0.475,3.99030069444444,0,8.3
-"Neuharlingersiel","Niedersachsen","Neuharlingersiel, Niedersachsen",53.6992698,7.7035695,5.35,3.025,0.817106944444445,0,10.5
-"Kassel","Hessen","Kassel, Hessen",51.3157833,9.4978479,5.85,0.85,3.77318472222222,1,5.9
-"Friedrichshafen","Baden-Württemberg","Friedrichshafen, Baden-Württemberg",47.6500279,9.4800858,6.75,-0.4,5.43105902777778,4,0
-"Mainz","Rheinland-Pfalz","Mainz, Rheinland-Pfalz",49.9995205,8.2736253,7.15,1.225,6.12312222222222,3,2
-"Helgoland","Schleswig-Holstein","Helgoland, Schleswig-Holstein",54.1820608,7.8876314,1,5.025,1.8227,0,20.2
-"Mannheim","Baden-Württemberg","Mannheim, Baden-Württemberg",49.4892913,8.4673098,7.15,1.275,6.36763055555556,3,2.3
-"Überlingen","Baden-Württemberg","Überlingen, Baden-Württemberg",47.7664456,9.1605106,6.75,-0.275,5.44674722222222,4,0
-"Bansin","Mecklenburg-Vorpommern","Bansin, Mecklenburg-Vorpommern",53.9690358,14.1391435,5.65,0.725,1.49765138888889,2,0.6
-"Bensersiel","Niedersachsen","Bensersiel, Niedersachsen",53.6742688,7.574467,3.6,2.1,4.70662638888889,0,12.74
-"Bonn","Nordrhein-Westfalen","Bonn, Nordrhein-Westfalen",50.7352621,7.1024635,6.45,1.5,3.28648888888889,1,3.2
-"Karlsruhe","Baden-Württemberg","Karlsruhe, Baden-Württemberg",49.0068705,8.4034195,7,0.175,5.85863611111111,3,2.3
-"Aachen","Nordrhein-Westfalen","Aachen, Nordrhein-Westfalen",50.776351,6.083862,4.025,0.475,2.16485972222222,0,13.63
-"Passau","Bayern","Passau, Bayern",48.5748229,13.4609744,4.725,-0.975,3.99613819444444,1,3
-"Flensburg","Schleswig-Holstein","Flensburg, Schleswig-Holstein",54.7833021,9.4333264,6.3,0.375,3.81895763888889,3,3.1
-"Wiesbaden","Hessen","Wiesbaden, Hessen",50.0820384,8.2416556,7.05,0.725,5.8599,3,2.1
-"Quedlinburg","Sachsen-Anhalt","Quedlinburg, Sachsen-Anhalt",51.7855428,11.1519933,6.4,1.15,3.76537013888889,2,1.56
-"Magdeburg","Sachsen-Anhalt","Magdeburg, Sachsen-Anhalt",52.1315889,11.6399609,6.6,1.475,3.39123263888889,1,2.55
-"Bad Reichenhall","Bayern","Bad Reichenhall, Bayern",47.7222676,12.8760923,5.2,-0.8,5.15203819444444,1,2
-"Goslar","Niedersachsen","Goslar, Niedersachsen",51.9059936,10.4266284,3.55,0.225,3.61832291666667,1,5.2
-"Prerow","Mecklenburg-Vorpommern","Prerow, Mecklenburg-Vorpommern",54.445906,12.5660206,5.75,1.6,2.32470347222222,1,4.3
-"Baden-Baden","Baden-Württemberg","Baden-Baden, Baden-Württemberg",48.7610716,8.239959,6.8,0.225,5.90191666666667,3,3.4
-"Augsburg","Bayern","Augsburg, Bayern",48.3690341,10.8979522,6.45,-1.4,5.38322847222222,3,0.1
-"Eckernförde","Schleswig-Holstein","Eckernförde, Schleswig-Holstein",54.4716456,9.8374947,6.2,0.625,3.21986527777778,3,0.9
-"Edersee","Hessen","Edersee, Hessen",51.1873377,8.9925823,6.85,0.5,4.4862,3,0.2
-"Rust","Baden-Württemberg","Rust, Baden-Württemberg",48.2659347,7.7263213,6.7,-0.05,5.25231180555556,3,0.9
-"Willingen","Hessen","Willingen, Hessen",51.294451454558,8.60517952010764,3.35,-2.4,2.22476597222222,1,2.3
-"Emden","Niedersachsen","Emden, Niedersachsen",53.3670541,7.2058304,4.65,1.75,3.59769097222222,2,17.08
-"Göttingen","Niedersachsen","Göttingen, Niedersachsen",51.5328328,9.9351811,5.175,0.425,2.90310763888889,1,6.16
-"Plau am See","Mecklenburg-Vorpommern","Plau am See, Mecklenburg-Vorpommern",53.4600943,12.2631689,6.05,0.375,3.72936736111111,1,1.16
-"Eisenach","Thüringen","Eisenach, Thüringen",50.9747134,10.3193565,6.65,0.05,3.59651319444444,3,0.1
-"Wangerooge","Niedersachsen","Wangerooge, Niedersachsen",53.7891528,7.9016018,4.65,3.675,0.617534027777778,1,16.2
-"Winterberg","Nordrhein-Westfalen","Winterberg, Nordrhein-Westfalen",51.1930723,8.5338466,3.375,-2.65,3.37327777777778,1,3.5
-"Rothenburg ob der Tauber","Bayern","Rothenburg ob der Tauber, Bayern",49.3772526,10.1790017,6.05,-2.025,6.08649097222222,3,1.8
-"Ulm","Baden-Württemberg","Ulm, Baden-Württemberg",48.3984968,9.9912458,6.5,-1.175,5.84438125,3,0.5
-"Bielefeld","Nordrhein-Westfalen","Bielefeld, Nordrhein-Westfalen",52.0191005,8.531007,5.45,1.025,1.61687152777778,1,8.3
-"Bad Neuenahr-Ahrweiler","Rheinland-Pfalz","Bad Neuenahr-Ahrweiler, Rheinland-Pfalz",50.5444551,7.1186671,6.2,1.625,2.14724444444444,0,4.7
-"Schliersee","Bayern","Schliersee, Bayern",47.7345915,11.8620286,5.55,-2.075,4.84100069444444,2,1.1
-"Essen","Nordrhein-Westfalen","Essen, Nordrhein-Westfalen",51.4582235,7.0158171,4.6,0.55,4.13271736111111,0,10
-"Monschau","Nordrhein-Westfalen","Monschau, Nordrhein-Westfalen",50.5544687,6.2407954,3.1,-1.175,0.497279861111111,0,14.28
-"Fulda","Hessen","Fulda, Hessen",50.5542328,9.6770448,5.5,-0.9,2.54088263888889,1,2.06
-"Ostseebad Sellin","Mecklenburg-Vorpommern","Ostseebad Sellin, Mecklenburg-Vorpommern",54.3770567,13.6942765,4.25,1.15,1.61787013888889,1,5.7
-"Osnabrück","Niedersachsen","Osnabrück, Niedersachsen",52.2770300033127,8.0448701283995,5.65,1.5,1.50714097222222,1,6.2
-"Braunschweig","Niedersachsen","Braunschweig, Niedersachsen",52.2646577,10.5236066,5.9,1.275,2.99564583333333,1,6.9
-"Mittenwald","Bayern","Mittenwald, Bayern",47.4429543,11.2655684,5.9,-2.425,4.64426041666667,2,2.7
-"Lübbenau","Brandenburg","Lübbenau, Brandenburg",51.8680114,13.9689477,5.9,1.2,2.83880347222222,1,3.4
-"Marburg an der Lahn","Hessen","Marburg an der Lahn, Hessen",50.80904,8.77069,6.55,0.25,3.84281111111111,2,0.9
-"Dierhagen","Mecklenburg-Vorpommern","Dierhagen, Mecklenburg-Vorpommern",54.2918991,12.351915,4.45,1.725,2.39335972222222,0,6.4
-"Oberstaufen","Bayern","Oberstaufen, Bayern",47.5538255,10.0208307,4.35,-2.5,3.88536111111111,2,5.3
-"Bad Saarow","Brandenburg","Bad Saarow, Brandenburg",52.2922975,14.0552305,5.9,0.9,3.32903263888889,1,7.55
-"Burg (Spreewald)","Brandenburg","Burg (Spreewald), Brandenburg",51.8363445297827,14.1450314477017,5.95,1.1,2.78022777777778,1,3.8
-"Oldenburg","Niedersachsen","Oldenburg, Niedersachsen",53.1389753,8.2146017,5.9,1.675,1.69773888888889,0,7
-"Duisburg","Nordrhein-Westfalen","Duisburg, Nordrhein-Westfalen",51.434999,6.759562,5.125,0.825,4.19027083333333,1,6
-"Sassnitz","Mecklenburg-Vorpommern","Sassnitz, Mecklenburg-Vorpommern",54.516728,13.644119,5.4,1.175,1.64396527777778,1,4.96
-"Greifswald","Mecklenburg-Vorpommern","Greifswald, Mecklenburg-Vorpommern",54.095791,13.3815238,5.6,0.725,2.25943680555556,1,2.6
-"Heiligendamm","Mecklenburg-Vorpommern","Heiligendamm, Mecklenburg-Vorpommern",54.1423664,11.842199,5.275,1.625,2.75354027777778,0,2.9
-"Kappeln","Schleswig-Holstein","Kappeln, Schleswig-Holstein",54.6641769,9.9317595,6.3,0.55,3.38015625,2,1.8
-"Norden","Niedersachsen","Norden, Niedersachsen",53.5942039,7.2067435,3.95,2.7,3.74413263888889,0,7.95
-"Rüdesheim am Rhein","Hessen","Rüdesheim am Rhein, Hessen",49.9789358,7.92339,7.15,0.65,6.07670902777778,3,1.5
-"Dießen am Ammersee","Bayern","Dießen am Ammersee, Bayern",47.9477942,11.1049697,6.2,-1.575,5.43270416666667,3,2.1
-"Halle an der Saale","Sachsen-Anhalt","Halle an der Saale, Sachsen-Anhalt",51.4839373027827,11.9689004021725,6.7,1.025,4.68057152777778,1,0.96
-"Schluchsee","Baden-Württemberg","Schluchsee, Baden-Württemberg",47.8185928,8.177035,5.8,-3.375,6.92572361111111,3,2.1
-"Darmstadt","Hessen","Darmstadt, Hessen",49.872445054744,8.65136715754642,7.1,0.75,6.32272152777778,2,2.3
-"Saarbrücken","Saarland","Saarbrücken, Saarland",49.234362,6.996379,6.15,0.25,3.67179236111111,3,4
-"Rosenheim","Bayern","Rosenheim, Bayern",47.8546503027382,12.1237254893551,6.3,-0.45,5.46553194444444,2,1.5
-"Celle","Niedersachsen","Celle, Niedersachsen",52.624056,10.081052,5.2,1.375,1.244475,0,8.1
-"Speyer","Rheinland-Pfalz","Speyer, Rheinland-Pfalz",49.3165553,8.433615,7.15,0.9,5.79371111111111,3,1.3
-"Traben-Trarbach","Rheinland-Pfalz","Traben-Trarbach, Rheinland-Pfalz",49.9530436,7.1233159,5.65,0.925,1.07032083333333,1,6.58
-"Horumersiel","Niedersachsen","Horumersiel, Niedersachsen",53.6858685,8.0098049,5.25,2.7,0.827745138888889,1,9.9
-"Bad Kissingen","Bayern","Bad Kissingen, Bayern",50.1999412,10.0767379,6.85,-0.4,4.61048055555556,4,0
-"Bodenmais","Bayern","Bodenmais, Bayern",49.0668258,13.0996367,3.3,-2.875,3.29431666666667,1,8.3
-"Braunlage","Niedersachsen","Braunlage, Niedersachsen",51.7264388,10.6100516,2.9,-2.15,2.10640555555556,0,14.46
-"Herrsching am Ammersee","Bayern","Herrsching am Ammersee, Bayern",47.9992929,11.1748083,6.2,-1.375,5.40604305555556,3,2.4
-"Kempten (Allgäu)","Bayern","Kempten (Allgäu), Bayern",47.7283301033609,10.3134956128828,4.75,-2.8,5.42660694444444,2,3.5
-"Wyk auf Föhr","Schleswig-Holstein","Wyk auf Föhr, Schleswig-Holstein",54.6892888,8.5561518,5.1,3.6,3.31197430555556,1,2.3
-"Wuppertal","Nordrhein-Westfalen","Wuppertal, Nordrhein-Westfalen",51.264018,7.1780374,3.45,-0.5,3.733,1,13
-"Leiwen","Rheinland-Pfalz","Leiwen, Rheinland-Pfalz",49.8219222,6.8813375,5.475,1,0.921842361111111,1,5.08
-"Bayreuth","Bayern","Bayreuth, Bayern",49.9427202,11.5763079,5.95,-1.75,4.52242291666667,1,0.9
-"Rheinsberg","Brandenburg","Rheinsberg, Brandenburg",53.0983176,12.8910116,5.8,0.325,3.48464513888889,0,3.1
-"Ingolstadt","Bayern","Ingolstadt, Bayern",48.7630165,11.4250395,5.95,-1.775,4.43906597222222,3,1.4
-"Niendorf","Schleswig-Holstein","Niendorf, Schleswig-Holstein",53.9901689283528,10.8291281134518,6.55,0.575,3.86933402777778,4,0
-"Paderborn","Nordrhein-Westfalen","Paderborn, Nordrhein-Westfalen",51.7177044,8.752653,3.55,0.95,1.17280972222222,0,15.9
-"Prien am Chiemsee","Bayern","Prien am Chiemsee, Bayern",47.8541669,12.3455493,5.9,-1.075,5.48467986111111,2,1.3
-"Bad Kreuznach","Rheinland-Pfalz","Bad Kreuznach, Rheinland-Pfalz",49.8490413,7.8626661,7.15,1.175,6.30395833333333,3,2.8
-"Jena","Thüringen","Jena, Thüringen",50.9281717,11.5879359,7.1,0.725,5.82543194444444,3,0.4
-"Zell (Mosel)","Rheinland-Pfalz","Zell (Mosel), Rheinland-Pfalz",50.0275681,7.1813233,5.275,0.95,1.04120555555556,1,11.33
-"Pirna","Sachsen","Pirna, Sachsen",50.9616923,13.9386643,6.85,1.05,5.76881180555556,2,0.9
-"Bochum","Nordrhein-Westfalen","Bochum, Nordrhein-Westfalen",51.4818111,7.2196635,4.675,0.425,4.15655625,0,8.1
-"Laboe","Schleswig-Holstein","Laboe, Schleswig-Holstein",54.4022528,10.2256616,6.3,0.4,2.75617777777778,3,0.3
-"Chemnitz","Sachsen","Chemnitz, Sachsen",50.8323531,12.918914,5.6,-0.975,4.37969583333333,2,1
-"Grainau","Bayern","Grainau, Bayern",47.4753212,11.0259498,5.4,-1.25,5.15918263888889,2,4.2
-"Limburg an der Lahn","Hessen","Limburg an der Lahn, Hessen",50.3884045153577,8.0629087965473,7.1,1.3,5.7920375,3,0.1
-"Leer","Niedersachsen","Leer, Niedersachsen",53.2308882349724,7.46001541088294,4.725,1.025,3.80040833333333,2,5.98
-"Bad Harzburg","Niedersachsen","Bad Harzburg, Niedersachsen",51.88286088265,10.5590793195608,3.25,-0.375,3.0262,0,7.24
-"Hopfen am See","Bayern","Hopfen am See, Bayern",47.6083038,10.6773587,4.65,-3.15,4.63064652777778,2,4.3
-"Hohwacht (Ostsee)","Schleswig-Holstein","Hohwacht (Ostsee), Schleswig-Holstein",54.32078,10.67021,6.3,0.825,2.74930694444444,3,0.9
-"Heilbronn","Baden-Württemberg","Heilbronn, Baden-Württemberg",49.142291,9.218655,7.05,0.4,6.08190069444444,3,1.1
-"Schwangau","Bayern","Schwangau, Bayern",47.576803,10.7373475,4.7,-3.025,4.10578055555556,2,4.3
-"Tegernsee","Bayern","Tegernsee, Bayern",47.7099191,11.7543337,5.55,-1.85,4.57574097222222,2,1.1
-"Wustrow","Mecklenburg-Vorpommern","Wustrow, Mecklenburg-Vorpommern",54.3485481,12.3947297,4.45,2.1,2.38245347222222,0,8.1
-"Hildesheim","Niedersachsen","Hildesheim, Niedersachsen",52.1527188,9.9518083,6.05,1.325,2.124875,1,5.9
-"Kurort Oybin","Sachsen","Kurort Oybin, Sachsen",50.8420861,14.74301,5.5,-1.525,3.46843472222222,2,1.8
-"Murnau am Staffelsee","Bayern","Murnau am Staffelsee, Bayern",47.6778816,11.2011903,5.4,-2.225,4.81438888888889,2,1.1
-"Senftenberg","Brandenburg","Senftenberg, Brandenburg",51.5191742,14.0046541,5.7,0.9,3.51026111111111,1,5.06
-"Bad Salzuflen","Nordrhein-Westfalen","Bad Salzuflen, Nordrhein-Westfalen",52.0771518,8.7554739,5.8,1.45,1.65100694444444,1,8.55
-"Hann. Münden","Niedersachsen","Hann. Münden, Niedersachsen",51.4161908,9.6550096,4.125,0.65,2.68402361111111,1,9.3
-"Hagnau am Bodensee","Baden-Württemberg","Hagnau am Bodensee, Baden-Württemberg",47.6749642,9.3161678,6.7,-0.125,5.40936388888889,3,0.3
-"Langenargen","Baden-Württemberg","Langenargen, Baden-Württemberg",47.5994365,9.5381305,6.45,0.775,5.17665277777778,3,0.1
-"Wolfsburg","Niedersachsen","Wolfsburg, Niedersachsen",52.4205588,10.7861682,5.225,1.275,2.82158333333333,1,6.16
-"Rerik","Mecklenburg-Vorpommern","Rerik, Mecklenburg-Vorpommern",54.1067652,11.6171165,6.35,1.8,2.96743958333333,1,3.6
-"Hameln","Niedersachsen","Hameln, Niedersachsen",52.1039941,9.3561569,6.15,1.275,1.97639097222222,1,5.05
-"Möhnesee","Nordrhein-Westfalen","Möhnesee, Nordrhein-Westfalen",51.4972173527814,8.12935256996022,3.8,0.4,1.43041041666667,1,5.6
-"Schillig","Niedersachsen","Schillig, Niedersachsen",53.7033668,8.0235529,5.25,2.675,0.827745138888889,1,9.9
-"Rathen","Sachsen","Rathen, Sachsen",50.958235,14.0824651,6.25,0.725,5.26822291666667,1,0.8
-"Meißen","Sachsen","Meißen, Sachsen",51.1630871,13.4704939,6.35,0.775,4.74303333333333,1,2.5
-"Rottach-Egern","Bayern","Rottach-Egern, Bayern",47.6909599,11.7707109,5.55,-1.85,4.57574097222222,2,1.1
-"Eltville am Rhein","Hessen","Eltville am Rhein, Hessen",50.0275441,8.1189741,7.2,1.325,6.03078611111111,3,1.8
-"Bad Muskau","Sachsen","Bad Muskau, Sachsen",51.5470046,14.7215146,5.75,0.75,3.94666597222222,1,4.4
-"Boppard","Rheinland-Pfalz","Boppard, Rheinland-Pfalz",50.2312823,7.5885884,5.9,1.6,1.40202430555556,0,7.9
-"Bad Tölz","Bayern","Bad Tölz, Bayern",47.7610013,11.559607,5.65,-1.825,4.89444861111111,2,1
-"Xanten","Nordrhein-Westfalen","Xanten, Nordrhein-Westfalen",51.661519,6.4543203,5.1,0.575,5.20478194444444,0,9.83
-"Dahme","Schleswig-Holstein","Dahme, Schleswig-Holstein",54.2241115621384,11.0833423613602,6.05,0.875,2.7195375,2,3.1
-"Ruhpolding","Bayern","Ruhpolding, Bayern",47.7620099,12.6459934,5.7,-1.575,5.38462430555556,2,1.7
-"Stade","Niedersachsen","Stade, Niedersachsen",53.599794,9.475438,5.5,1.45,1.25972986111111,0,4.1
-"Dangast","Niedersachsen","Dangast, Niedersachsen",53.446,8.11942,5.6,1.85,1.46056805555556,1,7.1
-"Oberhausen","Nordrhein-Westfalen","Oberhausen, Nordrhein-Westfalen",51.4696137,6.8514435,4.675,0.625,4.27507708333333,1,11.5
-"Gießen","Hessen","Gießen, Hessen",50.5862066,8.6742306,6.9,0.875,4.33802916666667,3,0.5
-"Siegen","Nordrhein-Westfalen","Siegen, Nordrhein-Westfalen",50.872468858478,8.01724006147392,4.9,-0.05,1.25097847222222,1,7.3
-"Hüde (Dümmer)","Niedersachsen","Hüde (Dümmer), Niedersachsen",52.4957057182991,8.35702257955932,6.25,1.775,1.90769444444444,1,4.8
-"Tübingen","Baden-Württemberg","Tübingen, Baden-Württemberg",48.521979326383,9.05314167762481,6.8,-0.6,6.094075,3,0.8
-"Schneverdingen (Lüneburger Heide)","Niedersachsen","Schneverdingen (Lüneburger Heide), Niedersachsen",53.1176969304136,9.79886928393745,4.9,0.6,1.20385069444444,0,10.5
-"Landshut","Bayern","Landshut, Bayern",48.5422055020111,12.1340525008621,6.3,-1.125,5.35835625,3,1.9
-"Beilngries (Altmühltal)","Bayern","Beilngries (Altmühltal), Bayern",49.0351626271635,11.4697158093024,6.15,-1.65,5.11638958333333,3,1
-"Oberwiesenthal","Sachsen","Oberwiesenthal, Sachsen",50.4187418658363,12.967370358626,4.85,-5.4,4.89060694444444,1,2.7
-"Baltrum","Niedersachsen","Baltrum, Niedersachsen",53.7281738001376,7.37036440393553,4.15,2.65,4.41571319444444,0,8.63
-"Langeoog","Niedersachsen","Langeoog, Niedersachsen",53.7467330992247,7.48134306203962,4.3,2.675,4.41571319444444,0,8
-"Spiekeroog","Niedersachsen","Spiekeroog, Niedersachsen",53.7702849677092,7.69316704137735,5.35,3.025,0.817106944444445,0,10.5
-"Amrum","Schleswig-Holstein","Amrum, Schleswig-Holstein",54.6578086445194,8.34173455299789,5.05,4.125,3.03249513888889,1,2.5
-"Pellworm","Schleswig-Holstein","Pellworm, Schleswig-Holstein",54.5303839848622,8.65633156877291,4.5,3.85,2.54594097222222,1,6.8
-"Tangermünde","Sachsen-Anhalt","Tangermünde, Sachsen-Anhalt",52.5495571740673,11.9672024763568,6.15,1.2,2.2015125,1,4.7
-"Kaiserslautern","Rheinland-Pfalz","Kaiserslautern, Rheinland-Pfalz",49.4391520171103,7.74128080371198,6.55,-0.55,4.62251944444444,3,3.1
-"Neustadt an der Weinstraße","Rheinland-Pfalz","Neustadt an der Weinstraße, Rheinland-Pfalz",49.3527633909622,8.13483094557629,7.2,0.9,6.80129097222222,3,2.2
-"Meppen","Niedersachsen","Meppen, Niedersachsen",52.6908749099231,7.29166504274259,5.25,0.4,4.34821111111111,1,7.65
-"Wittenberge","Brandenburg","Wittenberge, Brandenburg",52.9945813766268,11.7557975013472,5.75,1.025,2.35624027777778,0,9.05
-"Frankfurt (Oder)","Brandenburg","Frankfurt (Oder), Brandenburg",52.3433973213344,14.5533251747465,6.05,0.825,3.14487847222222,1,5
-"Daun (Eifel)","Rheinland-Pfalz","Daun (Eifel), Rheinland-Pfalz",50.1960103370026,6.83378445768663,4.85,-1.2,0.812648611111111,1,4.6
-"Fehmarn","Schleswig-Holstein","Fehmarn, Schleswig-Holstein",54.4372,11.1973,6.15,1.25,2.81041388888889,2,0.9
-"Hooksiel","Niedersachsen","Hooksiel, Niedersachsen",53.6277573442887,8.02759247020507,5.45,2.025,0.892598611111111,1,6.6
-"Tossens","Niedersachsen","Tossens, Niedersachsen",53.5756207138559,8.25178008721835,5.45,2.35,0.903825,1,9.6
-"Dorum-Neufeld","Niedersachsen","Dorum-Neufeld, Niedersachsen",53.7370373987849,8.51644528263841,2.45,2.975,1.28020347222222,0,9.2
-"Nordstrand","Schleswig-Holstein","Nordstrand, Schleswig-Holstein",54.4919,8.8467,5.2,3.375,2.56891944444444,1,4.8
-"Glowe","Mecklenburg-Vorpommern","Glowe, Mecklenburg-Vorpommern",54.5677,13.4514,5.6,1.475,1.30581319444444,1,6.86
-"Baabe","Mecklenburg-Vorpommern","Baabe, Mecklenburg-Vorpommern",54.3631031374363,13.706955244393,4.25,1.15,1.61787013888889,1,5.7
-"Thiessow","Mecklenburg-Vorpommern","Thiessow, Mecklenburg-Vorpommern",54.2783849535508,13.7157015102308,5.6,1.225,1.86536458333333,0,6.4
-"Lubmin","Mecklenburg-Vorpommern","Lubmin, Mecklenburg-Vorpommern",54.1354,13.6146,5.75,0.925,1.939225,1,2.6
-"Reit im Winkl","Bayern","Reit im Winkl, Bayern",47.6773489563139,12.4699061352574,4.75,-1.65,4.01827013888889,1,2.7
-"Oberammergau","Bayern","Oberammergau, Bayern",47.5987,11.0634,5,-2.4,4.89724375,2,3.5
-"Bad Wiessee","Bayern","Bad Wiessee, Bayern",47.7115,11.7254,5.55,-1.85,4.57574097222222,2,1.1
-"Lenggries","Bayern","Lenggries, Bayern",47.6836,11.5679,5.25,-1.8,3.80437013888889,2,3.3
-"Dinkelsbühl","Bayern","Dinkelsbühl, Bayern",49.0687,10.3214,5.8,-2,5.74883819444444,3,3.1
-"Schwäbisch Hall","Baden-Württemberg","Schwäbisch Hall, Baden-Württemberg",49.1124,9.7392,6,-0.6,5.84424027777778,3,1.8
-"Plön","Schleswig-Holstein","Plön, Schleswig-Holstein",54.1626,10.4215,6.3,0.225,2.94333541666667,3,0.3
-"Malchow","Mecklenburg-Vorpommern","Malchow, Mecklenburg-Vorpommern",53.474410357379,12.4261094776683,6.15,0.4,3.76662777777778,2,0.8
-"Mirow","Mecklenburg-Vorpommern","Mirow, Mecklenburg-Vorpommern",53.2765361365924,12.8106031893074,6.1,0.425,3.80878194444444,1,1
-"Neustrelitz","Mecklenburg-Vorpommern","Neustrelitz, Mecklenburg-Vorpommern",53.3605,13.0734,6,0.25,3.34054236111111,1,1.56
-"Neubrandenburg","Mecklenburg-Vorpommern","Neubrandenburg, Mecklenburg-Vorpommern",53.5566,13.2612,6.05,0.525,3.86477013888889,1,1.46
-"Bad Mergentheim","Baden-Württemberg","Bad Mergentheim, Baden-Württemberg",49.4925,9.7736,6.35,-0.675,6.41346111111111,2,2.9
-"Bad Wimpfen","Baden-Württemberg","Bad Wimpfen, Baden-Württemberg",49.2298,9.1571,6.9,-0.05,6.14848402777778,3,0.7
-"Saalfeld","Thüringen","Saalfeld, Thüringen",50.6481,11.3672,6.7,0.05,5.85756388888889,2,0.2
-"Wandlitz","Brandenburg","Wandlitz, Brandenburg",52.7505,13.4523,5.15,0.425,1.86555069444444,0,7
-"Ramsau","Bayern","Ramsau, Bayern",47.6072716372704,12.8976367115162,4.775,-1.375,3.90196736111111,2,4.4
-"Born a. Darß","Mecklenburg-Vorpommern","Born a. Darß, Mecklenburg-Vorpommern",54.3820440085908,12.5249920620039,4.8,1.775,2.30806805555556,1,3.1
-"Putgarten","Mecklenburg-Vorpommern","Putgarten, Mecklenburg-Vorpommern",54.672676968303,13.4157515390357,5.55,1.775,1.23990972222222,1,5.4
+"Hamburg","Hamburg","Hamburg",53.550341,10.000654,5.9,0.8,1.6613375,0,5.4
+"Berlin","Berlin","Berlin",52.510885,13.3989367,6.15,-0.05,2.69656597222222,2,2.6
+"Warnemünde","Mecklenburg-Vorpommern","Warnemünde, Mecklenburg-Vorpommern",54.1779039,12.0812875,5.65,0.575,2.59492291666667,0,2.8
+"Sankt Peter-Ording","Schleswig-Holstein","Sankt Peter-Ording, Schleswig-Holstein",54.3146777135231,8.60410826459091,3.95,3.225,1.65342222222222,0,12.26
+"Timmendorfer Strand","Schleswig-Holstein","Timmendorfer Strand, Schleswig-Holstein",53.9981853,10.7799016,6.2,1,2.26460694444444,1,5.2
+"Norderney","Niedersachsen","Norderney, Niedersachsen",53.7056126,7.1438175,4.925,3.8,3.41214722222222,1,5.02
+"Kühlungsborn","Mecklenburg-Vorpommern","Kühlungsborn, Mecklenburg-Vorpommern",54.1483764,11.7441876,6.05,1.525,2.68048611111111,0,4.46
+"Dresden","Sachsen","Dresden, Sachsen",51.0493286,13.7381437,6.45,0.225,4.78486111111111,3,0.8
+"München","Bayern","München, Bayern",48.1371079,11.5753822,6.4,-2.975,5.34764861111111,4,0
+"Köln","Nordrhein-Westfalen","Köln, Nordrhein-Westfalen",50.938361,6.959974,5.6,0.6,4.70274861111111,1,2.1
+"Binz (Rügen)","Mecklenburg-Vorpommern","Binz (Rügen), Mecklenburg-Vorpommern",54.4010291,13.6076477,5.9,0.1,3.30520625,1,6
+"Cuxhaven","Niedersachsen","Cuxhaven, Niedersachsen",53.86878,8.698286,3.475,2.575,0.319452777777778,0,18.1
+"Leipzig","Sachsen","Leipzig, Sachsen",51.3406321,12.3747329,6.15,0.1,4.26822152777778,3,2
+"Frankfurt am Main","Hessen","Frankfurt am Main, Hessen",50.1106444,8.6820917,6.95,-0.55,4.74554236111111,4,0
+"Grömitz","Schleswig-Holstein","Grömitz, Schleswig-Holstein",54.1441095,10.9588499,6.45,0.975,2.69574027777778,1,3.4
+"Büsum","Schleswig-Holstein","Büsum, Schleswig-Holstein",54.1298489,8.8586989,3.2,2.9,1.81924722222222,0,16.56
+"Borkum","Niedersachsen","Borkum, Niedersachsen",53.5862669,6.6917449,4.45,3.65,3.49536597222222,0,12.75
+"Konstanz","Baden-Württemberg","Konstanz, Baden-Württemberg",47.659216,9.1750718,6.9,-1.5,6.76252986111111,4,0
+"Boltenhagen","Mecklenburg-Vorpommern","Boltenhagen, Mecklenburg-Vorpommern",53.9864246,11.205923,6.05,1.275,2.17441388888889,0,5.9
+"Garmisch-Partenkirchen","Bayern","Garmisch-Partenkirchen, Bayern",47.4923741,11.0962815,6.8,-1.425,7.23846111111111,4,0
+"Lübeck","Schleswig-Holstein","Lübeck, Schleswig-Holstein",53.866444,10.684738,6.15,0.825,1.65421805555556,1,5.3
+"Waren (Müritz)","Mecklenburg-Vorpommern","Waren (Müritz), Mecklenburg-Vorpommern",53.5156249,12.6850606,5.3,0.1,1.56555277777778,0,5.1
+"Berchtesgaden","Bayern","Berchtesgaden, Bayern",47.6330221,13.0020051,6.15,-3.125,6.99872152777778,3,0.2
+"Heringsdorf (Usedom)","Mecklenburg-Vorpommern","Heringsdorf (Usedom), Mecklenburg-Vorpommern",53.9583117845254,14.1556338711397,5.55,0.2,1.95260416666667,1,3.9
+"Düsseldorf","Nordrhein-Westfalen","Düsseldorf, Nordrhein-Westfalen",51.2254018,6.7763137,5.475,0.25,4.42206805555556,2,2
+"Rostock","Mecklenburg-Vorpommern","Rostock, Mecklenburg-Vorpommern",54.0886707,12.1400211,5.5,0.475,2.06365,0,3.2
+"Lüneburg","Niedersachsen","Lüneburg, Niedersachsen",53.248706,10.407855,6.25,0.975,2.88522430555556,0,8.2
+"Scharbeutz","Schleswig-Holstein","Scharbeutz, Schleswig-Holstein",54.026634,10.7559481,6.2,1,2.26460694444444,1,5.2
+"Travemünde","Schleswig-Holstein","Travemünde, Schleswig-Holstein",53.9563395480557,10.8660828563105,6.1,1.15,1.70165277777778,2,5.1
+"Hannover","Niedersachsen","Hannover, Niedersachsen",52.3744779,9.7385532,5.9,1.225,2.67381041666667,0,6.3
+"Oberstdorf","Bayern","Oberstdorf, Bayern",47.4104347,10.2774409,6.4,-2.875,7.23943819444444,4,0
+"Stuttgart","Baden-Württemberg","Stuttgart, Baden-Württemberg",48.7784485,9.1800132,6.9,-0.825,7.085,4,0
+"Münster","Nordrhein-Westfalen","Münster, Nordrhein-Westfalen",51.9625101,7.6251879,5.45,-0.375,2.93347708333333,1,4.08
+"Potsdam","Brandenburg","Potsdam, Brandenburg",52.4009309,13.0591397,6.3,0.2,3.10711597222222,3,2.5
+"Wismar","Mecklenburg-Vorpommern","Wismar, Mecklenburg-Vorpommern",53.8909832,11.4647932,6,0.7,1.5523875,0,4.4
+"Norddeich","Niedersachsen","Norddeich, Niedersachsen",53.6209520645092,7.16051439568982,4.825,1.975,3.677225,1,8.61
+"Stralsund","Mecklenburg-Vorpommern","Stralsund, Mecklenburg-Vorpommern",54.3096314,13.0820846,5.7,0.25,2.60760972222222,1,4.9
+"Koblenz","Rheinland-Pfalz","Koblenz, Rheinland-Pfalz",50.3533278,7.5943951,6.15,2.77555756156289e-17,4.21480763888889,2,3.73
+"Lindau","Bayern","Lindau, Bayern",47.550753,9.6926624,6.45,-1.275,6.66368888888889,3,0.2
+"Heidelberg","Baden-Württemberg","Heidelberg, Baden-Württemberg",49.4093582,8.694724,6.7,-0.5,5.5524125,3,0.8
+"Zingst","Mecklenburg-Vorpommern","Zingst, Mecklenburg-Vorpommern",54.4387302,12.6821366,5.2,1.15,2.07150486111111,1,16.3
+"Erfurt","Thüringen","Erfurt, Thüringen",50.9777974,11.0287364,6.4,-0.175,4.81937986111111,3,0.9
+"Juist","Niedersachsen","Juist, Niedersachsen",53.6784483,6.9956079,4.225,2.075,3.677225,1,9.25
+"Greetsiel","Niedersachsen","Greetsiel, Niedersachsen",53.4999753,7.0906967,4.675,1.75,3.74338333333333,0,13.37
+"Heiligenhafen","Schleswig-Holstein","Heiligenhafen, Schleswig-Holstein",54.3717445,10.9809235,6.5,1.3,2.76811041666667,3,3.1
+"Füssen","Bayern","Füssen, Bayern",47.5675998,10.6993217,6.3,-3.3,7.24142291666667,4,0
+"Bremen","Bremen","Bremen",53.0758196,8.8071646,6.4,1.325,1.96600069444444,1,1.7
+"Kiel","Schleswig-Holstein","Kiel, Schleswig-Holstein",54.3227085,10.135555,6.55,0.925,2.36894513888889,2,3.1
+"Bamberg","Bayern","Bamberg, Bayern",49.8916044,10.8868478,6.4,-1.825,4.36046180555556,3,0.5
+"Freiburg im Breisgau","Baden-Württemberg","Freiburg im Breisgau, Baden-Württemberg",47.9960901,7.8494005,6.65,-1.8,7.19533194444444,3,0.1
+"Cochem (Mosel)","Rheinland-Pfalz","Cochem (Mosel), Rheinland-Pfalz",50.1483916,7.1663195,5.95,-0.05,2.1803,1,2.23
+"Trier","Rheinland-Pfalz","Trier, Rheinland-Pfalz",49.7596208,6.6441878,5.7,-0.75,1.39312083333333,3,1.5
+"Ahrenshoop","Mecklenburg-Vorpommern","Ahrenshoop, Mecklenburg-Vorpommern",54.3789509,12.419192,4.95,1.675,2.09331597222222,0,20.56
+"Nürnberg","Bayern","Nürnberg, Bayern",49.453872,11.077298,6.2,-2.3,4.49651944444444,3,0.1
+"Wernigerode (Harz)","Sachsen-Anhalt","Wernigerode (Harz), Sachsen-Anhalt",51.8344172,10.7862526,4.9,-0.125,4.88081597222222,2,2.9
+"Bremerhaven","Bremen","Bremerhaven",53.5505392,8.5851945,5.75,1.8,1.29710833333333,1,5
+"Görlitz","Sachsen","Görlitz, Sachsen",51.1532076746077,14.9869867830968,6.05,-1.4,5.46521875,2,1.7
+"Zinnowitz","Mecklenburg-Vorpommern","Zinnowitz, Mecklenburg-Vorpommern",54.076647,13.9089471,5.8,0.375,2.59235902777778,1,4.6
+"Meersburg","Baden-Württemberg","Meersburg, Baden-Württemberg",47.6955538,9.2719656,7,-1.275,6.95674652777778,4,0
+"Weimar","Thüringen","Weimar, Thüringen",50.9793301,11.3297921,6.45,-0.025,4.5907,3,1.2
+"Würzburg","Bayern","Würzburg, Bayern",49.7933506809822,9.93146899481068,6.65,-1.3,5.09003541666667,4,0
+"Schwerin","Mecklenburg-Vorpommern","Schwerin, Mecklenburg-Vorpommern",53.6288297,11.4148038,5.9,0.6,1.58180902777778,0,2.9
+"Westerland (Sylt)","Schleswig-Holstein","Westerland (Sylt), Schleswig-Holstein",54.9064856,8.3071734,6.05,2.65,2.30623472222222,1,7.62
+"Carolinensiel","Niedersachsen","Carolinensiel, Niedersachsen",53.6916344,7.8028095,5.95,2.425,2.41034930555556,0,4.6
+"Graal-Müritz","Mecklenburg-Vorpommern","Graal-Müritz, Mecklenburg-Vorpommern",54.2552653,12.2517155,5.6,1.575,2.54605833333333,0,8.5
+"Ahlbeck","Mecklenburg-Vorpommern","Ahlbeck, Mecklenburg-Vorpommern",53.940567335526,14.1870203187083,5.5,0.225,1.83165763888889,1,4.5
+"Schönau am Königssee","Bayern","Schönau am Königssee, Bayern",47.6054955,12.9846526,6.8,-2.25,6.90964583333333,4,0
+"Bad Schandau","Sachsen","Bad Schandau, Sachsen",50.918091,14.1534018,6.4,-0.525,4.14896180555556,3,1.5
+"Bad Zwischenahn","Niedersachsen","Bad Zwischenahn, Niedersachsen",53.1801364574887,8.00840837233071,6.45,1.55,2.32020208333333,1,2.1
+"Regensburg","Bayern","Regensburg, Bayern",49.0195333,12.0974869,6.6,-2.6,6.33510833333333,4,0
+"Titisee-Neustadt","Baden-Württemberg","Titisee-Neustadt, Baden-Württemberg",47.9001945340631,8.15217052598511,6.6,-3.15,7.23536805555556,4,0
+"Bernkastel-Kues","Rheinland-Pfalz","Bernkastel-Kues, Rheinland-Pfalz",49.9157398,7.0708181,6.05,-0.475,1.63017638888889,3,1.25
+"Wilhelmshaven","Niedersachsen","Wilhelmshaven, Niedersachsen",53.5278793,8.106301,6.35,1.75,2.19453194444444,2,1.7
+"Husum","Schleswig-Holstein","Husum, Schleswig-Holstein",54.4854137,9.0537941,5.8,1.875,1.81364652777778,0,4.8
+"Dortmund","Nordrhein-Westfalen","Dortmund, Nordrhein-Westfalen",51.5142273,7.4652789,5.075,-0.15,3.51896041666667,1,5.47
+"Neuharlingersiel","Niedersachsen","Neuharlingersiel, Niedersachsen",53.6992698,7.7035695,5.85,2.5,2.42860902777778,0,6.6
+"Kassel","Hessen","Kassel, Hessen",51.3157833,9.4978479,5.4,-0.05,4.29383402777778,3,2.3
+"Friedrichshafen","Baden-Württemberg","Friedrichshafen, Baden-Württemberg",47.6500279,9.4800858,6.95,-1.65,7.08022291666667,4,0
+"Mainz","Rheinland-Pfalz","Mainz, Rheinland-Pfalz",49.9995205,8.2736253,6.95,-0.25,4.95994236111111,4,0
+"Helgoland","Schleswig-Holstein","Helgoland, Schleswig-Holstein",54.1820608,7.8876314,1.05,4.625,1.53163055555556,0,27.85
+"Mannheim","Baden-Württemberg","Mannheim, Baden-Württemberg",49.4892913,8.4673098,7.35,-0.15,5.89469097222222,2,0.5
+"Überlingen","Baden-Württemberg","Überlingen, Baden-Württemberg",47.7664456,9.1605106,7,-1.625,7.11866805555556,4,0
+"Bansin","Mecklenburg-Vorpommern","Bansin, Mecklenburg-Vorpommern",53.9690358,14.1391435,5.55,0.15,1.95260416666667,1,3.9
+"Bensersiel","Niedersachsen","Bensersiel, Niedersachsen",53.6742688,7.574467,4.975,1.4,3.98344375,1,7.33
+"Bonn","Nordrhein-Westfalen","Bonn, Nordrhein-Westfalen",50.7352621,7.1024635,6.35,0.55,5.26126458333333,1,3.43
+"Karlsruhe","Baden-Württemberg","Karlsruhe, Baden-Württemberg",49.0068705,8.4034195,7.05,-0.55,6.41859930555556,4,0
+"Aachen","Nordrhein-Westfalen","Aachen, Nordrhein-Westfalen",50.776351,6.083862,4.85,-0.55,3.73684652777778,2,4
+"Passau","Bayern","Passau, Bayern",48.5748229,13.4609744,6.45,-2.45,6.44302708333333,2,0.5
+"Flensburg","Schleswig-Holstein","Flensburg, Schleswig-Holstein",54.7833021,9.4333264,5.95,0.125,1.49750277777778,2,3.1
+"Wiesbaden","Hessen","Wiesbaden, Hessen",50.0820384,8.2416556,7,-0.75,5.484225,4,0
+"Quedlinburg","Sachsen-Anhalt","Quedlinburg, Sachsen-Anhalt",51.7855428,11.1519933,7.1,0.775,5.29947847222222,3,1.1
+"Magdeburg","Sachsen-Anhalt","Magdeburg, Sachsen-Anhalt",52.1315889,11.6399609,6.5,0.825,4.34146041666667,2,2.1
+"Bad Reichenhall","Bayern","Bad Reichenhall, Bayern",47.7222676,12.8760923,6.45,-1.925,7.15105694444444,4,0
+"Goslar","Niedersachsen","Goslar, Niedersachsen",51.9059936,10.4266284,4.75,-0.1,3.62737638888889,1,3.5
+"Prerow","Mecklenburg-Vorpommern","Prerow, Mecklenburg-Vorpommern",54.445906,12.5660206,5.55,1.275,2.17794513888889,1,15.2
+"Baden-Baden","Baden-Württemberg","Baden-Baden, Baden-Württemberg",48.7610716,8.239959,7.3,-0.45,6.42484583333333,3,0.2
+"Augsburg","Bayern","Augsburg, Bayern",48.3690341,10.8979522,6.35,-2.8,6.59919375,4,0
+"Eckernförde","Schleswig-Holstein","Eckernförde, Schleswig-Holstein",54.4716456,9.8374947,6.3,0.7,1.88798055555556,2,3.1
+"Edersee","Hessen","Edersee, Hessen",51.1873377,8.9925823,6.25,-0.375,4.86654930555556,2,0.4
+"Rust","Baden-Württemberg","Rust, Baden-Württemberg",48.2659347,7.7263213,7.25,-1.075,6.96682291666667,3,0.1
+"Willingen","Hessen","Willingen, Hessen",51.294451454558,8.60517952010764,4.55,-2.575,3.6891,2,5.1
+"Emden","Niedersachsen","Emden, Niedersachsen",53.3670541,7.2058304,5.8,0.825,3.88866041666667,0,6.48
+"Göttingen","Niedersachsen","Göttingen, Niedersachsen",51.5328328,9.9351811,4.725,-0.4,4.09742083333333,2,5
+"Plau am See","Mecklenburg-Vorpommern","Plau am See, Mecklenburg-Vorpommern",53.4600943,12.2631689,5.45,0.075,1.76030138888889,0,3.8
+"Eisenach","Thüringen","Eisenach, Thüringen",50.9747134,10.3193565,6.05,-0.675,4.19733611111111,2,2.5
+"Wangerooge","Niedersachsen","Wangerooge, Niedersachsen",53.7891528,7.9016018,4.8,3.675,0.548977777777778,1,28.06
+"Winterberg","Nordrhein-Westfalen","Winterberg, Nordrhein-Westfalen",51.1930723,8.5338466,4.55,-2.95,3.69283055555556,2,3.8
+"Rothenburg ob der Tauber","Bayern","Rothenburg ob der Tauber, Bayern",49.3772526,10.1790017,6.2,-3.325,5.96256041666667,4,0
+"Ulm","Baden-Württemberg","Ulm, Baden-Württemberg",48.3984968,9.9912458,6.35,-3.025,7.11936388888889,4,0
+"Bielefeld","Nordrhein-Westfalen","Bielefeld, Nordrhein-Westfalen",52.0191005,8.531007,5.7,0.625,2.27073888888889,1,4
+"Bad Neuenahr-Ahrweiler","Rheinland-Pfalz","Bad Neuenahr-Ahrweiler, Rheinland-Pfalz",50.5444551,7.1186671,6.2,0.525,5.20087083333333,2,2.9
+"Schliersee","Bayern","Schliersee, Bayern",47.7345915,11.8620286,6.2,-3.225,7.1665625,3,0.4
+"Essen","Nordrhein-Westfalen","Essen, Nordrhein-Westfalen",51.4582235,7.0158171,5.05,0,3.21321319444444,1,10.57
+"Monschau","Nordrhein-Westfalen","Monschau, Nordrhein-Westfalen",50.5544687,6.2407954,4.85,-2.05,2.31895069444444,1,3.7
+"Fulda","Hessen","Fulda, Hessen",50.5542328,9.6770448,5.2,-1.95,3.66771736111111,2,1.5
+"Ostseebad Sellin","Mecklenburg-Vorpommern","Ostseebad Sellin, Mecklenburg-Vorpommern",54.3770567,13.6942765,5.55,0.45,3.3978625,1,6.2
+"Osnabrück","Niedersachsen","Osnabrück, Niedersachsen",52.2770300033127,8.0448701283995,6.3,1.025,2.75018055555556,2,5.6
+"Braunschweig","Niedersachsen","Braunschweig, Niedersachsen",52.2646577,10.5236066,5.475,0.575,2.88185277777778,1,5.5
+"Mittenwald","Bayern","Mittenwald, Bayern",47.4429543,11.2655684,6.55,-2.85,7.20442569444444,4,0
+"Lübbenau","Brandenburg","Lübbenau, Brandenburg",51.8680114,13.9689477,6.3,-0.175,3.95988888888889,2,1.7
+"Marburg an der Lahn","Hessen","Marburg an der Lahn, Hessen",50.80904,8.77069,6.35,-0.35,5.33709305555556,2,0.5
+"Dierhagen","Mecklenburg-Vorpommern","Dierhagen, Mecklenburg-Vorpommern",54.2918991,12.351915,5.5,1.35,2.43597569444444,0,5.2
+"Oberstaufen","Bayern","Oberstaufen, Bayern",47.5538255,10.0208307,6.15,-3.8,7.10008402777778,3,0.2
+"Bad Saarow","Brandenburg","Bad Saarow, Brandenburg",52.2922975,14.0552305,6,-0.325,2.75358472222222,2,1.6
+"Burg (Spreewald)","Brandenburg","Burg (Spreewald), Brandenburg",51.8363445297827,14.1450314477017,6.35,-0.25,4.49938680555556,2,1.7
+"Oldenburg","Niedersachsen","Oldenburg, Niedersachsen",53.1389753,8.2146017,6.5,1.425,2.14286666666667,1,1.9
+"Duisburg","Nordrhein-Westfalen","Duisburg, Nordrhein-Westfalen",51.434999,6.759562,5.45,0.2,4.32149930555556,1,6.9
+"Sassnitz","Mecklenburg-Vorpommern","Sassnitz, Mecklenburg-Vorpommern",54.516728,13.644119,5.85,0.05,3.55541458333333,1,5.9
+"Greifswald","Mecklenburg-Vorpommern","Greifswald, Mecklenburg-Vorpommern",54.095791,13.3815238,5.7,0.15,2.53698472222222,1,4.2
+"Heiligendamm","Mecklenburg-Vorpommern","Heiligendamm, Mecklenburg-Vorpommern",54.1423664,11.842199,6.1,1.525,2.60933194444444,0,3.66
+"Kappeln","Schleswig-Holstein","Kappeln, Schleswig-Holstein",54.6641769,9.9317595,6.05,0.425,2.11925486111111,2,4.1
+"Norden","Niedersachsen","Norden, Niedersachsen",53.5942039,7.2067435,4.825,1.8,3.677225,1,8.43
+"Rüdesheim am Rhein","Hessen","Rüdesheim am Rhein, Hessen",49.9789358,7.92339,7.1,-0.5,6.45485486111111,4,0
+"Dießen am Ammersee","Bayern","Dießen am Ammersee, Bayern",47.9477942,11.1049697,6.25,-3.15,5.42392986111111,4,0
+"Halle an der Saale","Sachsen-Anhalt","Halle an der Saale, Sachsen-Anhalt",51.4839373027827,11.9689004021725,6.4,0.275,4.55959513888889,3,1
+"Schluchsee","Baden-Württemberg","Schluchsee, Baden-Württemberg",47.8185928,8.177035,6.55,-3.85,7.24812361111111,4,0
+"Darmstadt","Hessen","Darmstadt, Hessen",49.872445054744,8.65136715754642,6.55,-0.75,4.98482291666667,3,0.1
+"Saarbrücken","Saarland","Saarbrücken, Saarland",49.234362,6.996379,7.25,-0.6,5.89906875,3,0.2
+"Rosenheim","Bayern","Rosenheim, Bayern",47.8546503027382,12.1237254893551,6.3,-2.425,5.37962638888889,4,0
+"Celle","Niedersachsen","Celle, Niedersachsen",52.624056,10.081052,5.85,1.075,2.10350625,0,4.4
+"Speyer","Rheinland-Pfalz","Speyer, Rheinland-Pfalz",49.3165553,8.433615,6.9,-0.45,5.85849791666667,2,0.4
+"Traben-Trarbach","Rheinland-Pfalz","Traben-Trarbach, Rheinland-Pfalz",49.9530436,7.1233159,6.05,-0.5,1.67402361111111,3,1.25
+"Horumersiel","Niedersachsen","Horumersiel, Niedersachsen",53.6858685,8.0098049,5.9,2,2.1924125,0,4.6
+"Bad Kissingen","Bayern","Bad Kissingen, Bayern",50.1999412,10.0767379,6.15,-1.4,4.44704930555556,2,0.4
+"Bodenmais","Bayern","Bodenmais, Bayern",49.0668258,13.0996367,5.25,-3.675,4.93276805555556,2,3.6
+"Braunlage","Niedersachsen","Braunlage, Niedersachsen",51.7264388,10.6100516,3.85,-2.675,2.65570555555556,1,8.1
+"Herrsching am Ammersee","Bayern","Herrsching am Ammersee, Bayern",47.9992929,11.1748083,6.25,-3,5.37043263888889,4,0
+"Kempten (Allgäu)","Bayern","Kempten (Allgäu), Bayern",47.7283301033609,10.3134956128828,6.2,-4.225,7.21724583333333,4,0
+"Wyk auf Föhr","Schleswig-Holstein","Wyk auf Föhr, Schleswig-Holstein",54.6892888,8.5561518,4.25,3.125,1.5005,0,6.76
+"Wuppertal","Nordrhein-Westfalen","Wuppertal, Nordrhein-Westfalen",51.264018,7.1780374,4.425,-1.075,2.02917152777778,0,9.13
+"Leiwen","Rheinland-Pfalz","Leiwen, Rheinland-Pfalz",49.8219222,6.8813375,6,-0.475,0.941229861111111,3,0.63
+"Bayreuth","Bayern","Bayreuth, Bayern",49.9427202,11.5763079,5.25,-2.7,4.09630902777778,1,2.3
+"Rheinsberg","Brandenburg","Rheinsberg, Brandenburg",53.0983176,12.8910116,5.5,-0.2,1.79101597222222,0,3.8
+"Ingolstadt","Bayern","Ingolstadt, Bayern",48.7630165,11.4250395,6.85,-2.075,6.53724027777778,4,0
+"Niendorf","Schleswig-Holstein","Niendorf, Schleswig-Holstein",53.9901689283528,10.8291281134518,6.15,0.975,1.74044930555556,1,4.8
+"Paderborn","Nordrhein-Westfalen","Paderborn, Nordrhein-Westfalen",51.7177044,8.752653,5.15,0.725,3.19296805555556,0,7.7
+"Prien am Chiemsee","Bayern","Prien am Chiemsee, Bayern",47.8541669,12.3455493,6.4,-2.35,6.78196666666667,3,0.1
+"Bad Kreuznach","Rheinland-Pfalz","Bad Kreuznach, Rheinland-Pfalz",49.8490413,7.8626661,7.45,-0.0499999999999999,6.42849513888889,4,0
+"Jena","Thüringen","Jena, Thüringen",50.9281717,11.5879359,6.25,-0.175,5.07754513888889,3,1.3
+"Zell (Mosel)","Rheinland-Pfalz","Zell (Mosel), Rheinland-Pfalz",50.0275681,7.1813233,5.95,-0.45,1.57762083333333,2,0.93
+"Pirna","Sachsen","Pirna, Sachsen",50.9616923,13.9386643,6.05,0.45,3.95103125,2,1.4
+"Bochum","Nordrhein-Westfalen","Bochum, Nordrhein-Westfalen",51.4818111,7.2196635,5,-0.15,2.26474097222222,0,8.92
+"Laboe","Schleswig-Holstein","Laboe, Schleswig-Holstein",54.4022528,10.2256616,6.45,0.75,2.61010625,2,3
+"Chemnitz","Sachsen","Chemnitz, Sachsen",50.8323531,12.918914,4.825,-1.625,3.26561458333333,2,2.2
+"Grainau","Bayern","Grainau, Bayern",47.4753212,11.0259498,6.8,-1.725,7.24993263888889,4,0
+"Limburg an der Lahn","Hessen","Limburg an der Lahn, Hessen",50.3884045153577,8.0629087965473,7.3,0.6,5.73693680555556,3,0.2
+"Leer","Niedersachsen","Leer, Niedersachsen",53.2308882349724,7.46001541088294,6.05,-0.225,4.75808541666667,0,3.1
+"Bad Harzburg","Niedersachsen","Bad Harzburg, Niedersachsen",51.88286088265,10.5590793195608,4.05,-0.775,3.41430694444444,1,5
+"Hopfen am See","Bayern","Hopfen am See, Bayern",47.6083038,10.6773587,6.25,-4.325,7.20188333333333,4,0
+"Hohwacht (Ostsee)","Schleswig-Holstein","Hohwacht (Ostsee), Schleswig-Holstein",54.32078,10.67021,6.45,0.95,2.54227222222222,1,3.1
+"Heilbronn","Baden-Württemberg","Heilbronn, Baden-Württemberg",49.142291,9.218655,7,-0.975,6.14553472222222,3,0.2
+"Schwangau","Bayern","Schwangau, Bayern",47.576803,10.7373475,6.25,-3.9,7.13267847222222,3,0.1
+"Tegernsee","Bayern","Tegernsee, Bayern",47.7099191,11.7543337,6.2,-3.125,7.11357152777778,3,0.4
+"Wustrow","Mecklenburg-Vorpommern","Wustrow, Mecklenburg-Vorpommern",54.3485481,12.3947297,5.25,1.825,2.24433402777778,0,18.1
+"Hildesheim","Niedersachsen","Hildesheim, Niedersachsen",52.1527188,9.9518083,6.2,0.975,2.89228194444444,0,5.5
+"Kurort Oybin","Sachsen","Kurort Oybin, Sachsen",50.8420861,14.74301,5.8,-3.325,4.94747847222222,2,1.6
+"Murnau am Staffelsee","Bayern","Murnau am Staffelsee, Bayern",47.6778816,11.2011903,6.55,-4,6.80262638888889,4,0
+"Senftenberg","Brandenburg","Senftenberg, Brandenburg",51.5191742,14.0046541,6.35,-0.35,5.13739444444444,2,1.7
+"Bad Salzuflen","Nordrhein-Westfalen","Bad Salzuflen, Nordrhein-Westfalen",52.0771518,8.7554739,6.1,1,2.51942013888889,0,6.3
+"Hann. Münden","Niedersachsen","Hann. Münden, Niedersachsen",51.4161908,9.6550096,4.8,-0.35,4.09223541666667,3,4.7
+"Hagnau am Bodensee","Baden-Württemberg","Hagnau am Bodensee, Baden-Württemberg",47.6749642,9.3161678,6.95,-1.475,7.04566319444444,4,0
+"Langenargen","Baden-Württemberg","Langenargen, Baden-Württemberg",47.5994365,9.5381305,6.8,-0.3,6.68503611111111,4,0
+"Wolfsburg","Niedersachsen","Wolfsburg, Niedersachsen",52.4205588,10.7861682,5.05,0.65,2.32529861111111,0,5.6
+"Rerik","Mecklenburg-Vorpommern","Rerik, Mecklenburg-Vorpommern",54.1067652,11.6171165,6.05,1.75,2.63348680555556,0,6.4
+"Hameln","Niedersachsen","Hameln, Niedersachsen",52.1039941,9.3561569,6.15,0.975,2.68679513888889,0,4.8
+"Möhnesee","Nordrhein-Westfalen","Möhnesee, Nordrhein-Westfalen",51.4972173527814,8.12935256996022,4.8,0.125,3.78590972222222,2,3.3
+"Schillig","Niedersachsen","Schillig, Niedersachsen",53.7033668,8.0235529,5.9,2,2.1924125,0,4.6
+"Rathen","Sachsen","Rathen, Sachsen",50.958235,14.0824651,5.8,0.025,3.71609236111111,2,1.5
+"Meißen","Sachsen","Meißen, Sachsen",51.1630871,13.4704939,6.25,-0.025,4.68991041666667,3,1.2
+"Rottach-Egern","Bayern","Rottach-Egern, Bayern",47.6909599,11.7707109,6.2,-3.125,7.11357152777778,3,0.4
+"Eltville am Rhein","Hessen","Eltville am Rhein, Hessen",50.0275441,8.1189741,7.45,-5.55111512312578e-17,5.96497361111111,4,0
+"Bad Muskau","Sachsen","Bad Muskau, Sachsen",51.5470046,14.7215146,6.3,-0.225,4.65190347222222,2,2.3
+"Boppard","Rheinland-Pfalz","Boppard, Rheinland-Pfalz",50.2312823,7.5885884,5.75,-0.125,2.00209097222222,1,3.82
+"Bad Tölz","Bayern","Bad Tölz, Bayern",47.7610013,11.559607,6.55,-3.55,7.146525,4,0
+"Xanten","Nordrhein-Westfalen","Xanten, Nordrhein-Westfalen",51.661519,6.4543203,5.85,-0.625,5.48970138888889,1,6.25
+"Dahme","Schleswig-Holstein","Dahme, Schleswig-Holstein",54.2241115621384,11.0833423613602,6.35,0.875,2.59333055555556,1,3.9
+"Ruhpolding","Bayern","Ruhpolding, Bayern",47.7620099,12.6459934,6.45,-2.65,7.04106875,3,0.1
+"Stade","Niedersachsen","Stade, Niedersachsen",53.599794,9.475438,5.85,1.25,1.26734722222222,0,5.3
+"Dangast","Niedersachsen","Dangast, Niedersachsen",53.446,8.11942,6.35,1.625,2.14961527777778,2,1.4
+"Oberhausen","Nordrhein-Westfalen","Oberhausen, Nordrhein-Westfalen",51.4696137,6.8514435,5.4,0.175,4.41474166666667,1,6.65
+"Gießen","Hessen","Gießen, Hessen",50.5862066,8.6742306,7.1,-0.125,5.51227152777778,4,0
+"Siegen","Nordrhein-Westfalen","Siegen, Nordrhein-Westfalen",50.872468858478,8.01724006147392,5.225,-0.375,2.9332875,2,3.3
+"Hüde (Dümmer)","Niedersachsen","Hüde (Dümmer), Niedersachsen",52.4957057182991,8.35702257955932,6.6,1.325,3.17362430555556,2,4.6
+"Tübingen","Baden-Württemberg","Tübingen, Baden-Württemberg",48.521979326383,9.05314167762481,6.7,-2.05,7.11810972222222,4,0
+"Schneverdingen (Lüneburger Heide)","Niedersachsen","Schneverdingen (Lüneburger Heide), Niedersachsen",53.1176969304136,9.79886928393745,5.65,0.575,2.31376736111111,0,5.8
+"Landshut","Bayern","Landshut, Bayern",48.5422055020111,12.1340525008621,6.6,-2.175,6.90436388888889,4,0
+"Beilngries (Altmühltal)","Bayern","Beilngries (Altmühltal), Bayern",49.0351626271635,11.4697158093024,6.4,-2.5,5.58014722222222,4,0
+"Oberwiesenthal","Sachsen","Oberwiesenthal, Sachsen",50.4187418658363,12.967370358626,4.95,-5.6,4.64166944444444,1,4.4
+"Baltrum","Niedersachsen","Baltrum, Niedersachsen",53.7281738001376,7.37036440393553,4.925,2,3.86958055555556,1,6.96
+"Langeoog","Niedersachsen","Langeoog, Niedersachsen",53.7467330992247,7.48134306203962,5.375,2.025,3.86958055555556,1,7.15
+"Spiekeroog","Niedersachsen","Spiekeroog, Niedersachsen",53.7702849677092,7.69316704137735,5.85,2.5,2.42860902777778,0,6.6
+"Amrum","Schleswig-Holstein","Amrum, Schleswig-Holstein",54.6578086445194,8.34173455299789,4.15,3.525,1.41389236111111,0,10
+"Pellworm","Schleswig-Holstein","Pellworm, Schleswig-Holstein",54.5303839848622,8.65633156877291,3.9,3.35,1.56958263888889,0,13.9
+"Tangermünde","Sachsen-Anhalt","Tangermünde, Sachsen-Anhalt",52.5495571740673,11.9672024763568,6.25,0.35,3.49460138888889,2,3.5
+"Kaiserslautern","Rheinland-Pfalz","Kaiserslautern, Rheinland-Pfalz",49.4391520171103,7.74128080371198,6.7,-1.45,5.82934027777778,4,0
+"Neustadt an der Weinstraße","Rheinland-Pfalz","Neustadt an der Weinstraße, Rheinland-Pfalz",49.3527633909622,8.13483094557629,7.45,0.425,6.42931944444444,4,0
+"Meppen","Niedersachsen","Meppen, Niedersachsen",52.6908749099231,7.29166504274259,6.25,-0.5,5.28027569444444,1,1.88
+"Wittenberge","Brandenburg","Wittenberge, Brandenburg",52.9945813766268,11.7557975013472,5.9,0.65,2.50994236111111,0,6
+"Frankfurt (Oder)","Brandenburg","Frankfurt (Oder), Brandenburg",52.3433973213344,14.5533251747465,6.05,-0.25,2.82107013888889,2,1.2
+"Daun (Eifel)","Rheinland-Pfalz","Daun (Eifel), Rheinland-Pfalz",50.1960103370026,6.83378445768663,5.25,-2.35,1.75785625,2,2.23
+"Fehmarn","Schleswig-Holstein","Fehmarn, Schleswig-Holstein",54.4372,11.1973,6.3,1.15,2.84321319444444,3,4.4
+"Hooksiel","Niedersachsen","Hooksiel, Niedersachsen",53.6277573442887,8.02759247020507,6.2,1.6,2.44143958333333,1,1.7
+"Tossens","Niedersachsen","Tossens, Niedersachsen",53.5756207138559,8.25178008721835,6.1,1.9,1.95164722222222,0,4.4
+"Dorum-Neufeld","Niedersachsen","Dorum-Neufeld, Niedersachsen",53.7370373987849,8.51644528263841,4.05,2.6,1.07415208333333,0,9.5
+"Nordstrand","Schleswig-Holstein","Nordstrand, Schleswig-Holstein",54.4919,8.8467,4.3,2.8,1.70870277777778,0,7.8
+"Glowe","Mecklenburg-Vorpommern","Glowe, Mecklenburg-Vorpommern",54.5677,13.4514,5.65,0.75,3.36415833333333,0,6.1
+"Baabe","Mecklenburg-Vorpommern","Baabe, Mecklenburg-Vorpommern",54.3631031374363,13.706955244393,5.55,0.475,3.3978625,1,6.2
+"Thiessow","Mecklenburg-Vorpommern","Thiessow, Mecklenburg-Vorpommern",54.2783849535508,13.7157015102308,6,0.55,3.03462361111111,1,5.9
+"Lubmin","Mecklenburg-Vorpommern","Lubmin, Mecklenburg-Vorpommern",54.1354,13.6146,5.6,0.375,2.81202638888889,1,3.7
+"Reit im Winkl","Bayern","Reit im Winkl, Bayern",47.6773489563139,12.4699061352574,6.7,-2.5,7.09603333333333,3,0.1
+"Oberammergau","Bayern","Oberammergau, Bayern",47.5987,11.0634,6.55,-3.475,7.13912222222222,4,0
+"Bad Wiessee","Bayern","Bad Wiessee, Bayern",47.7115,11.7254,6.2,-3.125,7.11357152777778,3,0.4
+"Lenggries","Bayern","Lenggries, Bayern",47.6836,11.5679,6.5,-2.825,7.10072638888889,3,0.4
+"Dinkelsbühl","Bayern","Dinkelsbühl, Bayern",49.0687,10.3214,6.15,-3.5,6.21454097222222,4,0
+"Schwäbisch Hall","Baden-Württemberg","Schwäbisch Hall, Baden-Württemberg",49.1124,9.7392,6.35,-2.075,6.09475,4,0
+"Plön","Schleswig-Holstein","Plön, Schleswig-Holstein",54.1626,10.4215,6.15,0.675,1.78238402777778,1,5.8
+"Malchow","Mecklenburg-Vorpommern","Malchow, Mecklenburg-Vorpommern",53.474410357379,12.4261094776683,5.45,0.1,1.80811319444444,0,3.9
+"Mirow","Mecklenburg-Vorpommern","Mirow, Mecklenburg-Vorpommern",53.2765361365924,12.8106031893074,5.4,-0.225,1.68025277777778,0,3.2
+"Neustrelitz","Mecklenburg-Vorpommern","Neustrelitz, Mecklenburg-Vorpommern",53.3605,13.0734,5.5,-0.25,1.89323472222222,0,3.5
+"Neubrandenburg","Mecklenburg-Vorpommern","Neubrandenburg, Mecklenburg-Vorpommern",53.5566,13.2612,5.6,-0.05,2.13452083333333,0,3.7
+"Bad Mergentheim","Baden-Württemberg","Bad Mergentheim, Baden-Württemberg",49.4925,9.7736,6.65,-2.1,5.37738402777778,4,0
+"Bad Wimpfen","Baden-Württemberg","Bad Wimpfen, Baden-Württemberg",49.2298,9.1571,6.7,-1.55,6.08402291666667,4,0
+"Saalfeld","Thüringen","Saalfeld, Thüringen",50.6481,11.3672,6.45,-0.525,5.58709375,3,0.7
+"Wandlitz","Brandenburg","Wandlitz, Brandenburg",52.7505,13.4523,5.85,-0.325,2.26355972222222,2,2.1
+"Ramsau","Bayern","Ramsau, Bayern",47.6072716372704,12.8976367115162,6.7,-2.1,6.97398680555556,3,0.2
+"Born a. Darß","Mecklenburg-Vorpommern","Born a. Darß, Mecklenburg-Vorpommern",54.3820440085908,12.5249920620039,5,1.375,1.80579791666667,0,15.6
+"Putgarten","Mecklenburg-Vorpommern","Putgarten, Mecklenburg-Vorpommern",54.672676968303,13.4157515390357,5.5,0.925,3.27848472222222,0,8.3
