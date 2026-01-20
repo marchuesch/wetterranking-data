@@ -1,265 +1,265 @@
 "Ort","Land","Lat","Lon","Ort und Land","Score","Ø Höchst&shy;temperatur","Ø Sonnen&shy;stunden pro Tag","Tage ohne Niederschlag","Gesamtnieder&shy;schlag in mm"
-"Berlin","Deutschland",52.510885,13.3989367,"Berlin, Deutschland",6.4,-1.02,4.03004888888889,5,0
-"München","Deutschland",48.1371079,11.5753822,"München, Deutschland",7.84,3.08,7.56597666666667,5,0
-"Hamburg","Deutschland",53.550341,10.000654,"Hamburg, Deutschland",6.08,-1.76,3.54405611111111,4,0.4
-"Köln","Deutschland",50.938361,6.959974,"Köln, Deutschland",7.76,6.02,7.209695,3,1.3
-"Dresden","Deutschland",51.0493286,13.7381437,"Dresden, Deutschland",7.68,2.38,5.82593888888889,5,0
-"Leipzig","Deutschland",51.3406321,12.3747329,"Leipzig, Deutschland",7.16,0.76,4.33217611111111,5,0
-"Frankfurt am Main","Deutschland",50.1106444,8.6820917,"Frankfurt am Main, Deutschland",7.6,2.56,5.569465,5,0
-"Freiburg im Breisgau","Deutschland",47.9960901,7.8494005,"Freiburg im Breisgau, Deutschland",7.64,5.24,5.32891,4,0.2
-"Berchtesgaden","Deutschland",47.6330221,13.0020051,"Berchtesgaden, Deutschland",7.96,5.14,7.17212833333333,5,0
-"Garmisch-Partenkirchen","Deutschland",47.4923741,11.0962815,"Garmisch-Partenkirchen, Deutschland",8.04,6.9,7.15905833333333,5,0
-"Binz (Rügen)","Deutschland",54.4010291,13.6076477,"Binz (Rügen), Deutschland",5.92,-0.66,2.60866611111111,4,1.2
-"Heringsdorf (Usedom)","Deutschland",53.9574755379561,14.1561145382659,"Heringsdorf (Usedom), Deutschland",5.96,-2.12,3.03533111111111,4,0.7
-"Westerland (Sylt)","Deutschland",54.9064856,8.3071734,"Westerland (Sylt), Deutschland",7.16,0.68,3.57287,5,0
-"Wernigerode (Harz)","Deutschland",51.8344172,10.7862526,"Wernigerode (Harz), Deutschland",7.24,1.52,4.45982555555556,5,0
-"Cochem (Mosel)","Deutschland",50.1483916,7.1663195,"Cochem (Mosel), Deutschland",7.88,6.78,7.18605555555556,4,0.1
-"Kempten (Allgäu)","Deutschland",47.7283301033609,10.3134956128828,"Kempten (Allgäu), Deutschland",7.84,3.14,7.82176888888889,5,0
-"Nürnberg","Deutschland",49.453872,11.077298,"Nürnberg, Deutschland",7.84,2.52,6.81148388888889,5,0
-"Münster","Deutschland",51.9625101,7.6251879,"Münster, Deutschland",7.4,3.06,5.61626055555556,4,7
-"Stuttgart","Deutschland",48.7784485,9.1800132,"Stuttgart, Deutschland",7.76,4.92,6.51326944444444,5,0
-"Norderney","Deutschland",53.7056126,7.1438175,"Norderney, Deutschland",7.44,0.7,5.49903555555556,5,0
-"Erfurt","Deutschland",50.9777974,11.0287364,"Erfurt, Deutschland",7.04,0.06,5.16411555555556,5,0
-"Bremen","Deutschland",53.0758196,8.8071646,"Bremen, Deutschland",6.6,-0.38,4.02478833333333,5,0
-"Timmendorfer Strand","Deutschland",53.9981853,10.7799016,"Timmendorfer Strand, Deutschland",5.92,-1.26,3.48728722222222,4,2.6
-"Karlsbad","Tschechien",50.2306216,12.8701437,"Karlsbad, Tschechien",6.72,-1.58,4.465285,5,0
-"Enschede","Niederlande",52.2203520784103,6.89276277399481,"Enschede, Niederlande",7.12,2.64,5.35861166666667,4,7.5
-"Pilsen","Tschechien",49.738291083662,13.373815095209,"Pilsen, Tschechien",6.44,-1.62,2.72980055555556,5,0
-"Maastricht","Niederlande",50.8512438,5.6909768,"Maastricht, Niederlande",7.92,8.78,7.31249333333333,5,0
-"Giethoorn","Niederlande",52.741105,6.077431,"Giethoorn, Niederlande",6.92,1.6,4.71015277777778,4,5.5
-"Groningen","Niederlande",53.2194889849201,6.56569017951351,"Groningen, Niederlande",7.08,0.82,5.47332,5,0
-"Eindhoven","Niederlande",51.4380321789511,5.47601718115641,"Eindhoven, Niederlande",7.76,6.66,6.95520888888889,4,0.1
-"Prag","Tschechien",50.0874654,14.4212535,"Prag, Tschechien",6.72,0.26,3.44088444444444,4,0.1
-"Luxemburg","Luxemburg",49.6121816191827,6.12761269146448,"Luxemburg",7.4,4.46,5.64098388888889,5,0
-"Straßburg","Frankreich",48.584614,7.7507127,"Straßburg, Frankreich",7.32,3.02,4.44865666666667,3,0.3
-"Amsterdam","Niederlande",52.3730796,4.8924534,"Amsterdam, Niederlande",7.36,4.58,4.09622944444444,4,0.3
-"Dinant","Belgien",50.2591813,4.9130588,"Dinant, Belgien",7.36,7.6,4.996725,3,1.4
-"Rotterdam","Niederlande",51.9244424,4.47775,"Rotterdam, Niederlande",7.64,5.96,6.50978833333333,4,0.2
-"Antwerpen","Belgien",51.2211097,4.3997081,"Antwerpen, Belgien",7.36,7.2,5.23132222222222,3,0.33
-"Zandvoort","Niederlande",52.3719838,4.5302209,"Zandvoort, Niederlande",7.48,5.26,4.72669,4,0.1
-"Český Krumlov","Tschechien",48.8106526,14.3150586,"Český Krumlov, Tschechien",6.64,-1.58,4.906405,5,0
-"Terschelling","Niederlande",53.3643463061866,5.21443497127834,"Terschelling, Niederlande",7.12,2.12,3.99428944444444,4,4.2
-"Noordwijk","Niederlande",52.2410856,4.4461969,"Noordwijk, Niederlande",7.44,5.26,4.97087222222222,4,0.28
-"Bergen aan Zee","Niederlande",52.6607662,4.6316645,"Bergen aan Zee, Niederlande",7.12,3.8,3.32225888888889,3,0.63
-"Nancy","Frankreich",48.6896465492961,6.18236505173213,"Nancy, Frankreich",7.36,6.36,4.52435666666667,4,0.5
-"Brüssel","Belgien",50.8465573,4.351697,"Brüssel, Belgien",7.24,7.46,5.08555277777778,3,3.7
-"Texel","Niederlande",53.0543143461686,4.79876535287512,"Texel, Niederlande",7.04,2.48,3.34540166666667,3,2
-"Scheveningen","Niederlande",52.1067449,4.2736937,"Scheveningen, Niederlande",7.56,5.58,6.39657388888889,4,0.55
-"Fåborg","Dänemark",55.097087,10.2428246,"Fåborg, Dänemark",6.68,0.82,2.27303277777778,3,0.9
-"Salzburg","Österreich",47.7981346,13.0464806,"Salzburg, Österreich",7.96,5.08,7.15713722222222,5,0
-"Renesse","Niederlande",51.7311823,3.7719799,"Renesse, Niederlande",7.48,6.98,4.90596944444444,4,0.48
-"Linz","Österreich",48.3059078,14.286198,"Linz, Österreich",7.08,1.04,6.28896166666667,5,0
-"Zürich","Schweiz",47.3744489,8.5410422,"Zürich, Schweiz",7.6,3.16,6.11919611111111,4,0.1
-"Basel","Schweiz",47.5589680548118,7.58875075727046,"Basel, Schweiz",7.28,4.66,5.11789555555556,3,1.5
-"Innsbruck","Österreich",47.2654296,11.3927685,"Innsbruck, Österreich",7.84,6.28,6.13500166666667,5,0
-"Domburg","Niederlande",51.5632141,3.4967277,"Domburg, Niederlande",7.2,7.2,4.02576944444444,4,1.56
-"Breslau","Polen",51.1082644352883,17.0337679840311,"Breslau, Polen",7.32,1.92,5.73581111111111,3,0.5
-"Køge","Dänemark",55.4565009,12.1818964,"Køge, Dänemark",6.28,0.48,0.870663333333333,1,2.3
-"Posen","Polen",52.4082663,16.9335199,"Posen, Polen",6.04,-0.98,3.29031444444444,3,1.1
-"Zell am See","Österreich",47.3239636,12.7963165,"Zell am See, Österreich",7.88,5.46,6.41020111111111,5,0
-"Brügge","Belgien",51.2085526,3.226772,"Brügge, Belgien",7,7.5,3.46210944444444,3,1.78
-"Hallstatt","Österreich",47.5621698,13.6486697,"Hallstatt, Österreich",8.08,6.94,6.897325,5,0
-"Luzern","Schweiz",47.0505452,8.3054682,"Luzern, Schweiz",7.56,3.72,5.84744944444444,4,0.5
-"De Haan","Belgien",51.2671194,3.0408427,"De Haan, Belgien",7,7.5,3.56313722222222,2,2.4
-"Ostende","Belgien",51.2258565,2.919496,"Ostende, Belgien",7.08,7.52,3.69613333333333,3,2.55
-"Kopenhagen","Dänemark",55.6867243,12.5700724,"Kopenhagen, Dänemark",6.12,0.2,1.38024444444444,4,0.6
-"Malmö","Schweden",55.6052931,13.0001566,"Malmö, Schweden",6.24,0.22,1.13271,5,0
-"Brünn","Tschechien",49.1944262292563,16.6077238664507,"Brünn, Tschechien",7,2.52,2.94093444444444,5,0
-"Meran","Italien",46.6695547,11.1594185,"Meran, Italien",5.76,4.18,3.43892222222222,2,6.9
-"Bern","Schweiz",46.9484742,7.4521749,"Bern, Schweiz",7.36,4.08,5.03374444444444,4,0.7
-"Bornholm","Dänemark",55.1431224,14.9226297,"Bornholm, Dänemark",6.2,-0.1,2.05700833333333,3,1.6
-"Aarhus","Dänemark",56.1496278,10.2134046,"Aarhus, Dänemark",5.76,0.04,0.818695,1,2.2
-"St. Moritz","Schweiz",46.4978958,9.8392428,"St. Moritz, Schweiz",3.78,-3.02,5.519595,2,18.8
-"Hvide Sande","Dänemark",56.0057884,8.1288435,"Hvide Sande, Dänemark",6.4,0.32,0.78391,5,0
-"Interlaken","Schweiz",46.6855231,7.8585139,"Interlaken, Schweiz",7.52,5.8,5.16093333333333,4,1.5
-"Bozen","Italien",46.4984781,11.3547399,"Bozen, Italien",5.84,4.66,3.23190944444444,2,4.06
-"Wien","Österreich",48.2083537,16.3725042,"Wien, Österreich",6.72,0.8,2.25375,3,0.5
-"Dijon","Frankreich",47.3306482417266,5.04637916570386,"Dijon, Frankreich",6.36,6.72,2.95550222222222,1,4.1
-"Ostrava","Tschechien",49.8357051466446,18.2847749462072,"Ostrava, Tschechien",7.24,0.82,6.02017777777778,4,0.2
-"Klagenfurt am Wörthersee","Österreich",46.623943,14.3075976,"Klagenfurt am Wörthersee, Österreich",5.92,0.68,4.75615611111111,3,8.4
-"Riva del Garda","Italien",45.8847708,10.8396942,"Riva del Garda, Italien",4.86,6.56,3.07027888888889,2,28.55
-"Graz","Österreich",47.0708678,15.4382786,"Graz, Österreich",6,-0.28,4.08258388888889,4,3.9
-"Le Touquet-Paris-Plage","Frankreich",50.519693648444,1.5869973052921,"Le Touquet-Paris-Plage, Frankreich",6.76,7.26,4.39565388888889,2,7.65
-"Bratislava","Slowakei",48.1516988,17.1093063,"Bratislava, Slowakei",7.32,1.82,4.22443166666667,5,0
-"Zermatt","Schweiz",46.0212076,7.749254,"Zermatt, Schweiz",5.16,-0.32,5.65179666666667,1,9.1
-"Bled","Slowenien",46.3684202,14.1100595,"Bled, Slowenien",4.78,2.28,4.52690277777778,3,19.8
-"Paris","Frankreich",48.8534951,2.3483915,"Paris, Frankreich",6.24,7.8,1.38097944444444,1,6.25
-"Norwich","England",52.6303076934772,1.29532126502049,"Norwich, England",6.36,6.46,1.22827944444444,2,4.26
-"Ipswich","England",52.0570559966874,1.15209854040659,"Ipswich, England",6.52,6.6,2.98177888888889,2,4.76
-"Katowice","Polen",50.264663446807,19.0188489472198,"Katowice, Polen",6.52,0.82,4.40304222222222,2,3.2
-"Torri del Benaco","Italien",45.6094493,10.6873869,"Torri del Benaco, Italien",4.8,8.12,3.04379388888889,2,29
-"Genf","Schweiz",46.2017559,6.1466014,"Genf, Schweiz",6.08,4.86,3.81153888888889,2,10.8
-"Sirmione","Italien",45.465106341539,10.6074284600272,"Sirmione, Italien",4.74,6.34,2.83771,2,37.55
-"Mailand","Italien",45.4641943,9.1896346,"Mailand, Italien",4.26,4.9,1.83579833333333,1,27.1
-"Danzig","Polen",54.3706858,18.6129831,"Danzig, Polen",5.28,-5.26,2.57719777777778,4,1.5
-"Maribor","Slowenien",46.5536194239738,15.6470952284808,"Maribor, Slowenien",5.12,0.38,2.18507555555556,3,19.6
-"Ljubljana","Slowenien",46.0500268,14.5069289,"Ljubljana, Slowenien",4.8,1.28,2.32341944444444,2,20.9
-"Annecy","Frankreich",45.8992348,6.1288847,"Annecy, Frankreich",6.28,6.66,3.40694,2,8.5
-"Venedig","Italien",45.4371908,12.3345898,"Venedig, Italien",5.24,7.44,2.37683333333333,2,30
-"Triest","Italien",45.651996855795,13.7625166166528,"Triest, Italien",4.86,9.62,2.49734111111111,3,9.2
-"Cambridge","England",52.2039079652867,0.123678265263848,"Cambridge, England",6.48,6.96,1.38291055555556,2,2.1
-"Krakau","Polen",50.0619474,19.9368564,"Krakau, Polen",6.04,-0.82,4.12160555555556,2,4.3
-"Skagen","Dänemark",57.7259703,10.5844602,"Skagen, Dänemark",5.72,-0.96,0.127278333333333,3,0.7
-"London","England",51.4893335,-0.1440551,"London, England",6.04,7.52,1.56010111111111,2,7.2
-"Göteborg","Schweden",57.7072326,11.9670171,"Göteborg, Schweden",5.76,-2.7,2.39792,5,0
-"Brighton","England",50.8214626,-0.1400561,"Brighton, England",4.6,7.86,1.24186833333333,2,19.86
-"Zakopane","Polen",49.2969114,19.9504753,"Zakopane, Polen",6.28,0.28,4.17633055555556,2,3
-"Lyon","Frankreich",45.7578137,4.8320114,"Lyon, Frankreich",5.48,8.36,3.36733888888889,2,16.3
-"Bourges","Frankreich",47.0816637770149,2.3971472645533,"Bourges, Frankreich",5.08,8.5,0.952548888888889,0,22.9
-"Rovinj","Kroatien",45.0807411,13.6417282,"Rovinj, Kroatien",5.36,10.66,2.11853222222222,3,11.8
-"Balaton","Ungarn",46.8839313,17.8476796,"Balaton, Ungarn",6.28,1.36,1.95576611111111,3,1.2
-"Zagreb","Kroatien",45.8130967,15.9772795,"Zagreb, Kroatien",4.96,1.58,1.78550166666667,2,10.7
-"Deauville","Frankreich",49.3575767556172,0.0714877491844544,"Deauville, Frankreich",6.2,8.44,2.09459333333333,0,8.6
-"Warschau","Polen",52.2319581,21.0067249,"Warschau, Polen",4.92,-5.12,1.86891722222222,2,3.5
-"Hohe Tatra (Tatranská Lomnica)","Slowakei",49.13815,20.21931,"Hohe Tatra (Tatranská Lomnica), Slowakei",6.72,0.56,4.18475277777778,3,1.7
-"Pula","Kroatien",44.8702281,13.8455311,"Pula, Kroatien",5.04,10.54,1.66016944444444,2,23
-"Budapest","Ungarn",47.4970637896166,19.0389974414942,"Budapest, Ungarn",7,0.96,5.35365888888889,3,1.7
-"Kristiansand","Norwegen",58.1471572706719,7.9950701511758,"Kristiansand, Norwegen",3.3,-0.94,1.26287722222222,1,6.7
-"Oxford","England",51.7521094440644,-1.25943310722207,"Oxford, England",5.28,7.02,0.901325555555556,1,6.8
-"Cinque Terre","Italien",44.1222144,9.7132501,"Cinque Terre, Italien",4,10.2,2.87830444444444,1,41.2
-"Isle of Wight","England",50.6985908387884,-1.29460617388774,"Isle of Wight, England",3.64,8.24,1.93325888888889,1,20.56
-"Le Mans","Frankreich",48.0040247155424,0.196846381986147,"Le Mans, Frankreich",4.94,7.98,1.75015944444444,1,18.5
-"Clermont-Ferrand","Frankreich",45.7775124600661,3.08329535096197,"Clermont-Ferrand, Frankreich",5.7,8.64,3.64187388888889,0,4.6
-"York","England",53.9613991992233,-1.08076703662315,"York, England",5.52,6.64,0.614968888888889,1,7
-"Plitvicer Seen","Kroatien",44.8654878218141,15.5820762694377,"Plitvicer Seen, Kroatien",5.04,3.36,2.21475166666667,3,11.7
-"Rimini","Italien",44.0594531009706,12.5690522641146,"Rimini, Italien",5.44,8.08,1.88197833333333,2,23.76
-"Viareggio","Italien",43.8672392,10.2506055,"Viareggio, Italien",4.44,11.08,3.15093,2,24.4
-"Birmingham","England",52.4788842342774,-1.89786812579122,"Birmingham, England",5,6.42,0.205132777777778,1,6.6
-"Florenz","Italien",43.7697955,11.2556404,"Florenz, Italien",5.66,10.14,3.32938333333333,2,18.3
-"Bournemouth","England",50.7214920062153,-1.87307077668799,"Bournemouth, England",3.94,7.9,2.86811111111111,1,20.8
-"Sanremo","Italien",43.8198253,7.7748827,"Sanremo, Italien",5.2,10.16,3.02687777777778,1,36
-"Monaco","Monaco",43.7334413733639,7.41993669279883,"Monaco",4.96,9.46,3.15254,1,40.2
-"Bath","England",51.3780084716059,-2.35965660980024,"Bath, England",4.44,7.48,2.30276222222222,2,17.75
-"Klaipėda","Litauen",55.7127529,21.1350469,"Klaipėda, Litauen",4.92,-7.9,3.80932277777778,4,0.4
-"Visby (Gotland)","Schweden",57.6348041245621,18.2943388532952,"Visby (Gotland), Schweden",5.44,-3.22,0.178119444444444,4,0.2
-"Nizza","Frankreich",43.7009358,7.2683912,"Nizza, Frankreich",5.2,10.74,3.18138611111111,1,39.7
-"Manchester","England",53.4794892,-2.2451148,"Manchester, England",6.4,7.52,1.75858166666667,1,4.4
-"Newcastle upon Tyne","England",54.9730244812033,-1.60861921007895,"Newcastle upon Tyne, England",3.66,6.4,0.0430222222222222,0,12
-"Zadar","Kroatien",44.1168594,15.2353257,"Zadar, Kroatien",3.98,12.34,3.33056055555556,1,11.5
-"Cannes","Frankreich",43.5515198,7.0134418,"Cannes, Frankreich",5.08,8.96,3.31323166666667,1,30.4
-"Saint Helier","Jersey",49.2167,-2.13753,"Saint Helier, Jersey",4.74,8.42,3.04578388888889,0,15.9
-"Avignon","Frankreich",43.9492493,4.8059012,"Avignon, Frankreich",4.44,9.68,3.49179111111111,1,33.05
-"Saint-Malo","Frankreich",48.649518,-2.0260409,"Saint-Malo, Frankreich",5.44,9.16,2.66423722222222,0,18.9
-"Liverpool","England",53.4071991,-2.99168,"Liverpool, England",6.12,7.6,1.76938277777778,2,7.5
-"Cardiff","Wales",51.4816546,-3.1791934,"Cardiff, Wales",3.24,8.32,3.16609888888889,1,25.6
-"Debrecen","Ungarn",47.5290944086337,21.6264905369519,"Debrecen, Ungarn",7.24,2.88,6.39986166666667,3,1
-"Windermere (Lake District)","England",54.3802798094634,-2.90734459300512,"Windermere (Lake District), England",5.64,6.3,0.984241666666667,1,7.3
-"Portoferraio (Elba)","Italien",42.8127815518848,10.3213971426561,"Portoferraio (Elba), Italien",4.16,12.64,3.96130333333333,2,51.2
-"Oslo","Norwegen",59.9133301,10.7389701,"Oslo, Norwegen",5.28,-3.86,1.24113555555556,5,0
-"Marseille","Frankreich",43.2961743,5.3699525,"Marseille, Frankreich",4.68,11.4,4.83205611111111,1,29.5
-"Montpellier","Frankreich",43.6112422,3.8767337,"Montpellier, Frankreich",4.52,10.66,2.93954222222222,1,24.65
-"Calvi","Frankreich",42.5677079,8.7590528,"Calvi, Frankreich",4.76,13.06,4.30561222222222,1,36.7
-"Novi Sad","Serbien",45.2551338,19.8451756,"Novi Sad, Serbien",7.8,7.08,8.18384888888889,4,5.7
-"Split","Kroatien",43.5116383,16.4399659,"Split, Kroatien",3.88,11.94,1.87594833333333,0,32.6
-"Saint-Nazaire","Frankreich",47.275366001175,-2.21686084980837,"Saint-Nazaire, Frankreich",3.52,9.56,2.96412833333333,0,17.3
-"La Rochelle","Frankreich",46.159732,-1.1515951,"La Rochelle, Frankreich",2.8,9.8,1.90216611111111,0,37.3
-"Plymouth","England",50.3661537484487,-4.14975485623161,"Plymouth, England",4.72,7.82,3.53879722222222,1,17
-"Stockholm","Schweden",59.3251172,18.0710935,"Stockholm, Schweden",5.32,-2.82,0.310988888888889,3,0.8
-"Edinburgh","Schottland",55.9533456,-3.1883749,"Edinburgh, Schottland",5.92,6.44,0.00688333333333333,1,3.1
-"Sarajevo","Bosnien-Herzegowina",43.8519774,18.3866868,"Sarajevo, Bosnien-Herzegowina",5.92,4.4,5.79115166666667,3,1.4
-"Douglas","Isle of Man",54.152299920289,-4.4851686250414,"Douglas, Isle of Man",3.54,6.86,1.43917,0,14.3
-"Belgrad","Serbien",44.8178131,20.4568974,"Belgrad, Serbien",7.88,7.2,7.97891166666667,4,0.5
-"Ajaccio","Frankreich",41.9263991,8.7376029,"Ajaccio, Frankreich",4.2,13.08,4.15184833333333,0,27.7
-"Bergen","Norwegen",60.3943055,5.3259192,"Bergen, Norwegen",6.8,-1.84,5.28180944444444,5,0
-"Mostar","Bosnien-Herzegowina",43.3435855,17.8076584,"Mostar, Bosnien-Herzegowina",2.34,12.34,1.64894277777778,0,31.5
-"Uppsala","Schweden",59.8586126,17.6387436,"Uppsala, Schweden",4.8,-3.12,0,3,0.6
-"Rom","Italien",41.8933203,12.4829321,"Rom, Italien",4.8,12.82,1.74390222222222,2,19
-"Vilnius","Litauen",54.6870458,25.2829111,"Vilnius, Litauen",4.88,-8.32,4.00058055555556,4,0.2
-"Bordeaux","Frankreich",44.841225,-0.5800364,"Bordeaux, Frankreich",2.74,9.6,0.342308888888889,0,26.4
-"Glasgow","Schottland",55.861155,-4.2501687,"Glasgow, Schottland",6.12,6.08,2.1123,2,2.25
-"Saaremaa","Estland",58.27382,22.2771058,"Saaremaa, Estland",4.84,-4.64,0,3,0.5
-"Riga","Lettland",56.9493977,24.1051846,"Riga, Lettland",4.76,-8.02,2.60021277777778,4,0.1
-"Brest","Frankreich",48.3905283,-4.4860088,"Brest, Frankreich",3.4,9.48,4.886275,0,14.4
-"St Ives","England",50.2149064,-5.4795083,"St Ives, England",4.36,9.16,2.87957777777778,1,6
-"Collioure","Frankreich",42.52505,3.0831554,"Collioure, Frankreich",7.36,11.74,4.80787777777778,2,2.8
-"Cadaqués","Spanien",42.2893484,3.2752159,"Cadaqués, Spanien",7.24,11.66,4.44853333333333,3,4.3
-"Dubrovnik","Kroatien",42.6491029,18.0939501,"Dubrovnik, Kroatien",2.48,12.2,2.69333166666667,0,28
-"Belfast","Nordirland",54.5975804,-5.9277097,"Belfast, Nordirland",2.6,7.28,1.21574722222222,0,28.8
-"Dublin","Irland",53.3493795,-6.2605593,"Dublin, Irland",2.64,8.62,2.17446055555556,0,20.28
-"Inverness","Schottland",57.4790124,-4.225739,"Inverness, Schottland",6.4,5.68,3.90689055555556,2,7.1
-"Olbia","Italien",40.9232659,9.5027442,"Olbia, Italien",6.72,12.1,6.26842777777778,2,48.1
-"Andorra la Vella","Andorra",42.5063185063084,1.52143838753646,"Andorra la Vella, Andorra",5.72,5.16,5.41741722222222,1,10.3
-"Kotor","Montenegro",42.4249205,18.7713332,"Kotor, Montenegro",2.44,15.42,2.30404333333333,0,39.7
-"Sibiu","Rumänien",45.7973912,24.1519202,"Sibiu, Rumänien",7.92,2.72,7.69307777777778,5,0
-"Budva","Montenegro",42.2885656,18.8419505,"Budva, Montenegro",2.96,15.6,2.65591111111111,0,37.9
-"Neapel","Italien",40.8358846,14.2487679,"Neapel, Italien",4.86,14.48,3.58103888888889,1,15.86
-"Lloret de Mar","Spanien",41.6995109112219,2.84230767990933,"Lloret de Mar, Spanien",7.64,12.44,6.47393333333333,2,1.6
-"Geiranger","Norwegen",62.1006277,7.2058959,"Geiranger, Norwegen",6.08,-4.22,4.60705166666667,5,0
-"Capri","Italien",40.5504891322527,14.2434581094189,"Capri, Italien",3.72,14.04,3.95547888888889,1,24.96
-"Biarritz","Frankreich",43.4832523,-1.5592776,"Biarritz, Frankreich",2.4,11.36,2.91860833333333,0,52.4
-"Bari","Italien",41.1159722415926,16.8715523467793,"Bari, Italien",6.04,14.06,4.38669944444444,2,15.35
-"Turku","Finnland",60.4517531,22.2670522,"Turku, Finnland",5,-6.16,1.08754333333333,5,0
-"Barcelona","Spanien",41.3828939,2.1774322,"Barcelona, Spanien",7.76,12.64,7.74500444444444,3,3.2
-"San Sebastián","Spanien",43.3224219,-1.9838889,"San Sebastián, Spanien",5.86,11.04,4.25557833333333,2,8.1
-"Tallinn","Estland",59.4372155,24.7453688,"Tallinn, Estland",5.28,-7.9,2.42427888888889,4,0.1
-"Cork","Irland",51.8985136,-8.4726423,"Cork, Irland",4.36,7.44,3.18916277777778,2,23.48
-"Prizren","Kosovo",42.2130151,20.7363339,"Prizren, Kosovo",6.12,4.6,5.659045,3,1.2
-"Brașov","Rumänien",45.6525105,25.6105654,"Brașov, Rumänien",7.84,2.82,8.06784166666667,5,0
-"Galway","Irland",53.2744122,-9.0490601,"Galway, Irland",5.84,7.4,2.6186,1,14.05
-"Helsinki","Finnland",60.1674881,24.9427473,"Helsinki, Finnland",4.52,-5.7,0,2,1.88
-"Östersund","Schweden",63.1764516209841,14.6360535585664,"Östersund, Schweden",5.12,-6.16,1.63294,4,0.8
-"Trondheim","Norwegen",63.4305556561412,10.3946430432563,"Trondheim, Norwegen",5.88,-3.02,3.55309,5,0
-"Cagliari","Italien",39.2171994,9.113311,"Cagliari, Italien",5.68,14.54,5.23851222222222,2,21.4
-"Menorca","Spanien",40.0002915558116,3.83694913822369,"Menorca, Spanien",6.44,14.04,7.86835,2,5.5
-"Sofia","Bulgarien",42.6977028,23.3217359,"Sofia, Bulgarien",6.92,3.4,5.04154222222222,4,0.6
-"Porvoo","Finnland",60.3943748,25.6619265,"Porvoo, Finnland",4.76,-6.7,0,4,0.08
-"Ohrid","Nordmazedonien",41.1170203,20.8017715,"Ohrid, Nordmazedonien",6,7.02,5.04978055555556,2,7.2
-"Berat","Albanien",40.7018636,19.9580758,"Berat, Albanien",6.68,16,4.77785388888889,2,13.3
-"Tampere","Finnland",61.497087739054,23.7521462279535,"Tampere, Finnland",4.68,-7.9,0,3,2
-"Bukarest","Rumänien",44.4361414,26.1027202,"Bukarest, Rumänien",6.44,1.86,2.52838277777778,3,1.4
-"Palma de Mallorca","Spanien",39.5695818,2.6500745,"Palma de Mallorca, Spanien",6.34,14.36,8.61308333333333,2,4.9
-"Gijon","Spanien",43.5316584992062,-5.6609472423598,"Gijon, Spanien",6.56,12.68,7.89688,2,1.9
-"Tropea","Italien",38.6752674,15.8948507,"Tropea, Italien",5.2,15.58,5.979875,0,28.1
-"Saranda","Albanien",39.8752198,20.0065258,"Saranda, Albanien",4.1,15.42,2.78416944444444,0,18.45
-"Palermo","Italien",38.1112268,13.3524434,"Palermo, Italien",6,16.04,7.20399333333333,1,18
-"Plowdiw","Bulgarien",42.1418541,24.7499297,"Plowdiw, Bulgarien",6.36,3.52,1.82944888888889,4,0.3
-"Korfu","Griechenland",39.6253347638355,19.9220104851372,"Korfu, Griechenland",2.44,14.98,2.80627833333333,0,30.2
-"Umeå","Schweden",63.8251647076852,20.2626771929487,"Umeå, Schweden",4.76,-4.28,0.0229222222222222,2,1.6
-"Ibiza","Spanien",38.9743901,1.4197463,"Ibiza, Spanien",7.64,14.42,8.59407777777778,3,2.5
-"Thessaloniki","Griechenland",40.6403167,22.9352716,"Thessaloniki, Griechenland",5.72,11.34,2.31421222222222,1,7.36
-"Valencia","Spanien",39.4697065,-0.3763353,"Valencia, Spanien",8.44,15.72,8.43687444444445,4,0.7
-"Catania","Italien",37.5023612,15.0873718,"Catania, Italien",7.28,15.82,8.04031611111111,1,10.8
-"Warna","Bulgarien",43.2073873,27.9166653,"Warna, Bulgarien",6.04,7.48,0.924942777777778,3,5.4
-"Lefkada","Griechenland",38.8333487088844,20.7064809271845,"Lefkada, Griechenland",3.88,14.96,5.48586111111111,0,26.4
-"Madrid","Spanien",40.4167047,-3.7035825,"Madrid, Spanien",5.98,8.3,6.49411055555556,1,8
-"Sonnenstrand","Bulgarien",42.6892559,27.7060843,"Sonnenstrand, Bulgarien",5.4,7.18,0.464192222222222,3,8
-"Alicante","Spanien",38.346030026455,-0.491374159785667,"Alicante, Spanien",8.2,16.04,7.98766722222222,2,2.7
-"Santiago de Compostela","Spanien",42.8788422152051,-8.53863309616042,"Santiago de Compostela, Spanien",3.2,10.06,5.90550166666667,0,13.9
-"Luleå","Schweden",65.5846527615472,22.1563167850797,"Luleå, Schweden",4.88,-5.06,0,3,0.9
-"Valletta","Malta",35.8989979,14.5136607,"Valletta, Malta",5,15.82,7.13787333333333,2,7
-"Oulu","Finnland",65.0119462747986,25.4647727219167,"Oulu, Finnland",4.48,-6.46,0.459429444444444,3,0.9
-"Athen","Griechenland",37.9755648,23.7348324,"Athen, Griechenland",6.56,15.1,6.15359722222222,1,67.75
-"Porto","Portugal",41.1494512,-8.6107884,"Porto, Portugal",1.76,12.36,5.70891555555556,0,26.25
-"Istanbul","Türkei",41.006381,28.9758715,"Istanbul, Türkei",6.02,10.52,3.09475944444444,2,5.7
-"Lofoten","Norwegen",68.1464764991898,13.6109296527354,"Lofoten, Norwegen",6.48,-0.58,2.80411111111111,4,0.2
-"Almeria","Spanien",36.8376728403504,-2.46418473944758,"Almeria, Spanien",8.44,16.1,8.74494777777778,4,0.9
-"Rovaniemi","Finnland",66.5029119866617,25.7268200582044,"Rovaniemi, Finnland",4.56,-7.22,0,3,1
-"Granada","Spanien",37.1734995,-3.5995337,"Granada, Spanien",3.74,7.84,2.93205333333333,0,22.74
-"Kiruna","Schweden",67.8556547023916,20.2253338012367,"Kiruna, Schweden",4.64,-6.54,0.617645555555556,4,0.1
-"Izmir","Türkei",38.4229511849681,27.1382155810308,"Izmir, Türkei",5.42,14.04,4.569935,1,11.66
-"Nazaré","Portugal",39.6029108,-9.0701572,"Nazaré, Portugal",2.36,13.6,5.06531555555556,0,41.86
-"Málaga","Spanien",36.7213028,-4.4216366,"Málaga, Spanien",7.32,15.1,4.96573166666667,1,3.7
-"Sevilla","Spanien",37.3886303,-5.9953403,"Sevilla, Spanien",5.24,13.78,3.81514166666667,0,16.56
-"Santorini","Griechenland",36.4201531413258,25.4321704003784,"Santorini, Griechenland",4.66,15.4,6.79557944444444,1,12.16
-"Ericeira","Portugal",38.9632411,-9.4170802,"Ericeira, Portugal",2.6,14.18,4.84162166666667,0,24.6
-"Lissabon","Portugal",38.7077507,-9.1365919,"Lissabon, Portugal",3.12,14.38,4.81024277777778,0,18.9
-"Chania","Griechenland",35.5120831,24.0191544,"Chania, Griechenland",8,17.4,7.37344277777778,3,5.3
-"Tromsø","Norwegen",69.6516345,18.9558585,"Tromsø, Norwegen",4.4,-5.82,0.325283888888889,4,2.1
-"Bodrum","Türkei",37.0343987,27.430651,"Bodrum, Türkei",3.6,16,4.29425833333333,0,44.4
-"Cádiz","Spanien",36.5297438,-6.2928976,"Cádiz, Spanien",2.58,14.74,3.18905611111111,0,27.95
-"Tarifa","Spanien",36.0129082,-5.6050213,"Tarifa, Spanien",2.32,14.84,2.88815944444444,0,44.15
-"Faro","Portugal",37.0162944,-7.935182,"Faro, Portugal",3.7,14.84,4.97048388888889,0,13.4
-"Heraklion","Griechenland",35.33908,25.1332843,"Heraklion, Griechenland",8.28,17.74,7.10381722222222,2,2
-"Lagos","Portugal",37.1027878395464,-8.67310490387623,"Lagos, Portugal",3,14.4,4.24306,0,26.7
-"Rhodos","Griechenland",36.4362131686456,28.2181605194688,"Rhodos, Griechenland",4.22,15.96,5.25582611111111,1,18.46
-"Fethiye","Türkei",36.6221019,29.1153234,"Fethiye, Türkei",5.34,17.22,5.22126777777778,0,8.16
-"Antalya","Türkei",36.8865728,30.7030242,"Antalya, Türkei",2.9,11.72,0.148425555555556,1,65.84
-"Side","Türkei",36.7664439,31.3892197,"Side, Türkei",2.66,14.14,0.26066,1,42.9
-"Reykjavik","Island",64.145981,-21.9422367,"Reykjavik, Island",5.28,4.76,1.61576055555556,3,4.9
-"Kappadokien","Türkei",38.6386753,34.8457712,"Kappadokien, Türkei",5.64,4.58,5.33937833333333,2,8.1
-"Paphos","Zypern",34.7743988,32.4231586,"Paphos, Zypern",5.14,15.84,4.37308055555556,2,26.2
-"Nikosia","Zypern",35.1746503,33.3638783,"Nikosia, Zypern",5.4,12.46,3.69980666666667,2,22.7
-"Ayia Napa","Zypern",34.9893216,33.9962036,"Ayia Napa, Zypern",6.42,14.7,3.71114333333333,3,16.3
-"Jönköping","Schweden",57.7833049519418,14.1626080087675,"Jönköping, Schweden",5.32,-3.8,1.46221055555556,5,0
-"Örebro","Schweden",59.274603520377,15.2135488115156,"Örebro, Schweden",5.04,-3.02,0.111891666666667,1,0.93
-"Mora","Schweden",61.00468098833,14.5383891470472,"Mora, Schweden",5.04,-4.94,0.511121111111111,3,0.78
+"Berlin","Deutschland",52.510885,13.3989367,"Berlin, Deutschland",5.84,-1.38,2.8074,5,0
+"München","Deutschland",48.1371079,11.5753822,"München, Deutschland",6.24,0.34,2.76771555555556,3,5.1
+"Hamburg","Deutschland",53.550341,10.000654,"Hamburg, Deutschland",6.44,-0.56,3.46479666666667,4,0.1
+"Köln","Deutschland",50.938361,6.959974,"Köln, Deutschland",7.52,4.04,4.99881111111111,5,0
+"Dresden","Deutschland",51.0493286,13.7381437,"Dresden, Deutschland",6.32,-0.1,3.37926388888889,3,0.4
+"Leipzig","Deutschland",51.3406321,12.3747329,"Leipzig, Deutschland",5.76,-1.04,2.86125055555556,4,0.8
+"Frankfurt am Main","Deutschland",50.1106444,8.6820917,"Frankfurt am Main, Deutschland",7.32,1.88,4.38379833333333,5,0
+"Freiburg im Breisgau","Deutschland",47.9960901,7.8494005,"Freiburg im Breisgau, Deutschland",6.68,2.72,3.60553722222222,3,1.5
+"Berchtesgaden","Deutschland",47.6330221,13.0020051,"Berchtesgaden, Deutschland",6.44,1.3,4.21216666666667,2,3.7
+"Garmisch-Partenkirchen","Deutschland",47.4923741,11.0962815,"Garmisch-Partenkirchen, Deutschland",6.56,4.5,3.206555,2,4.6
+"Binz (Rügen)","Deutschland",54.4010291,13.6076477,"Binz (Rügen), Deutschland",6.12,-0.02,1.11603944444444,2,4
+"Heringsdorf (Usedom)","Deutschland",53.9574755379561,14.1561145382659,"Heringsdorf (Usedom), Deutschland",5.92,-1.72,2.42709444444444,3,1.5
+"Westerland (Sylt)","Deutschland",54.9064856,8.3071734,"Westerland (Sylt), Deutschland",6.84,0.44,1.97037111111111,5,0
+"Wernigerode (Harz)","Deutschland",51.8344172,10.7862526,"Wernigerode (Harz), Deutschland",6.04,-1.38,2.53217277777778,4,0.8
+"Cochem (Mosel)","Deutschland",50.1483916,7.1663195,"Cochem (Mosel), Deutschland",7.6,4.84,5.32502166666667,5,0
+"Kempten (Allgäu)","Deutschland",47.7283301033609,10.3134956128828,"Kempten (Allgäu), Deutschland",6.4,0.46,4.17572611111111,2,3.8
+"Nürnberg","Deutschland",49.453872,11.077298,"Nürnberg, Deutschland",7.12,0.6,4.52725222222222,5,0
+"Münster","Deutschland",51.9625101,7.6251879,"Münster, Deutschland",7.48,2.04,5.15372166666667,5,0
+"Stuttgart","Deutschland",48.7784485,9.1800132,"Stuttgart, Deutschland",6.32,1.72,2.61550833333333,4,0.5
+"Norderney","Deutschland",53.7056126,7.1438175,"Norderney, Deutschland",6.88,0.82,1.49446555555556,5,0
+"Erfurt","Deutschland",50.9777974,11.0287364,"Erfurt, Deutschland",5.88,-1.74,2.34809055555556,4,1.7
+"Bremen","Deutschland",53.0758196,8.8071646,"Bremen, Deutschland",6.32,-0.18,1.51405111111111,5,0
+"Timmendorfer Strand","Deutschland",53.9981853,10.7799016,"Timmendorfer Strand, Deutschland",6.56,0.18,2.88225611111111,4,2
+"Karlsbad","Tschechien",50.2306216,12.8701437,"Karlsbad, Tschechien",6.4,-1.94,4.40773222222222,5,0
+"Enschede","Niederlande",52.2203520784103,6.89276277399481,"Enschede, Niederlande",7.44,1.82,4.291155,5,0
+"Pilsen","Tschechien",49.738291083662,13.373815095209,"Pilsen, Tschechien",5.68,-2.08,1.89685055555556,4,0.6
+"Maastricht","Niederlande",50.8512438,5.6909768,"Maastricht, Niederlande",7,5.92,2.88502611111111,4,2.2
+"Giethoorn","Niederlande",52.741105,6.077431,"Giethoorn, Niederlande",7.64,1.5,5.43908333333333,5,0
+"Groningen","Niederlande",53.2194889849201,6.56569017951351,"Groningen, Niederlande",7.2,0.66,3.58357444444444,4,0.7
+"Eindhoven","Niederlande",51.4380321789511,5.47601718115641,"Eindhoven, Niederlande",7.04,4.42,3.04378277777778,4,1.2
+"Prag","Tschechien",50.0874654,14.4212535,"Prag, Tschechien",6.28,-0.64,2.61071944444444,5,0
+"Luxemburg","Luxemburg",49.6121816191827,6.12761269146448,"Luxemburg",6.68,3.68,2.64774166666667,3,1.9
+"Straßburg","Frankreich",48.584614,7.7507127,"Straßburg, Frankreich",6.48,1.68,2.67001055555556,3,1.1
+"Amsterdam","Niederlande",52.3730796,4.8924534,"Amsterdam, Niederlande",7.04,2.58,3.41881222222222,4,3.7
+"Dinant","Belgien",50.2591813,4.9130588,"Dinant, Belgien",6.92,6.06,2.51242888888889,4,4.9
+"Rotterdam","Niederlande",51.9244424,4.47775,"Rotterdam, Niederlande",6.96,3.96,3.11593777777778,4,4.3
+"Antwerpen","Belgien",51.2211097,4.3997081,"Antwerpen, Belgien",6.88,5.92,2.18054777777778,4,5.6
+"Zandvoort","Niederlande",52.3719838,4.5302209,"Zandvoort, Niederlande",7,3.18,3.02547388888889,4,5.6
+"Český Krumlov","Tschechien",48.8106526,14.3150586,"Český Krumlov, Tschechien",5.48,-2.34,1.69315888888889,4,4.4
+"Terschelling","Niederlande",53.3643463061866,5.21443497127834,"Terschelling, Niederlande",7.2,1.98,3.73991555555556,5,0
+"Noordwijk","Niederlande",52.2410856,4.4461969,"Noordwijk, Niederlande",7.04,3.24,2.97681777777778,4,5.3
+"Bergen aan Zee","Niederlande",52.6607662,4.6316645,"Bergen aan Zee, Niederlande",7.2,2.24,3.73394833333333,4,1.8
+"Nancy","Frankreich",48.6896465492961,6.18236505173213,"Nancy, Frankreich",7.04,5.34,3.39272111111111,4,0.2
+"Brüssel","Belgien",50.8465573,4.351697,"Brüssel, Belgien",6.84,5.74,2.76291555555556,3,7.9
+"Texel","Niederlande",53.0543143461686,4.79876535287512,"Texel, Niederlande",7.24,2.12,3.95689777777778,5,0
+"Scheveningen","Niederlande",52.1067449,4.2736937,"Scheveningen, Niederlande",6.84,3.76,2.55372555555556,4,5
+"Fåborg","Dänemark",55.097087,10.2428246,"Fåborg, Dänemark",6.32,0.08,0.0611355555555556,4,0.68
+"Salzburg","Österreich",47.7981346,13.0464806,"Salzburg, Österreich",6.96,0.88,4.39161444444444,2,3.1
+"Renesse","Niederlande",51.7311823,3.7719799,"Renesse, Niederlande",7.2,5.48,4.668705,4,5.1
+"Linz","Österreich",48.3059078,14.286198,"Linz, Österreich",6.8,-0.56,5.28042166666667,3,4.2
+"Zürich","Schweiz",47.3744489,8.5410422,"Zürich, Schweiz",6.24,1.16,2.54392833333333,3,7
+"Basel","Schweiz",47.5589680548118,7.58875075727046,"Basel, Schweiz",6.56,2.8,3.63482166666667,3,1
+"Innsbruck","Österreich",47.2654296,11.3927685,"Innsbruck, Österreich",6.84,4.58,3.90869166666667,3,2.6
+"Domburg","Niederlande",51.5632141,3.4967277,"Domburg, Niederlande",7.2,5.9,3.91826722222222,4,5.3
+"Breslau","Polen",51.1082644352883,17.0337679840311,"Breslau, Polen",6.44,0.94,2.16421944444444,4,0.2
+"Køge","Dänemark",55.4565009,12.1818964,"Køge, Dänemark",5.88,-0.22,0,1,2.43
+"Posen","Polen",52.4082663,16.9335199,"Posen, Polen",5.52,-1.36,1.69407666666667,3,0.6
+"Zell am See","Österreich",47.3239636,12.7963165,"Zell am See, Österreich",6.92,3.08,4.80860777777778,2,4
+"Brügge","Belgien",51.2085526,3.226772,"Brügge, Belgien",7.04,5.86,3.32775888888889,3,5.3
+"Hallstatt","Österreich",47.5621698,13.6486697,"Hallstatt, Österreich",6.96,4.52,4.96514222222222,3,2.7
+"Luzern","Schweiz",47.0505452,8.3054682,"Luzern, Schweiz",6.68,2.18,4.039215,3,5.6
+"De Haan","Belgien",51.2671194,3.0408427,"De Haan, Belgien",7.04,5.8,3.31132222222222,3,4.4
+"Ostende","Belgien",51.2258565,2.919496,"Ostende, Belgien",7,5.8,3.074145,3,3.7
+"Kopenhagen","Dänemark",55.6867243,12.5700724,"Kopenhagen, Dänemark",5.68,-0.38,0.0157505555555556,3,1.03
+"Malmö","Schweden",55.6052931,13.0001566,"Malmö, Schweden",6.16,-0.36,0.0111783333333333,4,0.05
+"Brünn","Tschechien",49.1944262292563,16.6077238664507,"Brünn, Tschechien",7,2.62,3.02519888888889,3,0.66
+"Meran","Italien",46.6695547,11.1594185,"Meran, Italien",5.32,4.56,3.05475333333333,1,13.4
+"Bern","Schweiz",46.9484742,7.4521749,"Bern, Schweiz",6.88,2.88,3.94434833333333,3,1.7
+"Bornholm","Dänemark",55.1431224,14.9226297,"Bornholm, Dänemark",5.44,-0.66,0,2,1.73
+"Aarhus","Dänemark",56.1496278,10.2134046,"Aarhus, Dänemark",5.44,-0.64,0.0103644444444444,3,0.5
+"St. Moritz","Schweiz",46.4978958,9.8392428,"St. Moritz, Schweiz",3.28,-3.34,3.95672388888889,2,10.3
+"Hvide Sande","Dänemark",56.0057884,8.1288435,"Hvide Sande, Dänemark",5.96,-0.64,1.06429666666667,5,0
+"Interlaken","Schweiz",46.6855231,7.8585139,"Interlaken, Schweiz",6.88,4.1,4.47628111111111,3,4.3
+"Bozen","Italien",46.4984781,11.3547399,"Bozen, Italien",5.16,4.28,2.74549888888889,1,15.3
+"Wien","Österreich",48.2083537,16.3725042,"Wien, Österreich",6.24,1.14,0.945253333333333,3,3.9
+"Dijon","Frankreich",47.3306482417266,5.04637916570386,"Dijon, Frankreich",6.24,5.62,2.15478777777778,2,3
+"Ostrava","Tschechien",49.8357051466446,18.2847749462072,"Ostrava, Tschechien",6.16,1.1,4.13364111111111,4,2.4
+"Klagenfurt am Wörthersee","Österreich",46.623943,14.3075976,"Klagenfurt am Wörthersee, Österreich",5.8,1.6,3.95796611111111,2,6.2
+"Riva del Garda","Italien",45.8847708,10.8396942,"Riva del Garda, Italien",4.5,5.36,2.78131166666667,2,27.2
+"Graz","Österreich",47.0708678,15.4382786,"Graz, Österreich",6.52,1.94,3.84331166666667,3,7.8
+"Le Touquet-Paris-Plage","Frankreich",50.519693648444,1.5869973052921,"Le Touquet-Paris-Plage, Frankreich",7.08,7.42,3.11805333333333,4,0.1
+"Bratislava","Slowakei",48.1516988,17.1093063,"Bratislava, Slowakei",6.68,2.48,2.80226,3,3.7
+"Zermatt","Schweiz",46.0212076,7.749254,"Zermatt, Schweiz",4.9,-1,5.12268777777778,1,6.8
+"Bled","Slowenien",46.3684202,14.1100595,"Bled, Slowenien",5.08,2.62,3.98021444444444,2,9.4
+"Paris","Frankreich",48.8534951,2.3483915,"Paris, Frankreich",7.12,8.02,3.16960611111111,4,0.9
+"Norwich","England",52.6303076934772,1.29532126502049,"Norwich, England",6.44,6.06,1.11855388888889,3,3
+"Ipswich","England",52.0570559966874,1.15209854040659,"Ipswich, England",6.44,6,1.70351388888889,2,6.1
+"Katowice","Polen",50.264663446807,19.0188489472198,"Katowice, Polen",6.4,0.88,4.44590666666667,3,2.3
+"Torri del Benaco","Italien",45.6094493,10.6873869,"Torri del Benaco, Italien",4.88,8.16,2.83178944444444,2,13.2
+"Genf","Schweiz",46.2017559,6.1466014,"Genf, Schweiz",5.48,3.12,1.89699388888889,2,4.7
+"Sirmione","Italien",45.465106341539,10.6074284600272,"Sirmione, Italien",4.7,6.36,2.79803333333333,1,11.2
+"Mailand","Italien",45.4641943,9.1896346,"Mailand, Italien",4.54,5.12,1.72917611111111,2,15.8
+"Danzig","Polen",54.3706858,18.6129831,"Danzig, Polen",4.8,-4.2,1.23529611111111,3,1.6
+"Maribor","Slowenien",46.5536194239738,15.6470952284808,"Maribor, Slowenien",4.74,1.66,3.57046777777778,2,12.4
+"Ljubljana","Slowenien",46.0500268,14.5069289,"Ljubljana, Slowenien",5.36,3.4,3.78208888888889,2,11.5
+"Annecy","Frankreich",45.8992348,6.1288847,"Annecy, Frankreich",5.96,4.7,1.79378944444444,2,7.2
+"Venedig","Italien",45.4371908,12.3345898,"Venedig, Italien",5.08,7.78,1.90913666666667,1,16.5
+"Triest","Italien",45.651996855795,13.7625166166528,"Triest, Italien",5.28,10.04,3.16075166666667,1,15.6
+"Cambridge","England",52.2039079652867,0.123678265263848,"Cambridge, England",6.4,6.28,1.40990388888889,2,7.1
+"Krakau","Polen",50.0619474,19.9368564,"Krakau, Polen",6.24,-0.3,3.47914888888889,2,3.2
+"Skagen","Dänemark",57.7259703,10.5844602,"Skagen, Dänemark",5.56,-1.68,0,4,0.1
+"London","England",51.4893335,-0.1440551,"London, England",6.76,7.12,2.12873555555556,3,1.6
+"Göteborg","Schweden",57.7072326,11.9670171,"Göteborg, Schweden",5.4,-2.72,0,5,0
+"Brighton","England",50.8214626,-0.1400561,"Brighton, England",6.08,7.42,3.21820388888889,3,1.9
+"Zakopane","Polen",49.2969114,19.9504753,"Zakopane, Polen",6.64,0.9,6.12150611111111,2,2.5
+"Lyon","Frankreich",45.7578137,4.8320114,"Lyon, Frankreich",4.16,6.12,1.6012,1,21.9
+"Bourges","Frankreich",47.0816637770149,2.3971472645533,"Bourges, Frankreich",6.66,8,4.347405,4,3.3
+"Rovinj","Kroatien",45.0807411,13.6417282,"Rovinj, Kroatien",4.88,10.1,4.18251111111111,2,20.4
+"Balaton","Ungarn",46.8839313,17.8476796,"Balaton, Ungarn",5.96,1.72,2.03344166666667,3,7.8
+"Zagreb","Kroatien",45.8130967,15.9772795,"Zagreb, Kroatien",5.6,4.28,2.62555666666667,1,14.8
+"Deauville","Frankreich",49.3575767556172,0.0714877491844544,"Deauville, Frankreich",7.48,8.56,6.85177,3,0.6
+"Warschau","Polen",52.2319581,21.0067249,"Warschau, Polen",5.36,-2.42,1.45824333333333,3,2.4
+"Hohe Tatra (Tatranská Lomnica)","Slowakei",49.13815,20.21931,"Hohe Tatra (Tatranská Lomnica), Slowakei",6.48,0.34,3.94946722222222,1,2.2
+"Pula","Kroatien",44.8702281,13.8455311,"Pula, Kroatien",4.88,10.88,4.17871,1,25.8
+"Budapest","Ungarn",47.4970637896166,19.0389974414942,"Budapest, Ungarn",6.96,1.8,3.84364333333333,4,0.5
+"Kristiansand","Norwegen",58.1471572706719,7.9950701511758,"Kristiansand, Norwegen",2.72,-2.52,1.28324666666667,1,8.71
+"Oxford","England",51.7521094440644,-1.25943310722207,"Oxford, England",6.36,6.6,1.44910777777778,2,1.9
+"Cinque Terre","Italien",44.1222144,9.7132501,"Cinque Terre, Italien",3.92,10.62,4.72786222222222,1,37.8
+"Isle of Wight","England",50.6985908387884,-1.29460617388774,"Isle of Wight, England",5.68,7.86,4.393,2,4
+"Le Mans","Frankreich",48.0040247155424,0.196846381986147,"Le Mans, Frankreich",6.12,8.74,6.55401944444444,3,3.9
+"Clermont-Ferrand","Frankreich",45.7775124600661,3.08329535096197,"Clermont-Ferrand, Frankreich",6.4,6.4,2.65208611111111,2,1.5
+"York","England",53.9613991992233,-1.08076703662315,"York, England",5.04,6.08,0.663246111111111,1,3.1
+"Plitvicer Seen","Kroatien",44.8654878218141,15.5820762694377,"Plitvicer Seen, Kroatien",4.86,4.72,3.56002111111111,1,15.7
+"Rimini","Italien",44.0594531009706,12.5690522641146,"Rimini, Italien",6.48,8.2,3.55312055555556,3,28.6
+"Viareggio","Italien",43.8672392,10.2506055,"Viareggio, Italien",3.84,11.68,4.97163555555556,1,17.36
+"Birmingham","England",52.4788842342774,-1.89786812579122,"Birmingham, England",6.16,5.9,1.29214833333333,2,0.76
+"Florenz","Italien",43.7697955,11.2556404,"Florenz, Italien",5.3,10.64,4.90094722222222,2,17.6
+"Bournemouth","England",50.7214920062153,-1.87307077668799,"Bournemouth, England",4.92,7.5,3.11008944444444,2,10.3
+"Sanremo","Italien",43.8198253,7.7748827,"Sanremo, Italien",4.66,10.8,2.28109222222222,1,19
+"Monaco","Monaco",43.7334413733639,7.41993669279883,"Monaco",4.5,10.12,2.30439388888889,1,16.86
+"Bath","England",51.3780084716059,-2.35965660980024,"Bath, England",4.78,6.3,2.36259222222222,2,14.48
+"Klaipėda","Litauen",55.7127529,21.1350469,"Klaipėda, Litauen",4.32,-7.62,1.39658722222222,4,0.6
+"Visby (Gotland)","Schweden",57.6348041245621,18.2943388532952,"Visby (Gotland), Schweden",5.4,-3.34,0.117979444444444,4,0.3
+"Nizza","Frankreich",43.7009358,7.2683912,"Nizza, Frankreich",4.42,11.2,2.67228777777778,0,20.24
+"Manchester","England",53.4794892,-2.2451148,"Manchester, England",7.04,6.94,3.36520833333333,4,1.8
+"Newcastle upon Tyne","England",54.9730244812033,-1.60861921007895,"Newcastle upon Tyne, England",3.94,5.6,0.795328888888889,1,13.2
+"Zadar","Kroatien",44.1168594,15.2353257,"Zadar, Kroatien",3.58,12.42,2.67051777777778,1,25.3
+"Cannes","Frankreich",43.5515198,7.0134418,"Cannes, Frankreich",3.98,8.64,2.71536944444444,1,36.7
+"Saint Helier","Jersey",49.2167,-2.13753,"Saint Helier, Jersey",6.56,8.18,4.86898666666667,2,5.4
+"Avignon","Frankreich",43.9492493,4.8059012,"Avignon, Frankreich",4.12,8.14,2.28410055555556,1,35.2
+"Saint-Malo","Frankreich",48.649518,-2.0260409,"Saint-Malo, Frankreich",6.84,9.08,4.91638666666667,2,4
+"Liverpool","England",53.4071991,-2.99168,"Liverpool, England",6,6.32,0.606906111111111,1,6.95
+"Cardiff","Wales",51.4816546,-3.1791934,"Cardiff, Wales",4.44,6.88,4.37988611111111,1,21.33
+"Debrecen","Ungarn",47.5290944086337,21.6264905369519,"Debrecen, Ungarn",7.12,2.84,4.56575,4,0.8
+"Windermere (Lake District)","England",54.3802798094634,-2.90734459300512,"Windermere (Lake District), England",5.76,5.64,2.30578,4,11.9
+"Portoferraio (Elba)","Italien",42.8127815518848,10.3213971426561,"Portoferraio (Elba), Italien",3.34,12.76,5.321985,1,23.3
+"Oslo","Norwegen",59.9133301,10.7389701,"Oslo, Norwegen",5.28,-5.96,1.77750888888889,5,0
+"Marseille","Frankreich",43.2961743,5.3699525,"Marseille, Frankreich",4.62,10.76,4.18385944444444,2,32.3
+"Montpellier","Frankreich",43.6112422,3.8767337,"Montpellier, Frankreich",3.92,9.12,1.86840444444444,1,45.4
+"Calvi","Frankreich",42.5677079,8.7590528,"Calvi, Frankreich",4.5,14.04,5.61339222222222,1,10.74
+"Novi Sad","Serbien",45.2551338,19.8451756,"Novi Sad, Serbien",7.64,6.62,6.87427722222222,5,0
+"Split","Kroatien",43.5116383,16.4399659,"Split, Kroatien",3.6,12.5,3.14983222222222,0,51
+"Saint-Nazaire","Frankreich",47.275366001175,-2.21686084980837,"Saint-Nazaire, Frankreich",5.8,9.06,6.69064277777778,1,5.5
+"La Rochelle","Frankreich",46.159732,-1.1515951,"La Rochelle, Frankreich",5.12,9.56,7.19845555555556,1,6.2
+"Plymouth","England",50.3661537484487,-4.14975485623161,"Plymouth, England",4.92,8.04,4.29494222222222,1,11.8
+"Stockholm","Schweden",59.3251172,18.0710935,"Stockholm, Schweden",5.4,-3.4,1.182725,3,0.5
+"Edinburgh","Schottland",55.9533456,-3.1883749,"Edinburgh, Schottland",6.12,4.86,0.793010555555555,1,3.2
+"Sarajevo","Bosnien-Herzegowina",43.8519774,18.3866868,"Sarajevo, Bosnien-Herzegowina",4.88,5.78,4.18659277777778,2,6.8
+"Douglas","Isle of Man",54.152299920289,-4.4851686250414,"Douglas, Isle of Man",5.72,5.7,3.61656277777778,2,7.4
+"Belgrad","Serbien",44.8178131,20.4568974,"Belgrad, Serbien",7.6,7.18,7.53621277777778,4,0.2
+"Ajaccio","Frankreich",41.9263991,8.7376029,"Ajaccio, Frankreich",2.8,13,5.20362444444444,0,21.85
+"Bergen","Norwegen",60.3943055,5.3259192,"Bergen, Norwegen",6.6,-2.48,3.95440777777778,5,0
+"Mostar","Bosnien-Herzegowina",43.3435855,17.8076584,"Mostar, Bosnien-Herzegowina",3.4,12.28,1.52121555555556,1,55.6
+"Uppsala","Schweden",59.8586126,17.6387436,"Uppsala, Schweden",5.24,-4.28,1.19994277777778,4,0.9
+"Rom","Italien",41.8933203,12.4829321,"Rom, Italien",5.04,13.26,5.95408166666667,2,7.35
+"Vilnius","Litauen",54.6870458,25.2829111,"Vilnius, Litauen",4.64,-5.14,2.48117722222222,2,4.8
+"Bordeaux","Frankreich",44.841225,-0.5800364,"Bordeaux, Frankreich",5.58,10.34,5.15437944444444,1,7.16
+"Glasgow","Schottland",55.861155,-4.2501687,"Glasgow, Schottland",5.6,4.72,1.38538111111111,2,6.13
+"Saaremaa","Estland",58.27382,22.2771058,"Saaremaa, Estland",4.6,-5.8,0.000928333333333333,4,0.3
+"Riga","Lettland",56.9493977,24.1051846,"Riga, Lettland",4.76,-7.78,3.85496277777778,3,1.2
+"Brest","Frankreich",48.3905283,-4.4860088,"Brest, Frankreich",4.76,9.28,5.30896833333333,0,12.9
+"St Ives","England",50.2149064,-5.4795083,"St Ives, England",6.16,8.94,5.16762111111111,1,6.7
+"Collioure","Frankreich",42.52505,3.0831554,"Collioure, Frankreich",6.12,9.7,3.83649555555556,1,51.7
+"Cadaqués","Spanien",42.2893484,3.2752159,"Cadaqués, Spanien",6.56,10.5,3.75038666666667,1,36.2
+"Dubrovnik","Kroatien",42.6491029,18.0939501,"Dubrovnik, Kroatien",3.32,11.88,2.30155055555556,0,70
+"Belfast","Nordirland",54.5975804,-5.9277097,"Belfast, Nordirland",4.64,6.28,3.92443722222222,2,11.65
+"Dublin","Irland",53.3493795,-6.2605593,"Dublin, Irland",2.64,7.34,3.70688944444444,0,13.33
+"Inverness","Schottland",57.4790124,-4.225739,"Inverness, Schottland",6.62,4.14,3.79820111111111,3,2.13
+"Olbia","Italien",40.9232659,9.5027442,"Olbia, Italien",7.64,12.26,7.48931,3,1.95
+"Andorra la Vella","Andorra",42.5063185063084,1.52143838753646,"Andorra la Vella, Andorra",6.38,5,5.62947277777778,1,13.7
+"Kotor","Montenegro",42.4249205,18.7713332,"Kotor, Montenegro",2.92,15.04,1.51034888888889,0,93.8
+"Sibiu","Rumänien",45.7973912,24.1519202,"Sibiu, Rumänien",6.24,2.2,2.83678833333333,2,5.3
+"Budva","Montenegro",42.2885656,18.8419505,"Budva, Montenegro",3.24,15.16,1.66957166666667,1,77.14
+"Neapel","Italien",40.8358846,14.2487679,"Neapel, Italien",4.78,14.18,7.98280611111111,1,15.3
+"Lloret de Mar","Spanien",41.6995109112219,2.84230767990933,"Lloret de Mar, Spanien",6.8,11.1,3.38150722222222,2,19.26
+"Geiranger","Norwegen",62.1006277,7.2058959,"Geiranger, Norwegen",5.6,-4.34,3.66083777777778,4,2
+"Capri","Italien",40.5504891322527,14.2434581094189,"Capri, Italien",3.74,13.28,7.15155,1,26.8
+"Biarritz","Frankreich",43.4832523,-1.5592776,"Biarritz, Frankreich",3.08,11.5,4.230825,0,53.3
+"Bari","Italien",41.1159722415926,16.8715523467793,"Bari, Italien",7.14,14.1,5.64124722222222,1,1.5
+"Turku","Finnland",60.4517531,22.2670522,"Turku, Finnland",4.8,-7.88,1.19703722222222,5,0
+"Barcelona","Spanien",41.3828939,2.1774322,"Barcelona, Spanien",7.52,11.88,5.71592388888889,4,10.6
+"San Sebastián","Spanien",43.3224219,-1.9838889,"San Sebastián, Spanien",5.52,10.24,5.36247333333333,1,18
+"Tallinn","Estland",59.4372155,24.7453688,"Tallinn, Estland",4.76,-9.22,1.68783,4,0.2
+"Cork","Irland",51.8985136,-8.4726423,"Cork, Irland",5.2,7.1,6.60601555555556,1,17.9
+"Prizren","Kosovo",42.2130151,20.7363339,"Prizren, Kosovo",5.2,6.44,5.36736611111111,3,8.8
+"Brașov","Rumänien",45.6525105,25.6105654,"Brașov, Rumänien",7,3.6,3.76260555555556,2,2.7
+"Galway","Irland",53.2744122,-9.0490601,"Galway, Irland",6.76,6.48,5.14009166666667,2,1.38
+"Helsinki","Finnland",60.1674881,24.9427473,"Helsinki, Finnland",4.12,-7.96,0.136080555555556,3,2.7
+"Östersund","Schweden",63.1764516209841,14.6360535585664,"Östersund, Schweden",4.88,-7.12,1.97964166666667,3,0.8
+"Trondheim","Norwegen",63.4305556561412,10.3946430432563,"Trondheim, Norwegen",5.64,-3.7,3.21110722222222,4,5.2
+"Cagliari","Italien",39.2171994,9.113311,"Cagliari, Italien",6.26,13.98,6.11062388888889,2,11.6
+"Menorca","Spanien",40.0002915558116,3.83694913822369,"Menorca, Spanien",6.42,12.88,6.91587055555556,1,6.2
+"Sofia","Bulgarien",42.6977028,23.3217359,"Sofia, Bulgarien",6.96,6.62,6.00651277777778,3,12
+"Porvoo","Finnland",60.3943748,25.6619265,"Porvoo, Finnland",4.48,-9.5,0.0129905555555556,4,0.03
+"Ohrid","Nordmazedonien",41.1170203,20.8017715,"Ohrid, Nordmazedonien",5.58,7.84,5.39723722222222,3,18
+"Berat","Albanien",40.7018636,19.9580758,"Berat, Albanien",5.76,16.08,7.00024388888889,2,8
+"Tampere","Finnland",61.497087739054,23.7521462279535,"Tampere, Finnland",4.8,-9.72,1.09738611111111,5,0
+"Bukarest","Rumänien",44.4361414,26.1027202,"Bukarest, Rumänien",5.34,4.6,0.121662222222222,3,2.2
+"Palma de Mallorca","Spanien",39.5695818,2.6500745,"Palma de Mallorca, Spanien",7.6,13.46,8.33347333333333,2,3
+"Gijon","Spanien",43.5316584992062,-5.6609472423598,"Gijon, Spanien",5.16,11.92,6.97474777777778,1,8.7
+"Tropea","Italien",38.6752674,15.8948507,"Tropea, Italien",5.16,15.42,6.89497277777778,0,33.9
+"Saranda","Albanien",39.8752198,20.0065258,"Saranda, Albanien",3.92,15.38,4.133285,1,43
+"Palermo","Italien",38.1112268,13.3524434,"Palermo, Italien",5.36,15,6.17831611111111,1,15.84
+"Plowdiw","Bulgarien",42.1418541,24.7499297,"Plowdiw, Bulgarien",7.28,7.34,4.14774333333333,4,1.2
+"Korfu","Griechenland",39.6253347638355,19.9220104851372,"Korfu, Griechenland",2.52,15.32,4.16550166666667,0,47.1
+"Umeå","Schweden",63.8251647076852,20.2626771929487,"Umeå, Schweden",4.8,-4.98,0.4306,2,3.1
+"Ibiza","Spanien",38.9743901,1.4197463,"Ibiza, Spanien",8.12,13.78,8.95266222222222,5,0
+"Thessaloniki","Griechenland",40.6403167,22.9352716,"Thessaloniki, Griechenland",7.44,14,6.24645388888889,3,2.6
+"Valencia","Spanien",39.4697065,-0.3763353,"Valencia, Spanien",8.72,15.5,8.93468055555556,5,0
+"Catania","Italien",37.5023612,15.0873718,"Catania, Italien",7.56,15.34,7.23863055555556,1,7.6
+"Warna","Bulgarien",43.2073873,27.9166653,"Warna, Bulgarien",5.64,10.08,1.32954777777778,3,7.4
+"Lefkada","Griechenland",38.8333487088844,20.7064809271845,"Lefkada, Griechenland",4.7,15.76,5.29003333333333,1,40.3
+"Madrid","Spanien",40.4167047,-3.7035825,"Madrid, Spanien",6.78,8.58,8.33225388888889,3,4.5
+"Sonnenstrand","Bulgarien",42.6892559,27.7060843,"Sonnenstrand, Bulgarien",5.88,10.68,2.72369,3,11.8
+"Alicante","Spanien",38.346030026455,-0.491374159785667,"Alicante, Spanien",8.56,15.36,8.59587611111111,5,0
+"Santiago de Compostela","Spanien",42.8788422152051,-8.53863309616042,"Santiago de Compostela, Spanien",2.44,9.48,3.80799833333333,0,18.45
+"Luleå","Schweden",65.5846527615472,22.1563167850797,"Luleå, Schweden",4.4,-7,0.343283333333333,3,1.5
+"Valletta","Malta",35.8989979,14.5136607,"Valletta, Malta",6.56,16.02,7.90563555555556,2,1.6
+"Oulu","Finnland",65.0119462747986,25.4647727219167,"Oulu, Finnland",3.96,-7.8,0.0436316666666667,3,1.7
+"Athen","Griechenland",37.9755648,23.7348324,"Athen, Griechenland",8.12,16.04,7.82096777777778,4,3.5
+"Porto","Portugal",41.1494512,-8.6107884,"Porto, Portugal",1.76,11.74,4.28423111111111,0,29
+"Istanbul","Türkei",41.006381,28.9758715,"Istanbul, Türkei",6.14,12.72,4.45755722222222,2,6.3
+"Lofoten","Norwegen",68.1464764991898,13.6109296527354,"Lofoten, Norwegen",5.68,-1.34,2.59229055555556,4,1.6
+"Almeria","Spanien",36.8376728403504,-2.46418473944758,"Almeria, Spanien",8.4,16.1,8.53553888888889,5,0
+"Rovaniemi","Finnland",66.5029119866617,25.7268200582044,"Rovaniemi, Finnland",3.96,-8.58,0.042625,3,2.35
+"Granada","Spanien",37.1734995,-3.5995337,"Granada, Spanien",4.5,8.28,7.21164666666667,1,14.65
+"Kiruna","Schweden",67.8556547023916,20.2253338012367,"Kiruna, Schweden",3.96,-7.14,0.05,3,1.8
+"Izmir","Türkei",38.4229511849681,27.1382155810308,"Izmir, Türkei",6.18,16.96,7.18715722222222,2,8.2
+"Nazaré","Portugal",39.6029108,-9.0701572,"Nazaré, Portugal",1.78,13.28,4.34369388888889,0,32.95
+"Málaga","Spanien",36.7213028,-4.4216366,"Málaga, Spanien",7.72,15.54,7.70634666666667,2,1.7
+"Sevilla","Spanien",37.3886303,-5.9953403,"Sevilla, Spanien",6.2,13.52,6.528285,2,9.6
+"Santorini","Griechenland",36.4201531413258,25.4321704003784,"Santorini, Griechenland",6.46,16.08,8.78538611111111,1,4.4
+"Ericeira","Portugal",38.9632411,-9.4170802,"Ericeira, Portugal",2.2,13.94,4.28720222222222,0,34.6
+"Lissabon","Portugal",38.7077507,-9.1365919,"Lissabon, Portugal",2.54,13.64,4.53768388888889,0,15.46
+"Chania","Griechenland",35.5120831,24.0191544,"Chania, Griechenland",8.48,18.36,8.32765277777778,3,1.3
+"Tromsø","Norwegen",69.6516345,18.9558585,"Tromsø, Norwegen",3.48,-5.98,0.0650805555555556,3,4.4
+"Bodrum","Türkei",37.0343987,27.430651,"Bodrum, Türkei",3.4,17.08,7.53248666666667,1,45.5
+"Cádiz","Spanien",36.5297438,-6.2928976,"Cádiz, Spanien",3.24,14.28,6.56795555555556,0,22.36
+"Tarifa","Spanien",36.0129082,-5.6050213,"Tarifa, Spanien",2.58,14.76,6.89284222222222,0,22.75
+"Faro","Portugal",37.0162944,-7.935182,"Faro, Portugal",4.34,14.14,5.88715388888889,1,17.1
+"Heraklion","Griechenland",35.33908,25.1332843,"Heraklion, Griechenland",9.08,19.18,9.13934,5,0
+"Lagos","Portugal",37.1027878395464,-8.67310490387623,"Lagos, Portugal",2.84,13.84,4.63465777777778,0,23.9
+"Rhodos","Griechenland",36.4362131686456,28.2181605194688,"Rhodos, Griechenland",5.96,16.96,7.33794444444444,2,37.26
+"Fethiye","Türkei",36.6221019,29.1153234,"Fethiye, Türkei",5.68,18.38,6.38278166666667,0,8.5
+"Antalya","Türkei",36.8865728,30.7030242,"Antalya, Türkei",1.24,12.86,1.69919166666667,0,91.06
+"Side","Türkei",36.7664439,31.3892197,"Side, Türkei",1.52,14.66,1.80722611111111,0,60
+"Reykjavik","Island",64.145981,-21.9422367,"Reykjavik, Island",5.96,4.86,2.63774333333333,4,5.6
+"Kappadokien","Türkei",38.6386753,34.8457712,"Kappadokien, Türkei",5.38,6.78,5.24679333333333,2,8.7
+"Paphos","Zypern",34.7743988,32.4231586,"Paphos, Zypern",6.16,17.44,7.07412777777778,2,7.2
+"Nikosia","Zypern",35.1746503,33.3638783,"Nikosia, Zypern",6.64,13.88,6.24508777777778,3,25
+"Ayia Napa","Zypern",34.9893216,33.9962036,"Ayia Napa, Zypern",6.56,15.76,6.50733333333333,2,15.86
+"Jönköping","Schweden",57.7833049519418,14.1626080087675,"Jönköping, Schweden",5.04,-3.98,0,4,0.11
+"Örebro","Schweden",59.274603520377,15.2135488115156,"Örebro, Schweden",5.08,-4.06,1.22879555555556,2,2.9
+"Mora","Schweden",61.00468098833,14.5383891470472,"Mora, Schweden",5.16,-6.94,2.198755,4,0.1
