@@ -1,265 +1,271 @@
 "Ort","Land","Score","Ø Höchst&shy;temperatur","Ø Sonnen&shy;stunden pro Tag","Tage ohne Niederschlag","Gesamtnieder&shy;schlag in mm"
-"Berlin","Deutschland :de:",6.4,-1.6,7.30722361111111,2,0
-"München","Deutschland :de:",7.8,5.05,7.79257083333333,1,0.2
-"Hamburg","Deutschland :de:",6.9,-0.3,7.85780277777778,2,0
-"Köln","Deutschland :de:",8.1,9.7,8.34360277777778,2,0
-"Dresden","Deutschland :de:",6.7,2.05,2.22363194444444,1,1
-"Leipzig","Deutschland :de:",6.1,0.45,1.670925,1,0.7
-"Frankfurt am Main","Deutschland :de:",7.6,7.3,6.00957222222222,1,0.1
-"Freiburg im Breisgau","Deutschland :de:",7.6,8.2,6.67101111111111,2,0
-"Berchtesgaden","Deutschland :de:",7.9,5.85,8.66162916666667,2,0
-"Garmisch-Partenkirchen","Deutschland :de:",7.7,6.4,8.71038194444444,2,0
-"Binz (Rügen)","Deutschland :de:",6.2,-2.45,7.73414166666667,2,0
-"Heringsdorf (Usedom)","Deutschland :de:",6.2,-3.4,7.80867083333333,2,0
-"Westerland (Sylt)","Deutschland :de:",6.1,1.5,3.630875,0,2.8
-"Wernigerode (Harz)","Deutschland :de:",6.2,0.95,0.9076375,1,1
-"Cochem (Mosel)","Deutschland :de:",7.9,9.45,8.41621111111111,2,0
-"Kempten (Allgäu)","Deutschland :de:",7.9,5.45,8.64118472222222,2,0
-"Nürnberg","Deutschland :de:",7.5,4.55,5.95292361111111,2,0
-"Münster","Deutschland :de:",8,8.95,8.22533333333333,2,0
-"Stuttgart","Deutschland :de:",8,7.8,8.52510555555556,2,0
-"Norderney","Deutschland :de:",6,2.45,0.0662986111111111,0,1.6
-"Erfurt","Deutschland :de:",6.5,2.95,1.96722916666667,1,1
-"Bremen","Deutschland :de:",6,-0.05,3.81236666666667,1,0.6
-"Timmendorfer Strand","Deutschland :de:",6.2,-1.95,7.25865138888889,2,0
-"Karlsbad","Tschechien :cz:",6.6,2.2,1.262875,1,0.1
-"Enschede","Niederlande :nl:",7.6,9.2,8.2273625,0,0.7
-"Pilsen","Tschechien :cz:",7.5,3.55,5.37030555555556,2,0
-"Maastricht","Niederlande :nl:",7.4,10.3,8.05662777777778,0,2.7
-"Giethoorn","Niederlande :nl:",7,7.2,5.30011805555556,0,1.6
-"Groningen","Niederlande :nl:",6.9,4.7,4.54838472222222,1,0.9
-"Eindhoven","Niederlande :nl:",7.7,9.9,7.89378194444444,1,0.2
-"Prag","Tschechien :cz:",7.8,4.65,6.08984444444445,2,0
-"Luxemburg","Luxemburg :lu:",7.8,7.55,8.34392916666667,2,0
-"Straßburg","Frankreich :fr:",7.6,8.15,7.18914166666667,2,0
-"Amsterdam","Niederlande :nl:",7,8.4,5.21081805555556,0,2.9
-"Dinant","Belgien :be:",7.2,9.8,4.34770138888889,1,0.8
-"Rotterdam","Niederlande :nl:",6.2,8,2.12301111111111,0,8.2
-"Antwerpen","Belgien :be:",6.8,8.85,4.1185125,1,2.7
-"Zandvoort","Niederlande :nl:",6.6,7.1,2.55072916666667,0,3
-"Český Krumlov","Tschechien :cz:",7.2,3.05,4.23502916666667,2,0
-"Terschelling","Niederlande :nl:",6.4,5.35,3.74075972222222,0,2.1
-"Noordwijk","Niederlande :nl:",6.7,8.1,2.322075,0,3
-"Bergen aan Zee","Niederlande :nl:",7.1,8.25,4.40331666666667,0,1.5
-"Nancy","Frankreich :fr:",7.7,8.65,8.35823472222222,2,0
-"Brüssel","Belgien :be:",6.6,9.8,4.141475,0,2.7
-"Texel","Niederlande :nl:",6.4,7.75,3.63874861111111,0,2.2
-"Scheveningen","Niederlande :nl:",6.6,8.05,3.08080277777778,0,2.1
-"Fåborg","Dänemark :dk:",5.6,0.7,2.00935138888889,1,0.6
-"Salzburg","Österreich :at:",7.8,5.35,8.60240555555556,2,0
-"Renesse","Niederlande :nl:",6.6,8.6,4.07369444444444,0,5.1
-"Linz","Österreich :at:",7.9,5.05,6.85246111111111,2,0
-"Zürich","Schweiz :ch:",7.9,6.65,8.66519861111111,2,0
-"Basel","Schweiz :ch:",7.9,8.35,8.57729722222222,2,0
-"Innsbruck","Österreich :at:",7,7.55,8.78051111111111,0,0.6
-"Domburg","Niederlande :nl:",6.8,8.85,4.09373055555556,0,2.1
-"Breslau","Polen :pl:",7,-0.85,8.0516625,1,0.5
-"Køge","Dänemark :dk:",5.7,0.45,0,1,1.5
-"Posen","Polen :pl:",6.6,-4.35,8.11116944444445,2,0
-"Zell am See","Österreich :at:",7.3,6.4,8.58758611111111,1,0.6
-"Brügge","Belgien :be:",6.5,8.9,4.10694861111111,0,6.7
-"Hallstatt","Österreich :at:",7.9,6.65,8.65597777777778,2,0
-"Luzern","Schweiz :ch:",7.6,7.35,8.68932638888889,2,0
-"De Haan","Belgien :be:",6.7,8.75,4.0917875,0,2.2
-"Ostende","Belgien :be:",6.8,8.6,4.09036666666667,0,1.4
-"Kopenhagen","Dänemark :dk:",5,0.05,0,1,3.9
-"Malmö","Schweden :se:",5,0.25,0,1,4.5
-"Brünn","Tschechien :cz:",7.2,3.35,4.44695972222222,1,0.2
-"Meran","Italien :it:",4.7,8.15,8.76670694444444,0,0.9
-"Bern","Schweiz :ch:",7.9,7.4,8.70920416666667,2,0
-"Bornholm","Dänemark :dk:",6.1,1.2,3.82563333333333,1,3.1
-"Aarhus","Dänemark :dk:",4.6,0.15,0,0,2.3
-"St. Moritz","Schweiz :ch:",2.95,-0.0499999999999999,8.80967638888889,0,0.9
-"Hvide Sande","Dänemark :dk:",4.8,0.6,0,0,3.3
-"Interlaken","Schweiz :ch:",7.4,7.5,8.73070555555556,2,0
-"Bozen","Italien :it:",4.6,7.7,8.44358194444444,0,1.1
-"Wien","Österreich :at:",6.8,5.85,4.25043611111111,1,3.1
-"Dijon","Frankreich :fr:",7.3,8.7,8.54620555555556,2,0
-"Ostrava","Tschechien :cz:",7.1,2.25,3.80859305555556,2,0
-"Klagenfurt am Wörthersee","Österreich :at:",3.85,3.85,4.00156805555556,0,11.6
-"Riva del Garda","Italien :it:",4.5,7.65,7.87904305555556,0,1.9
-"Graz","Österreich :at:",6.4,2.85,4.30503472222222,0,5.6
-"Le Touquet-Paris-Plage","Frankreich :fr:",7.9,9.35,8.21288888888889,1,0.3
-"Bratislava","Slowakei :sk:",6.9,5.2,4.22955138888889,1,1.6
-"Zermatt","Schweiz :ch:",2.6,1.6,8.81240416666667,0,0
-"Bled","Slowenien :si:",2.6,5.05,3.61835694444444,0,14.4
-"Paris","Frankreich :fr:",8.1,11.05,8.35430694444444,2,0
-"Norwich","England :gb-eng:",7.9,8.95,7.98424166666667,2,0
-"Ipswich","England :gb-eng:",8,8.55,7.97946944444444,2,0
-"Katowice","Polen :pl:",6.2,5.75,1.61072083333333,0,0.9
-"Torri del Benaco","Italien :it:",5.6,8.8,4.42667638888889,0,4.5
-"Genf","Schweiz :ch:",7.5,7.25,8.65729861111111,2,0
-"Sirmione","Italien :it:",5.9,7.65,4.43496805555556,0,5.6
-"Mailand","Italien :it:",4.1,6.65,4.41549722222222,0,0.3
-"Danzig","Polen :pl:",5.1,-9.8,7.96108055555556,2,0
-"Maribor","Slowenien :si:",6.2,5.05,4.06659861111111,0,4.7
-"Ljubljana","Slowenien :si:",5.4,5.8,4.06053333333333,0,8.2
-"Annecy","Frankreich :fr:",7.5,6.5,8.81846805555556,2,0
-"Venedig","Italien :it:",5.7,8.2,4.19643333333333,0,1.5
-"Triest","Italien :it:",5.7,9.65,4.16742361111111,0,6.5
-"Cambridge","England :gb-eng:",7.7,8.95,7.90665416666667,2,0
-"Krakau","Polen :pl:",5.8,4.3,0,1,0.7
-"Skagen","Dänemark :dk:",4.5,-0.3,0,0,6.1
-"London","England :gb-eng:",7.5,9,6.83643611111111,1,0.3
-"Göteborg","Schweden :se:",4.5,-0.35,0,0,8.3
-"Brighton","England :gb-eng:",7.2,8.6,7.98514722222222,1,2.4
-"Zakopane","Polen :pl:",5.2,3,0,0,3.2
-"Lyon","Frankreich :fr:",7.2,10.9,8.79486111111111,1,0
-"Bourges","Frankreich :fr:",7.9,11.25,8.56063888888889,2,0
-"Rovinj","Kroatien :hr:",5.9,10.5,2.22872222222222,0,5.1
-"Balaton","Ungarn :hu:",6.6,4.45,2.30428888888889,0,1.5
-"Zagreb","Kroatien :hr:",6.5,7,2.356425,0,5.7
-"Deauville","Frankreich :fr:",7.3,9.7,5.723025,1,1.5
-"Warschau","Polen :pl:",5.9,1.75,0.525843055555556,0,0.9
-"Hohe Tatra (Tatranská Lomnica)","Slowakei :sk:",5.5,0.1,0,0,1
-"Pula","Kroatien :hr:",5.3,10.25,0.561469444444444,0,6.2
-"Budapest","Ungarn :hu:",5.7,4.55,2.24238472222222,1,3.9
-"Kristiansand","Norwegen :no:",4,-3.2,0,0,2
-"Oxford","England :gb-eng:",7.2,8.15,6.66118888888889,1,1.2
-"Cinque Terre","Italien :it:",3.95,8.5,4.21786111111111,0,3.8
-"Isle of Wight","England :gb-eng:",6,8.9,6.35028194444444,0,2.7
-"Le Mans","Frankreich :fr:",7.2,10.25,4.29832361111111,1,0.2
-"Clermont-Ferrand","Frankreich :fr:",7.6,10.2,8.78035138888889,2,0
-"York","England :gb-eng:",7.7,8.6,7.614175,2,0
-"Plitvicer Seen","Kroatien :hr:",5.4,5.6,0,0,7.2
-"Rimini","Italien :it:",5.9,9.2,0.0446513888888889,0,5.6
-"Viareggio","Italien :it:",5.05,10.95,2.06238472222222,0,1.9
-"Birmingham","England :gb-eng:",7.1,7.6,6.7985875,1,0.6
-"Florenz","Italien :it:",5.6,10.45,2.26539583333333,0,3
-"Bournemouth","England :gb-eng:",5.15,8.9,4.38805277777778,0,5.7
-"Sanremo","Italien :it:",6.7,11.65,7.14677222222222,1,0
-"Monaco","Monaco :mc:",6.2,12.8,8.97526527777778,1,0
-"Bath","England :gb-eng:",5.6,4.9,0,1,1.2
-"Klaipėda","Litauen :lt:",4.5,-3.2,3.10686805555556,0,3.2
-"Visby (Gotland)","Schweden :se:",4.9,-1,0,0,5.8
-"Nizza","Frankreich :fr:",6.2,12.8,8.97526527777778,1,0
-"Manchester","England :gb-eng:",7.4,8.55,7.72938888888889,2,0
-"Newcastle upon Tyne","England :gb-eng:",6.9,7,4.62276944444444,2,0
-"Zadar","Kroatien :hr:",6.2,14.3,0.00726805555555556,0,2.1
-"Cannes","Frankreich :fr:",7.3,12.8,7.7915125,1,0
-"Saint Helier","Jersey :je:",7.1,9.4,6.87338888888889,1,1.5
-"Avignon","Frankreich :fr:",6.8,11.65,7.2482625,1,0
-"Saint-Malo","Frankreich :fr:",7.5,11.1,6.95099861111111,1,0.9
-"Liverpool","England :gb-eng:",6.4,4.15,2.29201666666667,1,0.6
-"Cardiff","Wales :gb-wls:",5.5,4.95,1.42807083333333,1,2.7
-"Debrecen","Ungarn :hu:",6.6,7.3,4.21091944444444,0,0.9
-"Windermere (Lake District)","England :gb-eng:",7.4,7.6,7.39109166666667,2,0
-"Portoferraio (Elba)","Italien :it:",5.8,13.65,0.0528236111111111,0,3.6
-"Oslo","Norwegen :no:",3.2,-4.75,0,0,8.5
-"Marseille","Frankreich :fr:",7.6,12.95,9.05019722222222,2,0
-"Montpellier","Frankreich :fr:",7.3,11.4,7.1996375,1,0.1
-"Calvi","Frankreich :fr:",7.1,12.8,4.79168888888889,1,0.3
-"Novi Sad","Serbien :rs:",5.9,9.4,4.45726944444444,0,8.8
-"Split","Kroatien :hr:",7.3,15.05,3.88271527777778,0,0.8
-"Saint-Nazaire","Frankreich :fr:",6.4,10.45,7.36506111111111,0,3.5
-"La Rochelle","Frankreich :fr:",6.8,10.55,5.9358625,1,0.8
-"Plymouth","England :gb-eng:",6.1,10.25,5.33703472222222,0,6.3
-"Stockholm","Schweden :se:",5,-1.65,3.19425833333333,0,4.9
-"Edinburgh","Schottland :gb-sct:",7.1,7.35,5.99306666666667,2,0
-"Sarajevo","Bosnien-Herzegowina :ba:",7.7,12.75,4.62220138888889,2,0
-"Douglas","Isle of Man :im:",6.1,4.35,1.67560694444444,1,0.6
-"Belgrad","Serbien :rs:",6.6,8.35,5.90740833333333,1,8.9
-"Ajaccio","Frankreich :fr:",7.6,14.95,8.59101944444444,2,0
-"Bergen","Norwegen :no:",5.6,-1.75,2.88020972222222,1,0.6
-"Mostar","Bosnien-Herzegowina :ba:",7.5,16.1,4.61184444444444,1,0.7
-"Uppsala","Schweden :se:",5.1,-2.4,3.10897083333333,1,6.2
-"Rom","Italien :it:",7.6,16.3,9.12553472222222,1,1.2
-"Vilnius","Litauen :lt:",4.5,-6.25,3.82129166666667,0,3.8
-"Bordeaux","Frankreich :fr:",7.5,11.4,7.34749166666667,1,1.3
-"Glasgow","Schottland :gb-sct:",5.9,3.65,0.438113888888889,1,3.6
-"Saaremaa","Estland :ee:",4.4,-6.65,3.51564722222222,0,8
-"Riga","Lettland :lv:",4.5,-7.6,3.62495972222222,1,7.8
-"Brest","Frankreich :fr:",6.7,10.85,7.4756875,0,2.7
-"St Ives","England :gb-eng:",6.7,11,7.66608888888889,0,0.9
-"Collioure","Frankreich :fr:",8.1,14.25,8.87424027777778,2,0
-"Cadaqués","Spanien :es:",8.1,13.45,8.98219305555556,2,0
-"Dubrovnik","Kroatien :hr:",7.6,16,4.95582777777778,1,0.7
-"Belfast","Nordirland :gb-nir:",6.8,3.55,5.99111666666667,2,0
-"Dublin","Irland :ie:",2.95,4.8,4.25773611111111,0,1.8
-"Inverness","Schottland :gb-sct:",5.6,3.7,0.393233333333333,0,3
-"Olbia","Italien :it:",7.3,14.4,2.40638472222222,1,0.4
-"Andorra la Vella","Andorra :ad:",7.4,5.65,9.01625277777778,1,0.9
-"Kotor","Montenegro :me:",8.3,17.9,7.53654444444444,1,0.1
-"Sibiu","Rumänien :ro:",7.9,8.75,5.72960694444444,2,0
-"Budva","Montenegro :me:",8.3,17.9,7.53654444444444,1,0.1
-"Neapel","Italien :it:",8,18.25,7.61048611111111,1,2.7
-"Lloret de Mar","Spanien :es:",8.2,14.7,9.08834583333333,2,0
-"Geiranger","Norwegen :no:",5.2,-3.75,3.09296388888889,1,1.3
-"Capri","Italien :it:",7.2,16.8,7.52721944444444,1,3.3
-"Biarritz","Frankreich :fr:",7.6,12.05,6.84638611111111,1,1.3
-"Bari","Italien :it:",8.3,16.6,5.69350138888889,2,0
-"Turku","Finnland :fi:",4.3,-8.55,3.2362,1,2.8
-"Barcelona","Spanien :es:",8.1,13.35,9.20194583333333,1,0.6
-"San Sebastián","Spanien :es:",7.3,12.2,7.41650416666667,1,2
-"Tallinn","Estland :ee:",4.2,-10.75,3.48411944444444,1,3.3
-"Cork","Irland :ie:",5.05,4.55,3.91770694444444,1,0.6
-"Prizren","Kosovo :xk:",8.5,15.2,9.17087361111111,2,0
-"Brașov","Rumänien :ro:",8.1,8.4,7.75253333333333,2,0
-"Galway","Irland :ie:",6.5,4.2,3.53199444444444,1,1.2
-"Helsinki","Finnland :fi:",4.4,-9.8,3.18542083333333,1,1.6
-"Östersund","Schweden :se:",4.2,-11.5,2.81171111111111,1,2.6
-"Trondheim","Norwegen :no:",6,-3.95,2.77480416666667,2,0
-"Cagliari","Italien :it:",7.7,15.45,6.40157638888889,1,0.3
-"Menorca","Spanien :es:",8,14.1,7.11157638888889,2,0
-"Sofia","Bulgarien :bg:",8.5,10,8.96715138888889,2,0
-"Porvoo","Finnland :fi:",5.1,-11.65,4.77443888888889,1,0.4
-"Ohrid","Nordmazedonien :mk:",8.4,13.85,8.94355416666667,1,0.2
-"Berat","Albanien :al:",8.9,19.6,9.24163472222222,2,0
-"Tampere","Finnland :fi:",4.7,-9.75,2.01312083333333,1,0.2
-"Bukarest","Rumänien :ro:",8,7.15,7.06115138888889,2,0
-"Palma de Mallorca","Spanien :es:",8.2,14.95,9.26973888888889,2,0
-"Gijon","Spanien :es:",5.9,11.3,4.13789583333333,1,3.2
-"Tropea","Italien :it:",8,18.3,8.49559861111111,1,4.4
-"Saranda","Albanien :al:",8.7,19,9.132075,2,0
-"Palermo","Italien :it:",8.1,19.05,8.30999444444445,1,1.4
-"Plowdiw","Bulgarien :bg:",8.4,8.7,9.07717083333333,2,0
-"Korfu","Griechenland :gr:",8.5,17.45,9.07113333333333,1,0.1
-"Umeå","Schweden :se:",4.5,-9.5,2.57792916666667,1,0.6
-"Ibiza","Spanien :es:",8.2,14.35,9.4791375,1,0.3
-"Thessaloniki","Griechenland :gr:",8.6,13.7,8.41822222222222,2,0
-"Valencia","Spanien :es:",8.4,16.15,8.09447638888889,2,0
-"Catania","Italien :it:",8.2,16.6,9.37648888888889,1,0.9
-"Warna","Bulgarien :bg:",8.3,9.4,7.9814375,2,0
-"Lefkada","Griechenland :gr:",8.9,18.55,9.18486111111111,2,0
-"Madrid","Spanien :es:",6.1,8.35,5.56972083333333,0,2.9
-"Sonnenstrand","Bulgarien :bg:",8.5,11.15,8.59759444444444,2,0
-"Alicante","Spanien :es:",8.3,16.2,8.07048055555556,1,0.3
-"Santiago de Compostela","Spanien :es:",1.4,9.95,1.94505694444444,0,13.8
-"Luleå","Schweden :se:",4.2,-10.4,0,2,0
-"Valletta","Malta :mt:",8.5,17.6,9.6632375,1,0.3
-"Oulu","Finnland :fi:",4.2,-8.2,0,2,0
-"Athen","Griechenland :gr:",8.7,15.9,9.3404875,1,0.3
-"Porto","Portugal :pt:",1.55,12.25,3.881375,0,11.4
-"Istanbul","Türkei :tr:",8.6,12.4,9.1464875,2,0
-"Lofoten","Norwegen :no:",6,-2.5,3.40402777777778,2,0
-"Almeria","Spanien :es:",8.2,16.4,8.55414305555556,1,1.2
-"Rovaniemi","Finnland :fi:",4.4,-16.15,0.536091666666667,2,0
-"Granada","Spanien :es:",4.2,10.4,4.53178194444444,0,8.1
-"Kiruna","Schweden :se:",4.6,-14.65,1.87196944444444,2,0
-"Izmir","Türkei :tr:",8.9,15.85,9.24119305555556,2,0
-"Nazaré","Portugal :pt:",2.4,14.7,3.44699166666667,0,5.1
-"Málaga","Spanien :es:",4.3,14.65,4.54686527777778,0,6
-"Sevilla","Spanien :es:",4.2,14.95,3.16754444444444,0,3.4
-"Santorini","Griechenland :gr:",8.7,14.65,9.26987777777778,2,0
-"Ericeira","Portugal :pt:",2.5,15.15,3.20849444444444,0,6.6
-"Lissabon","Portugal :pt:",2.65,15.4,2.87184722222222,0,6.3
-"Chania","Griechenland :gr:",8.9,17.3,9.13203333333333,2,0
-"Tromsø","Norwegen :no:",3.9,-11.75,0.112943055555556,2,0
-"Bodrum","Türkei :tr:",8.9,16.25,9.28528888888889,2,0
-"Cádiz","Spanien :es:",3.8,15.65,3.06592916666667,0,7
-"Tarifa","Spanien :es:",3.7,15.4,3.10773611111111,0,9.5
-"Faro","Portugal :pt:",3.6,16,0.0609361111111111,0,9
-"Heraklion","Griechenland :gr:",9.1,18.7,9.40188055555556,2,0
-"Lagos","Portugal :pt:",2.35,16.1,0.180763888888889,0,10.5
-"Rhodos","Griechenland :gr:",9,16.2,9.42993194444444,2,0
-"Fethiye","Türkei :tr:",9,16.15,9.46490972222222,2,0
-"Antalya","Türkei :tr:",8.9,16.1,9.60200972222222,2,0
-"Side","Türkei :tr:",8.9,15.75,9.62398333333333,2,0
-"Reykjavik","Island :is:",5.8,5.45,2.67384166666667,1,25.8
-"Kappadokien","Türkei :tr:",8.4,10.2,9.47803888888889,2,0
-"Paphos","Zypern :cy:",8.8,15.5,9.79374166666667,2,0
-"Nikosia","Zypern :cy:",8.9,16.55,9.76612083333333,2,0
-"Ayia Napa","Zypern :cy:",8.9,16.1,9.7726625,2,0
-"Jönköping","Schweden :se:",4.7,-0.65,0,0,9.5
-"Örebro","Schweden :se:",3.8,-1.55,0,0,10.4
-"Mora","Schweden :se:",3.2,-5.5,0,1,6.1
+"Berlin","Deutschland :de:",7.1,4,5.22122638888889,1,1.36
+"München","Deutschland :de:",7.7,7.75,6.84791666666667,1,0.46
+"Hamburg","Deutschland :de:",7.2,5.7,3.97425,1,0.26
+"Köln","Deutschland :de:",6.1,5.85,2.10676527777778,0,6.4
+"Dresden","Deutschland :de:",7.5,7.1,6.61075833333333,1,1.9
+"Leipzig","Deutschland :de:",7.6,7.1,6.59880833333333,1,1
+"Frankfurt am Main","Deutschland :de:",7.8,7.4,6.82083611111111,2,0
+"Freiburg im Breisgau","Deutschland :de:",7.5,9.1,7.08205138888889,1,0.9
+"Berchtesgaden","Deutschland :de:",8.3,10.85,8.6226875,2,0
+"Garmisch-Partenkirchen","Deutschland :de:",7.8,8.35,7.00443333333333,1,0.16
+"Binz (Rügen)","Deutschland :de:",6.8,2.2,5.19531944444444,1,1.56
+"Heringsdorf (Usedom)","Deutschland :de:",6.9,2,4.58211944444444,1,1.16
+"Westerland (Sylt)","Deutschland :de:",6.3,0.5,3.30051666666667,1,4
+"Wernigerode (Harz)","Deutschland :de:",7.8,6.25,6.58319583333333,2,0
+"Cochem (Mosel)","Deutschland :de:",6.4,5.25,2.68181805555556,1,3.6
+"Kempten (Allgäu)","Deutschland :de:",7.6,6.15,6.66769027777778,1,0.3
+"Nürnberg","Deutschland :de:",7.5,7.1,7.22508611111111,1,2.36
+"Münster","Deutschland :de:",6,2.4,0,0,1.9
+"Stuttgart","Deutschland :de:",7.8,8.35,7.39173333333333,1,0.7
+"Norderney","Deutschland :de:",5.9,0.5,1.25742638888889,1,7.3
+"Erfurt","Deutschland :de:",7.8,5.75,6.68274166666667,2,0
+"Bremen","Deutschland :de:",7.5,7.5,5.98308333333333,1,0.3
+"Timmendorfer Strand","Deutschland :de:",6.8,3.55,4.12749861111111,1,0.5
+"Karlsbad","Tschechien :cz:",7.7,4.15,6.86415694444444,2,0
+"Enschede","Niederlande :nl:",6.7,3.9,3.3069,0,1.7
+"Pilsen","Tschechien :cz:",7.8,6.6,6.6494375,1,0.46
+"Maastricht","Niederlande :nl:",7.4,9.1,5.26551388888889,0,0.9
+"Giethoorn","Niederlande :nl:",6.2,3.2,3.97701805555556,0,4.5
+"Groningen","Niederlande :nl:",5.6,0.85,3.93058888888889,0,7.8
+"Eindhoven","Niederlande :nl:",6.8,7.6,3.08646111111111,0,2.3
+"Prag","Tschechien :cz:",7.7,5,5.67892083333333,2,0
+"Luxemburg","Luxemburg :lu:",5.8,4.75,0,0,1.2
+"Straßburg","Frankreich :fr:",7.6,9.45,6.93692916666667,1,0.3
+"Amsterdam","Niederlande :nl:",5.9,6.4,0.526290277777778,0,7
+"Dinant","Belgien :be:",7.5,9.25,4.15435555555556,2,0
+"Rotterdam","Niederlande :nl:",6.2,7.25,0.0818888888888889,1,4.7
+"Antwerpen","Belgien :be:",7.6,8.5,6.72082638888889,1,0.7
+"Zandvoort","Niederlande :nl:",6.3,6.45,1.62066805555556,1,6.7
+"Český Krumlov","Tschechien :cz:",8,5.75,7.15385416666667,2,0
+"Terschelling","Niederlande :nl:",6.1,2.85,3.47585972222222,1,7.6
+"Noordwijk","Niederlande :nl:",6.4,7.25,1.5058625,1,6.1
+"Bergen aan Zee","Niederlande :nl:",5.8,5.6,0.901919444444444,0,8
+"Nancy","Frankreich :fr:",7.6,9.05,6.97869027777778,2,0
+"Brüssel","Belgien :be:",7.6,9,6.18585138888889,1,0.7
+"Texel","Niederlande :nl:",6,4.2,0.674377777777778,1,6
+"Scheveningen","Niederlande :nl:",6.5,7.55,1.69631944444444,1,4.6
+"Fåborg","Dänemark :dk:",5.5,0,3.37062222222222,0,3.6
+"Salzburg","Österreich :at:",8.3,11.65,8.523125,2,0
+"Renesse","Niederlande :nl:",6.7,8.2,3.94445138888889,0,2.9
+"Linz","Österreich :at:",8.1,6.25,7.73503055555556,2,0
+"Zürich","Schweiz :ch:",7.6,7.8,8.21300833333333,1,0.6
+"Basel","Schweiz :ch:",7.6,8.4,8.32072777777778,1,1.4
+"Innsbruck","Österreich :at:",7.5,8.75,7.11638194444444,0,0.7
+"Domburg","Niederlande :nl:",7,8.65,3.0679125,1,1.3
+"Breslau","Polen :pl:",7.3,6.3,2.72790277777778,2,0
+"Køge","Dänemark :dk:",4.9,0.05,0.00317222222222222,1,6.1
+"Posen","Polen :pl:",6.9,2.55,2.5561,1,0.1
+"Zell am See","Österreich :at:",7.6,8.45,8.68863333333333,1,1
+"Brügge","Belgien :be:",7.5,9.2,6.98700694444444,0,0.7
+"Hallstatt","Österreich :at:",8.2,9.5,8.65094166666667,2,0
+"Luzern","Schweiz :ch:",7.8,9,8.57477361111111,2,0
+"De Haan","Belgien :be:",7.9,8.9,7.14121666666667,1,0.2
+"Ostende","Belgien :be:",7.9,8.75,7.65319166666667,1,0.2
+"Kopenhagen","Dänemark :dk:",6.1,0.25,2.39619722222222,1,3
+"Malmö","Schweden :se:",5.6,0.05,3.15099722222222,1,3.5
+"Brünn","Tschechien :cz:",7.1,6.2,2.31090416666667,2,0
+"Meran","Italien :it:",1.95,7.35,6.69350694444444,0,11.8
+"Bern","Schweiz :ch:",7.5,7.55,8.30852361111111,1,0.9
+"Bornholm","Dänemark :dk:",4.9,-1.3,3.78506388888889,1,9.1
+"Aarhus","Dänemark :dk:",4.5,-0.25,0,1,11.9
+"St. Moritz","Schweiz :ch:",1.4,0.8,6.84299583333333,0,23.8
+"Hvide Sande","Dänemark :dk:",5.6,0.45,0,1,2.7
+"Interlaken","Schweiz :ch:",7.8,8.3,8.70495555555556,2,0
+"Bozen","Italien :it:",1.75,7,5.98858472222222,0,17.05
+"Wien","Österreich :at:",8,9.35,5.85117777777778,2,0
+"Dijon","Frankreich :fr:",6.8,7.8,5.03910972222222,1,0.3
+"Ostrava","Tschechien :cz:",7.4,6.35,2.87519444444444,2,0
+"Klagenfurt am Wörthersee","Österreich :at:",4.45,5.85,3.50794444444444,0,6.2
+"Riva del Garda","Italien :it:",1.15,8.55,2.04188333333333,0,31.3
+"Graz","Österreich :at:",7.7,6.95,6.50128611111111,2,0
+"Le Touquet-Paris-Plage","Frankreich :fr:",6.9,9.55,3.23903611111111,1,0.2
+"Bratislava","Slowakei :sk:",7.6,8.45,3.971175,2,0
+"Zermatt","Schweiz :ch:",2.4,3.8,8.6586375,0,1
+"Bled","Slowenien :si:",1,7.5,1.43015,0,20
+"Paris","Frankreich :fr:",6.8,10.4,3.18635833333333,1,0.4
+"Norwich","England :gb-eng:",6.3,8,1.26713055555556,1,1.5
+"Ipswich","England :gb-eng:",6.6,8.3,2.99017916666667,1,1.2
+"Katowice","Polen :pl:",6.8,4.9,2.35001527777778,1,0.1
+"Torri del Benaco","Italien :it:",3.6,9.8,0.963119444444444,0,24.76
+"Genf","Schweiz :ch:",6.4,5.65,6.36063333333333,0,1.2
+"Sirmione","Italien :it:",4,8.75,0.0704166666666667,0,16.7
+"Mailand","Italien :it:",1,6,0,0,12.56
+"Danzig","Polen :pl:",6.3,0.2,4.4906875,0,0.9
+"Maribor","Slowenien :si:",6.4,9.35,2.40548194444444,0,3.4
+"Ljubljana","Slowenien :si:",5.1,10,1.23720277777778,0,7.5
+"Annecy","Frankreich :fr:",6.6,6.15,6.96076388888889,0,0.3
+"Venedig","Italien :it:",3.45,9.65,0,0,9
+"Triest","Italien :it:",2.6,13.15,0.109265277777778,0,18.06
+"Cambridge","England :gb-eng:",6.7,8.95,2.8881125,1,0.6
+"Krakau","Polen :pl:",6.4,3.15,2.31444722222222,0,1.4
+"Skagen","Dänemark :dk:",5,-0.45,4.78666666666667,1,7.2
+"London","England :gb-eng:",6.6,9.6,2.96691805555556,1,0.6
+"Göteborg","Schweden :se:",6,-0.7,6.98951527777778,1,0.8
+"Brighton","England :gb-eng:",6.2,9,2.87611666666667,1,1.8
+"Zakopane","Polen :pl:",7.3,2.75,8.28692361111111,1,0.6
+"Lyon","Frankreich :fr:",6.5,10.3,3.79345694444444,0,2
+"Bourges","Frankreich :fr:",6.9,11.1,6.49420138888889,0,0.2
+"Rovinj","Kroatien :hr:",2.9,13.35,0,0,11.94
+"Balaton","Ungarn :hu:",7.7,9.6,5.90329722222222,1,0.6
+"Zagreb","Kroatien :hr:",7.1,11.4,5.06521666666667,0,2
+"Deauville","Frankreich :fr:",6.6,10.4,4.75991666666667,0,2.36
+"Warschau","Polen :pl:",5.8,-2,4.08577361111111,1,3.8
+"Hohe Tatra (Tatranská Lomnica)","Slowakei :sk:",5.3,0.35,1.13653194444444,0,1.4
+"Pula","Kroatien :hr:",2.8,13.65,0,0,10.34
+"Budapest","Ungarn :hu:",7.5,6.15,8.45138333333333,0,0.2
+"Kristiansand","Norwegen :no:",4,-4.35,0.733898611111111,0,1
+"Oxford","England :gb-eng:",6.3,8.8,2.80006388888889,1,1.2
+"Cinque Terre","Italien :it:",1.05,11.1,0.435533333333333,0,16.5
+"Isle of Wight","England :gb-eng:",5.4,9.15,3.06787916666667,0,1.2
+"Le Mans","Frankreich :fr:",6.3,10.65,6.08132916666667,0,1.8
+"Clermont-Ferrand","Frankreich :fr:",7.2,9.4,5.99437361111111,2,0
+"York","England :gb-eng:",6,6.45,0.421766666666667,1,1.2
+"Plitvicer Seen","Kroatien :hr:",5.5,8.6,1.39048472222222,0,9.25
+"Rimini","Italien :it:",6.4,12.95,0.9832625,0,1.7
+"Viareggio","Italien :it:",3,12.3,0.171794444444444,0,9
+"Birmingham","England :gb-eng:",5.9,7.85,2.86411527777778,1,3.6
+"Florenz","Italien :it:",4.7,11.3,0,0,11.1
+"Bournemouth","England :gb-eng:",5.4,9.1,3.86059861111111,0,1.06
+"Sanremo","Italien :it:",1.65,11.6,2.147075,0,10.56
+"Monaco","Monaco :mc:",1.35,9.8,1.444225,0,11.4
+"Bath","England :gb-eng:",6,6.5,0.789397222222222,1,0.6
+"Klaipėda","Litauen :lt:",4.6,-8.65,3.78011111111111,2,0
+"Visby (Gotland)","Schweden :se:",5.5,-4.45,6.24612916666667,2,0
+"Nizza","Frankreich :fr:",1.35,10.7,1.41008333333333,0,9.05
+"Manchester","England :gb-eng:",6.6,7.45,2.4898625,1,0.3
+"Newcastle upon Tyne","England :gb-eng:",6.4,6.15,2.20603888888889,1,1.5
+"Zadar","Kroatien :hr:",5.7,13.95,1.08609861111111,0,10.46
+"Cannes","Frankreich :fr:",2.85,8.9,1.12198333333333,0,8.7
+"Saint Helier","Jersey :je:",5.35,8.8,5.26817777777778,0,2.26
+"Avignon","Frankreich :fr:",4.3,11.05,4.50626111111111,0,12.16
+"Saint-Malo","Frankreich :fr:",6.2,10.15,5.47432222222222,0,1.4
+"Liverpool","England :gb-eng:",5.8,7.3,0.345488888888889,0,1.8
+"Cardiff","Wales :gb-wls:",5.4,7.75,5.87523888888889,1,0.6
+"Debrecen","Ungarn :hu:",7.8,9.65,8.45977916666667,0,0.2
+"Windermere (Lake District)","England :gb-eng:",6.4,5.95,1.06622916666667,2,0
+"Portoferraio (Elba)","Italien :it:",5.25,14.3,3.60809722222222,0,4
+"Oslo","Norwegen :no:",4.1,-6.15,1.73450555555556,2,0
+"Marseille","Frankreich :fr:",4.7,12.85,5.49480138888889,0,11.76
+"Montpellier","Frankreich :fr:",7,11.6,7.71315694444444,1,2.2
+"Calvi","Frankreich :fr:",5.9,15.1,0.871926388888889,0,2.9
+"Novi Sad","Serbien :rs:",7.4,11.5,8.47147361111111,0,4.6
+"Split","Kroatien :hr:",6,13.8,0.3185625,0,5
+"Saint-Nazaire","Frankreich :fr:",3,10.05,3.9782375,0,6.3
+"La Rochelle","Frankreich :fr:",3.2,10.55,1.37822916666667,0,5.66
+"Plymouth","England :gb-eng:",2.9,9.1,2.48888472222222,0,4.2
+"Stockholm","Schweden :se:",5.1,-3.7,3.36328194444444,2,0
+"Edinburgh","Schottland :gb-sct:",6.6,6.5,3.15189166666667,1,0.6
+"Sarajevo","Bosnien-Herzegowina :ba:",7.4,12,4.44698888888889,2,0
+"Douglas","Isle of Man :im:",5.25,6.1,3.79757916666667,1,1.2
+"Belgrad","Serbien :rs:",6.9,10.25,3.91297638888889,0,1.5
+"Ajaccio","Frankreich :fr:",5.7,13.7,0.400808333333333,0,3.86
+"Bergen","Norwegen :no:",6.5,-0.4,6.43821388888889,2,0
+"Mostar","Bosnien-Herzegowina :ba:",7.3,14.2,4.40622916666667,1,0.3
+"Uppsala","Schweden :se:",5.2,-4.35,3.30395555555556,2,0
+"Rom","Italien :it:",6.2,14.3,1.41736388888889,0,5.8
+"Vilnius","Litauen :lt:",4.5,-10.3,3.82129166666667,2,0
+"Bordeaux","Frankreich :fr:",3.85,9.3,2.07567083333333,0,7.8
+"Glasgow","Schottland :gb-sct:",5.7,5.7,0.779211111111111,1,3
+"Saaremaa","Estland :ee:",4.7,-9.9,4.46898472222222,2,0
+"Riga","Lettland :lv:",5.1,-11.6,7.28585,2,0
+"Brest","Frankreich :fr:",2.6,10.25,4.48486666666667,0,2.46
+"St Ives","England :gb-eng:",1.2,9.7,2.06655277777778,0,7.8
+"Collioure","Frankreich :fr:",8.1,13.4,6.88637777777778,2,0
+"Cadaqués","Spanien :es:",8.1,13,6.96522916666667,2,0
+"Dubrovnik","Kroatien :hr:",7.2,14,4.56959166666667,1,0.3
+"Belfast","Nordirland :gb-nir:",5.15,6.2,3.87340416666667,1,1.8
+"Dublin","Irland :ie:",4.8,7.6,3.9706,1,0.6
+"Inverness","Schottland :gb-sct:",5.6,4.8,0,0,3
+"Olbia","Italien :it:",7.8,15.3,7.37705833333333,1,0.1
+"Andorra la Vella","Andorra :ad:",6.3,3.75,6.52570833333333,0,2.85
+"Kotor","Montenegro :me:",7.8,17.2,5.27741944444444,1,0.3
+"Sibiu","Rumänien :ro:",8.3,10.2,8.59656388888889,2,0
+"Budva","Montenegro :me:",7.8,16.75,5.27741944444444,1,0.16
+"Neapel","Italien :it:",7.1,15.9,4.87845416666667,1,4.3
+"Lloret de Mar","Spanien :es:",8,13.4,7.26561527777778,1,0.3
+"Geiranger","Norwegen :no:",6.1,-3.15,3.49288333333333,2,0
+"Capri","Italien :it:",7.1,15.05,5.36568194444444,1,3.1
+"Biarritz","Frankreich :fr:",6.05,13.5,6.6201375,0,1.6
+"Bari","Italien :it:",8.5,16.55,8.35488333333333,1,0.2
+"Turku","Finnland :fi:",4.8,-7.75,3.84500416666667,2,0
+"Barcelona","Spanien :es:",7.5,12.6,7.26319583333333,1,1.06
+"San Sebastián","Spanien :es:",6,12.4,5.51878611111111,0,3.06
+"Tallinn","Estland :ee:",5.2,-9.05,6.89520416666667,2,0
+"Cork","Irland :ie:",6.9,6.85,8.22765555555556,1,0
+"Prizren","Kosovo :xk:",8.2,11.95,7.21086527777778,2,0
+"Brașov","Rumänien :ro:",8.2,9.15,8.18915,2,0
+"Galway","Irland :ie:",7.2,5.6,7.30681805555555,2,0
+"Helsinki","Finnland :fi:",4,-7.45,0,2,0
+"Östersund","Schweden :se:",4,-7.75,0,2,0
+"Trondheim","Norwegen :no:",5.8,-4.55,5.61650138888889,2,0
+"Cagliari","Italien :it:",7.7,16.15,8.0392375,1,2
+"Menorca","Spanien :es:",7.6,15,8.63959305555555,0,2.8
+"Sofia","Bulgarien :bg:",8.2,7.65,8.74205277777778,2,0
+"Porvoo","Finnland :fi:",4.5,-8.2,1.86913333333333,2,0
+"Ohrid","Nordmazedonien :mk:",8.3,10.45,8.63770555555556,2,0
+"Berat","Albanien :al:",8.6,16.2,9.08430277777778,2,0
+"Tampere","Finnland :fi:",4.4,-7.85,1.00136111111111,2,0
+"Bukarest","Rumänien :ro:",8.2,5.35,8.56320833333333,2,0
+"Palma de Mallorca","Spanien :es:",7,14.05,6.27016805555556,0,7.56
+"Gijon","Spanien :es:",6.4,13.05,5.95162638888889,0,2.8
+"Tropea","Italien :it:",7.9,17.4,8.39420694444444,1,3
+"Saranda","Albanien :al:",8.4,16.05,7.86734444444444,2,0
+"Palermo","Italien :it:",7.8,16.65,6.71060972222222,1,2.4
+"Plowdiw","Bulgarien :bg:",8.1,5.2,8.72379583333333,2,0
+"Korfu","Griechenland :gr:",8.6,15.5,8.82673333333333,2,0
+"Umeå","Schweden :se:",3.8,-6.65,0,0,1.5
+"Ibiza","Spanien :es:",7.6,15.75,5.06041805555556,1,1.2
+"Thessaloniki","Griechenland :gr:",8,11.3,5.95544305555556,1,0.3
+"Valencia","Spanien :es:",7.2,16.2,4.81664027777778,0,2.4
+"Catania","Italien :it:",8,15.85,8.14525138888889,1,0.3
+"Warna","Bulgarien :bg:",8,6.8,8.23193611111111,2,0
+"Lefkada","Griechenland :gr:",8.4,15.7,7.26498333333333,2,0
+"Madrid","Spanien :es:",3.4,8.55,5.03631805555556,0,4.16
+"Sonnenstrand","Bulgarien :bg:",8.3,7.55,8.46561388888889,2,0
+"Alicante","Spanien :es:",8,17.05,5.76435833333333,1,0.3
+"Santiago de Compostela","Spanien :es:",1.7,10.9,5.22284583333333,0,7.74
+"Luleå","Schweden :se:",4.7,-19.4,2.42596111111111,2,0
+"Valletta","Malta :mt:",8.5,16.75,8.5467125,2,0
+"Oulu","Finnland :fi:",5,-13.4,3.27076388888889,2,0
+"Athen","Griechenland :gr:",8.1,13.65,8.57700972222222,1,0.6
+"Porto","Portugal :pt:",1.6,13.1,7.99295833333333,0,20.4
+"Istanbul","Türkei :tr:",8.4,10.1,9.01583194444444,2,0
+"Lofoten","Norwegen :no:",6.2,-2.35,3.36076388888889,2,0
+"Almeria","Spanien :es:",7,16.1,5.1449375,0,5.7
+"Rovaniemi","Finnland :fi:",4.5,-16.4,0.990127777777778,2,0
+"Granada","Spanien :es:",2.5,10.85,0.133113888888889,0,15.7
+"Kiruna","Schweden :se:",4.8,-18.25,2.5673875,2,0
+"Izmir","Türkei :tr:",8.6,13.3,9.22257916666667,2,0
+"Nazaré","Portugal :pt:",2,14.75,8.218825,0,12
+"Málaga","Spanien :es:",2.6,16.4,1.27742083333333,0,13.46
+"Sevilla","Spanien :es:",2.85,16.85,3.92395277777778,0,6.66
+"Santorini","Griechenland :gr:",8.5,13.55,9.40770555555556,1,0.4
+"Ericeira","Portugal :pt:",2.4,15.5,7.91398611111111,0,7.96
+"Lissabon","Portugal :pt:",2.4,16.2,7.81724027777778,0,10.34
+"Chania","Griechenland :gr:",8.8,15.35,8.89706944444444,2,0
+"Tromsø","Norwegen :no:",4.2,-6.8,0.165727777777778,2,0
+"Bodrum","Türkei :tr:",8.7,14.65,9.27785833333333,2,0
+"Cádiz","Spanien :es:",1.95,16.45,3.04202638888889,0,7.7
+"Tarifa","Spanien :es:",1.3,16.75,1.64114444444444,0,16.44
+"Faro","Portugal :pt:",2.25,16.95,5.34217916666667,0,15.14
+"Heraklion","Griechenland :gr:",8.7,16.25,8.78045416666667,2,0
+"Lagos","Portugal :pt:",1.9,16.5,5.60893055555556,0,20.25
+"Rhodos","Griechenland :gr:",8.7,15,9.00846666666667,2,0
+"Fethiye","Türkei :tr:",8.9,16.45,9.50852638888889,2,0
+"Antalya","Türkei :tr:",8.7,14.65,8.82904583333333,2,0
+"Side","Türkei :tr:",8.7,15.15,9.63034583333333,2,0
+"Reykjavik","Island :is:",5.4,5.85,0,0,5.7
+"Kappadokien","Türkei :tr:",8.3,6.35,9.46980416666667,2,0
+"Paphos","Zypern :cy:",8.8,15.95,9.79781805555556,2,0
+"Nikosia","Zypern :cy:",8.7,15.7,9.81657222222222,2,0
+"Ayia Napa","Zypern :cy:",8.8,15.85,9.77307638888889,2,0
+"Jönköping","Schweden :se:",5.5,-2.75,3.17292777777778,2,0
+"Örebro","Schweden :se:",4.4,-4.5,0.327070833333333,2,0
+"Mora","Schweden :se:",3.9,-6.75,0,2,0
+"Lanzarote","Spanien :es:",9.1,20.15,8.8014,2,0
+"Teneriffa","Spanien :es:",9.4,20.5,9.82934583333333,2,0
+"Gran Canaria","Spanien :es:",9.6,22.55,9.98260833333333,2,0
+"Fuerteventura","Spanien :es:",9.3,21,9.22732222222222,2,0
+"Funchal (Madeira)","Portugal :pt:",9.1,21,9.61974027777778,2,0
+"Ponta Delgada (Azoren)","Portugal :pt:",5.55,17.35,4.05748611111111,0,8.2
